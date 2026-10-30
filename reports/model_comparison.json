@@ -1,0 +1,22 @@
+{
+    "timestamp": "2026-10-19T23:11:48.511958",
+    "train_samples": 1200,
+    "test_samples": 300,
+    "models": {
+        "Baseline_LogisticRegression": {
+            "accuracy": 0.88,
+            "precision": 0.8415,
+            "recall": 0.75,
+            "f1_score": 0.7931,
+            "roc_auc": 0.8928
+        },
+        "Champion_RandomForest": {
+            "accuracy": 0.91,
+            "precision": 0.9114,
+            "recall": 0.7826,
+            "f1_score": 0.8421,
+            "roc_auc": 0.848
+        }
+    },
+    "chosen_model": "Champion_RandomForest"
+}

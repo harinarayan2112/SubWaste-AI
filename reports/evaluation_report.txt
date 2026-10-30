@@ -1,0 +1,36 @@
+============================================================
+SUBWASTE AI — HELD-OUT TEST EVALUATION REPORT
+============================================================
+
+              precision    recall  f1-score   support
+
+Utilized (0)       0.91      0.97      0.94       208
+Wasteful (1)       0.91      0.78      0.84        92
+
+    accuracy                           0.91       300
+   macro avg       0.91      0.87      0.89       300
+weighted avg       0.91      0.91      0.91       300
+
+
+Confusion Matrix:
+TN: 201 | FP: 7
+FN: 20 | TP: 72
+
+Top 5 Drivers of Subscription Waste:
+  1. hours_used_per_month: 0.1604
+  2. days_since_last_login: 0.1473
+  3. cost_per_active_day: 0.1128
+  4. usage_frequency_per_month: 0.1123
+  5. utilization_rate: 0.1046
+
+============================================================
+ERROR INTERPRETATION & LIMITATIONS:
+1. False Positives (FP): Occur when users have high inactivity on services
+   that require infrequent access (e.g. cloud backup, tax software) but which
+   the user actively values. In production, category-specific thresholds or
+   explicit user feedback should calibrate these.
+2. False Negatives (FN): Occur on borderline usage (e.g. 1 login/month for 15 min)
+   where unit cost is high but stochastic noise flipped the label.
+3. Synthetic Caveat: High benchmark scores reflect clean underlying distributions.
+   Real production deployment requires real banking/API telemetry and continuous drift monitoring.
+============================================================

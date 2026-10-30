@@ -1,0 +1,1501 @@
+subscription_id,user_id,subscription_name,category,plan_tier,monthly_fee,billing_cycle,payment_method,auto_renew,usage_frequency_per_month,hours_used_per_month,days_since_last_login,support_tickets_last_3m,number_of_profiles_or_devices,subscription_age_months
+SUB-10001,USR-4174,Adobe Creative Cloud,Productivity,Premium,84.96,Annual,Debit Card,1,1,1.8,43,0,1,1
+SUB-10002,USR-3433,Coursera Plus,Education,Basic,19.37,Monthly,Debit Card,1,26,73.4,0,0,2,14
+SUB-10003,USR-2267,Peloton Digital,Fitness,Basic,11.48,Monthly,Credit Card,0,0,0.2,81,0,1,48
+SUB-10004,USR-3253,Netflix,Streaming,Basic,10.09,Monthly,Credit Card,1,1,2.3,83,1,1,3
+SUB-10005,USR-2275,Peloton Digital,Fitness,Premium,40.96,Annual,PayPal,1,13,8.7,16,0,3,48
+SUB-10006,USR-3027,Gym Membership (Anytime/Gold),Fitness,Basic,30.68,Annual,PayPal,1,23,69.9,3,0,1,2
+SUB-10007,USR-2751,ChatGPT Plus,Productivity,Standard,19.94,Monthly,PayPal,1,1,0.0,48,0,1,18
+SUB-10008,USR-2484,Disney+,Streaming,Basic,7.98,Monthly,Credit Card,0,25,27.2,5,0,3,5
+SUB-10009,USR-3729,Duolingo Super,Education,Basic,8.84,Monthly,Debit Card,1,21,68.8,0,0,1,31
+SUB-10010,USR-3675,Duolingo Super,Education,Premium,19.32,Monthly,Debit Card,1,29,25.1,0,0,2,2
+SUB-10011,USR-3489,Adobe Creative Cloud,Productivity,Basic,21.22,Monthly,PayPal,0,0,0.1,22,0,2,5
+SUB-10012,USR-2695,Google One / Drive,Cloud Storage,Basic,1.95,Monthly,PayPal,1,10,10.4,18,0,2,7
+SUB-10013,USR-4397,Duolingo Super,Education,Premium,19.9,Monthly,Credit Card,1,23,56.5,0,1,1,7
+SUB-10014,USR-3520,Spotify,Streaming,Premium,17.31,Annual,Credit Card,1,6,19.9,17,1,3,12
+SUB-10015,USR-3056,Peloton Digital,Fitness,Basic,12.46,Annual,PayPal,1,22,62.1,2,0,2,15
+SUB-10016,USR-3200,Duolingo Super,Education,Basic,9.05,Monthly,Debit Card,0,28,34.5,2,0,3,3
+SUB-10017,USR-4104,Coursera Plus,Education,Standard,39.35,Monthly,Credit Card,0,0,0.9,49,0,1,10
+SUB-10018,USR-1815,Disney+,Streaming,Standard,14.68,Annual,Credit Card,1,1,2.4,67,1,1,5
+SUB-10019,USR-1190,Duolingo Super,Education,Standard,12.56,Annual,Credit Card,1,12,5.1,5,0,3,39
+SUB-10020,USR-1154,Xbox Game Pass,Gaming,Premium,22.53,Annual,Debit Card,1,2,2.2,34,0,2,5
+SUB-10021,USR-1019,Netflix,Streaming,Basic,10.46,Monthly,Credit Card,1,29,17.2,1,0,2,13
+SUB-10022,USR-4413,Netflix,Streaming,Basic,9.69,Annual,Credit Card,1,19,42.4,3,0,2,21
+SUB-10023,USR-3983,Adobe Creative Cloud,Productivity,Basic,20.99,Annual,PayPal,1,0,0.5,83,0,1,8
+SUB-10024,USR-2081,Xbox Game Pass,Gaming,Basic,12.15,Monthly,Debit Card,1,1,1.4,43,0,2,5
+SUB-10025,USR-1996,Google One / Drive,Cloud Storage,Basic,1.91,Monthly,Credit Card,1,14,16.2,8,0,1,18
+SUB-10026,USR-3070,Xbox Game Pass,Gaming,Standard,16.78,Monthly,Credit Card,1,1,0.4,45,1,1,10
+SUB-10027,USR-3207,PlayStation Plus,Gaming,Premium,20.93,Monthly,Debit Card,1,5,19.4,13,0,1,25
+SUB-10028,USR-4373,Spotify,Streaming,Basic,6.7,Monthly,Credit Card,1,17,31.9,0,0,2,17
+SUB-10029,USR-4491,Peloton Digital,Fitness,Premium,41.82,Monthly,Credit Card,1,16,30.0,1,1,2,60
+SUB-10030,USR-2548,iCloud Storage,Cloud Storage,Standard,10.0,Monthly,Auto-Debit,1,0,0.0,40,0,1,6
+SUB-10031,USR-4455,Adobe Creative Cloud,Productivity,Standard,53.85,Monthly,Credit Card,1,1,2.0,74,0,2,16
+SUB-10032,USR-2156,Disney+,Streaming,Premium,18.21,Monthly,Credit Card,1,21,40.6,0,0,3,14
+SUB-10033,USR-3076,ChatGPT Plus,Productivity,Basic,10.38,Monthly,PayPal,1,8,10.0,18,0,1,34
+SUB-10034,USR-1713,Xbox Game Pass,Gaming,Basic,11.78,Monthly,Credit Card,1,2,1.9,24,0,1,19
+SUB-10035,USR-4440,Peloton Digital,Fitness,Premium,38.81,Monthly,Auto-Debit,0,0,2.5,57,0,1,1
+SUB-10036,USR-2256,Netflix,Streaming,Standard,15.62,Monthly,Debit Card,0,22,38.7,0,0,1,1
+SUB-10037,USR-3745,Coursera Plus,Education,Standard,40.9,Monthly,Auto-Debit,1,18,51.2,0,0,1,11
+SUB-10038,USR-3930,ChatGPT Plus,Productivity,Standard,20.73,Monthly,Auto-Debit,1,15,43.8,8,0,3,1
+SUB-10039,USR-3874,PlayStation Plus,Gaming,Standard,14.44,Monthly,Credit Card,1,9,20.0,9,1,2,2
+SUB-10040,USR-1713,Xbox Game Pass,Gaming,Standard,16.57,Monthly,Credit Card,1,1,0.1,60,0,1,4
+SUB-10041,USR-4377,Coursera Plus,Education,Premium,60.21,Annual,Credit Card,1,19,0.0,2,0,1,10
+SUB-10042,USR-3853,Spotify,Streaming,Standard,11.43,Monthly,Credit Card,1,0,1.6,72,0,1,11
+SUB-10043,USR-4472,Xbox Game Pass,Gaming,Standard,17.2,Monthly,Credit Card,1,15,5.2,12,0,2,4
+SUB-10044,USR-2935,Gym Membership (Anytime/Gold),Fitness,Basic,31.12,Monthly,Credit Card,1,7,4.7,8,0,1,51
+SUB-10045,USR-3885,Netflix,Streaming,Standard,14.91,Monthly,PayPal,1,29,52.7,0,1,4,6
+SUB-10046,USR-2049,Adobe Creative Cloud,Productivity,Premium,85.43,Annual,Credit Card,1,11,12.5,5,0,1,10
+SUB-10047,USR-2030,Disney+,Streaming,Premium,18.14,Monthly,Debit Card,1,23,59.2,0,0,3,11
+SUB-10048,USR-1125,Coursera Plus,Education,Basic,19.22,Monthly,Debit Card,1,10,13.4,11,0,2,10
+SUB-10049,USR-3660,Google One / Drive,Cloud Storage,Premium,24.97,Monthly,Credit Card,1,19,24.2,0,0,1,38
+SUB-10050,USR-2630,Gym Membership (Anytime/Gold),Fitness,Premium,89.18,Monthly,Debit Card,0,26,70.0,0,2,2,2
+SUB-10051,USR-3621,Peloton Digital,Fitness,Standard,24.81,Monthly,Debit Card,1,0,1.8,33,0,1,49
+SUB-10052,USR-2828,Microsoft 365,Productivity,Basic,6.82,Monthly,Debit Card,1,26,0.0,2,0,1,3
+SUB-10053,USR-3824,PlayStation Plus,Gaming,Standard,14.4,Monthly,PayPal,1,19,58.9,5,0,1,20
+SUB-10054,USR-3965,Coursera Plus,Education,Premium,56.75,Monthly,PayPal,1,1,1.3,25,0,1,3
+SUB-10055,USR-2863,iCloud Storage,Cloud Storage,Standard,10.03,Annual,Debit Card,1,29,38.0,1,1,2,13
+SUB-10056,USR-2669,Disney+,Streaming,Standard,14.4,Monthly,Credit Card,1,1,0.4,48,0,2,11
+SUB-10057,USR-1516,PlayStation Plus,Gaming,Standard,14.81,Monthly,Debit Card,1,12,0.0,18,0,2,13
+SUB-10058,USR-3674,Disney+,Streaming,Standard,14.45,Annual,Debit Card,0,21,42.7,5,0,2,6
+SUB-10059,USR-1984,Netflix,Streaming,Basic,10.13,Annual,Auto-Debit,1,0,1.4,30,0,1,36
+SUB-10060,USR-3826,iCloud Storage,Cloud Storage,Basic,2.9,Monthly,Credit Card,1,17,50.5,1,0,2,6
+SUB-10061,USR-1116,Xbox Game Pass,Gaming,Basic,12.39,Monthly,Debit Card,1,0,0.6,72,0,1,6
+SUB-10062,USR-2879,Netflix,Streaming,Standard,14.74,Monthly,Debit Card,1,0,1.0,84,1,1,3
+SUB-10063,USR-4212,Microsoft 365,Productivity,Standard,12.61,Monthly,PayPal,1,12,13.4,4,0,2,1
+SUB-10064,USR-1987,Netflix,Streaming,Standard,15.0,Monthly,Credit Card,1,24,68.8,1,1,4,41
+SUB-10065,USR-4462,Duolingo Super,Education,Standard,12.6,Monthly,Credit Card,1,19,25.7,2,0,1,13
+SUB-10066,USR-4149,Gym Membership (Anytime/Gold),Fitness,Premium,86.75,Annual,Auto-Debit,1,24,20.1,0,0,1,6
+SUB-10067,USR-3747,Spotify,Streaming,Premium,16.62,Annual,Credit Card,1,19,35.7,2,0,3,13
+SUB-10068,USR-3901,Coursera Plus,Education,Basic,20.27,Annual,Debit Card,1,28,59.5,2,0,1,8
+SUB-10069,USR-3541,Adobe Creative Cloud,Productivity,Basic,22.4,Annual,Debit Card,1,0,0.2,58,0,1,11
+SUB-10070,USR-1341,ChatGPT Plus,Productivity,Basic,9.75,Monthly,PayPal,1,5,10.7,15,0,2,10
+SUB-10071,USR-2845,PlayStation Plus,Gaming,Basic,9.32,Monthly,PayPal,1,1,1.5,75,0,1,9
+SUB-10072,USR-3116,Gym Membership (Anytime/Gold),Fitness,Basic,30.28,Monthly,Credit Card,1,6,14.0,5,0,1,10
+SUB-10073,USR-2240,Duolingo Super,Education,Standard,13.4,Monthly,Credit Card,1,16,21.2,0,1,4,17
+SUB-10074,USR-2520,Coursera Plus,Education,Standard,40.2,Annual,PayPal,1,0,1.2,36,0,2,17
+SUB-10075,USR-4359,Xbox Game Pass,Gaming,Standard,16.94,Annual,Debit Card,1,0,0.3,80,1,1,2
+SUB-10076,USR-1934,Disney+,Streaming,Basic,8.05,Annual,Credit Card,1,19,46.8,1,0,2,2
+SUB-10077,USR-2372,Google One / Drive,Cloud Storage,Basic,2.02,Monthly,PayPal,1,0,2.2,34,0,1,1
+SUB-10078,USR-1813,Adobe Creative Cloud,Productivity,Basic,21.95,Monthly,Credit Card,1,28,40.1,1,0,1,5
+SUB-10079,USR-2165,Gym Membership (Anytime/Gold),Fitness,Basic,28.62,Monthly,Credit Card,1,15,38.5,0,2,3,60
+SUB-10080,USR-4451,Google One / Drive,Cloud Storage,Premium,25.98,Annual,Debit Card,0,22,71.6,2,0,2,20
+SUB-10081,USR-1225,Peloton Digital,Fitness,Basic,11.82,Monthly,PayPal,1,2,2.5,82,0,1,49
+SUB-10082,USR-4216,Gym Membership (Anytime/Gold),Fitness,Premium,92.21,Monthly,Debit Card,1,0,1.0,50,0,1,32
+SUB-10083,USR-1520,Gym Membership (Anytime/Gold),Fitness,Premium,87.76,Annual,Credit Card,1,16,19.9,0,0,1,17
+SUB-10084,USR-4111,Duolingo Super,Education,Standard,12.79,Monthly,PayPal,1,20,46.3,4,0,1,12
+SUB-10085,USR-3828,PlayStation Plus,Gaming,Basic,9.94,Annual,Credit Card,1,0,2.2,63,0,1,30
+SUB-10086,USR-3129,Adobe Creative Cloud,Productivity,Standard,53.3,Annual,Credit Card,1,12,8.2,15,0,2,6
+SUB-10087,USR-3514,Microsoft 365,Productivity,Basic,7.07,Monthly,PayPal,1,0,1.9,89,0,1,20
+SUB-10088,USR-1885,Netflix,Streaming,Basic,10.56,Monthly,PayPal,1,8,16.1,10,0,2,9
+SUB-10089,USR-3994,PlayStation Plus,Gaming,Standard,15.74,Monthly,Credit Card,1,21,64.6,0,1,3,9
+SUB-10090,USR-2562,Disney+,Streaming,Premium,19.72,Monthly,Credit Card,1,23,41.5,0,0,3,15
+SUB-10091,USR-4234,Netflix,Streaming,Standard,15.45,Monthly,PayPal,0,1,1.9,67,0,2,3
+SUB-10092,USR-2963,ChatGPT Plus,Productivity,Premium,29.89,Annual,Credit Card,1,8,10.9,9,0,1,13
+SUB-10093,USR-3548,ChatGPT Plus,Productivity,Standard,19.3,Monthly,Auto-Debit,1,29,51.0,0,0,3,16
+SUB-10094,USR-2415,PlayStation Plus,Gaming,Standard,15.72,Monthly,Credit Card,1,8,9.5,11,0,1,10
+SUB-10095,USR-3848,Peloton Digital,Fitness,Standard,23.75,Monthly,Credit Card,1,6,17.1,13,0,1,12
+SUB-10096,USR-2986,PlayStation Plus,Gaming,Basic,9.78,Annual,Credit Card,1,2,0.8,28,0,1,29
+SUB-10097,USR-1021,Xbox Game Pass,Gaming,Standard,16.89,Monthly,Credit Card,1,13,17.9,13,0,2,13
+SUB-10098,USR-3356,iCloud Storage,Cloud Storage,Basic,3.04,Monthly,Credit Card,1,14,10.5,16,0,1,11
+SUB-10099,USR-2355,Netflix,Streaming,Premium,22.75,Annual,PayPal,1,0,2.2,57,0,1,7
+SUB-10100,USR-3382,Spotify,Streaming,Standard,10.75,Monthly,Auto-Debit,1,9,15.7,6,0,2,7
+SUB-10101,USR-4369,Coursera Plus,Education,Standard,37.32,Monthly,Credit Card,1,28,45.9,0,0,1,2
+SUB-10102,USR-3040,Coursera Plus,Education,Basic,20.03,Monthly,Credit Card,1,15,18.1,9,0,2,50
+SUB-10103,USR-1861,Peloton Digital,Fitness,Standard,24.5,Monthly,Debit Card,1,19,36.4,1,1,3,3
+SUB-10104,USR-2390,Google One / Drive,Cloud Storage,Basic,1.91,Monthly,Credit Card,1,21,28.5,0,0,1,39
+SUB-10105,USR-2035,Xbox Game Pass,Gaming,Standard,16.17,Monthly,Debit Card,1,12,12.2,5,0,2,51
+SUB-10106,USR-2661,Duolingo Super,Education,Basic,8.79,Annual,PayPal,1,20,67.1,0,0,3,19
+SUB-10107,USR-2993,Microsoft 365,Productivity,Standard,13.08,Monthly,PayPal,1,5,13.6,18,0,1,38
+SUB-10108,USR-4291,Spotify,Streaming,Premium,16.88,Monthly,Auto-Debit,1,13,5.7,5,0,1,22
+SUB-10109,USR-3444,Peloton Digital,Fitness,Basic,11.76,Annual,Credit Card,1,14,10.3,8,0,2,6
+SUB-10110,USR-1735,Netflix,Streaming,Standard,14.98,Monthly,Debit Card,1,9,17.8,19,1,3,20
+SUB-10111,USR-1664,Coursera Plus,Education,Basic,19.45,Monthly,Credit Card,1,1,1.3,42,0,2,12
+SUB-10112,USR-2147,Peloton Digital,Fitness,Standard,23.95,Monthly,Credit Card,1,9,8.6,14,1,2,3
+SUB-10113,USR-1105,Adobe Creative Cloud,Productivity,Standard,56.77,Monthly,Auto-Debit,1,1,0.5,84,0,1,2
+SUB-10114,USR-1035,Adobe Creative Cloud,Productivity,Standard,52.48,Annual,Debit Card,1,10,12.2,15,0,1,43
+SUB-10115,USR-3425,Peloton Digital,Fitness,Premium,39.73,Annual,Credit Card,1,0,1.7,39,0,2,5
+SUB-10116,USR-1580,Netflix,Streaming,Standard,14.86,Annual,Credit Card,1,15,7.7,17,0,1,15
+SUB-10117,USR-2343,Disney+,Streaming,Standard,13.91,Monthly,Credit Card,1,28,21.2,2,0,2,1
+SUB-10118,USR-1743,ChatGPT Plus,Productivity,Premium,29.18,Monthly,Credit Card,1,6,14.7,15,0,2,2
+SUB-10119,USR-2585,Disney+,Streaming,Standard,14.23,Monthly,Credit Card,0,6,11.1,7,0,2,16
+SUB-10120,USR-2868,Duolingo Super,Education,Standard,12.47,Monthly,Debit Card,1,26,73.9,1,0,1,20
+SUB-10121,USR-1629,ChatGPT Plus,Productivity,Standard,20.34,Annual,Credit Card,1,2,1.5,59,0,2,5
+SUB-10122,USR-2686,Spotify,Streaming,Basic,6.42,Monthly,Credit Card,1,24,51.0,1,1,2,25
+SUB-10123,USR-4172,Adobe Creative Cloud,Productivity,Basic,22.69,Annual,Credit Card,1,2,0.0,73,0,1,30
+SUB-10124,USR-3906,Spotify,Streaming,Basic,6.88,Annual,Debit Card,1,29,44.2,1,1,1,10
+SUB-10125,USR-2960,Google One / Drive,Cloud Storage,Basic,1.9,Monthly,Credit Card,1,8,0.0,15,1,1,47
+SUB-10126,USR-4201,Coursera Plus,Education,Standard,37.8,Monthly,Debit Card,1,1,0.7,30,0,2,10
+SUB-10127,USR-1882,iCloud Storage,Cloud Storage,Standard,10.49,Monthly,Debit Card,1,18,54.3,3,0,3,14
+SUB-10128,USR-1767,Duolingo Super,Education,Standard,12.57,Monthly,Debit Card,1,28,43.9,0,0,3,47
+SUB-10129,USR-2446,ChatGPT Plus,Productivity,Basic,10.48,Monthly,Credit Card,1,7,8.3,14,0,2,45
+SUB-10130,USR-3557,Adobe Creative Cloud,Productivity,Premium,90.72,Monthly,Debit Card,1,24,68.5,6,1,2,28
+SUB-10131,USR-1571,Duolingo Super,Education,Basic,9.35,Annual,Credit Card,1,20,53.2,1,0,2,10
+SUB-10132,USR-2439,Coursera Plus,Education,Standard,37.38,Monthly,Credit Card,1,22,17.1,1,0,2,2
+SUB-10133,USR-1435,Disney+,Streaming,Standard,13.43,Monthly,Credit Card,1,20,20.0,1,1,3,21
+SUB-10134,USR-3376,Spotify,Streaming,Standard,10.73,Monthly,Credit Card,1,6,9.2,7,0,3,46
+SUB-10135,USR-2716,Coursera Plus,Education,Basic,19.69,Monthly,Credit Card,1,14,13.8,9,0,3,7
+SUB-10136,USR-1685,Netflix,Streaming,Standard,16.05,Monthly,PayPal,1,27,28.3,7,0,2,36
+SUB-10137,USR-2759,PlayStation Plus,Gaming,Basic,9.78,Annual,Credit Card,1,8,17.1,18,0,1,2
+SUB-10138,USR-3325,PlayStation Plus,Gaming,Standard,14.4,Annual,Debit Card,1,13,16.2,18,0,2,2
+SUB-10139,USR-2899,ChatGPT Plus,Productivity,Premium,31.14,Monthly,Credit Card,1,2,1.5,87,0,1,6
+SUB-10140,USR-3645,Xbox Game Pass,Gaming,Standard,16.48,Monthly,PayPal,0,17,65.5,1,0,1,7
+SUB-10141,USR-2155,Adobe Creative Cloud,Productivity,Standard,55.89,Monthly,Credit Card,1,28,36.3,3,0,2,3
+SUB-10142,USR-1525,Disney+,Streaming,Basic,8.02,Monthly,Debit Card,1,0,2.1,70,0,2,16
+SUB-10143,USR-2099,Microsoft 365,Productivity,Premium,22.13,Monthly,PayPal,1,0,0.9,68,1,1,2
+SUB-10144,USR-3448,Google One / Drive,Cloud Storage,Standard,9.9,Annual,Credit Card,1,9,7.0,16,2,1,7
+SUB-10145,USR-2885,Microsoft 365,Productivity,Standard,13.36,Monthly,Auto-Debit,1,19,65.5,0,1,2,27
+SUB-10146,USR-2625,Adobe Creative Cloud,Productivity,Basic,22.61,Annual,Auto-Debit,1,26,23.1,2,0,4,1
+SUB-10147,USR-1875,Xbox Game Pass,Gaming,Basic,12.38,Monthly,Credit Card,1,0,1.9,65,0,1,5
+SUB-10148,USR-3297,PlayStation Plus,Gaming,Basic,9.59,Monthly,Credit Card,0,8,6.0,19,1,1,1
+SUB-10149,USR-1895,Microsoft 365,Productivity,Standard,13.19,Annual,Credit Card,1,13,19.2,15,0,1,12
+SUB-10150,USR-1894,Xbox Game Pass,Gaming,Basic,12.46,Monthly,Debit Card,1,11,15.3,4,0,1,8
+SUB-10151,USR-3889,ChatGPT Plus,Productivity,Basic,9.6,Monthly,Credit Card,1,0,2.0,59,0,1,9
+SUB-10152,USR-2854,Netflix,Streaming,Basic,9.9,Monthly,Credit Card,1,19,54.6,0,0,4,11
+SUB-10153,USR-4097,Netflix,Streaming,Basic,10.48,Monthly,Debit Card,1,18,42.1,1,0,2,10
+SUB-10154,USR-3315,Xbox Game Pass,Gaming,Basic,11.63,Monthly,PayPal,1,28,47.0,0,0,3,15
+SUB-10155,USR-3434,Duolingo Super,Education,Premium,18.78,Monthly,Auto-Debit,1,1,0.4,25,0,1,3
+SUB-10156,USR-3696,Coursera Plus,Education,Standard,38.94,Monthly,Auto-Debit,1,26,67.9,1,0,1,19
+SUB-10157,USR-3400,Adobe Creative Cloud,Productivity,Standard,56.26,Annual,Credit Card,1,0,1.8,65,1,1,28
+SUB-10158,USR-3504,ChatGPT Plus,Productivity,Basic,10.03,Annual,PayPal,1,15,29.4,0,0,2,2
+SUB-10159,USR-4000,iCloud Storage,Cloud Storage,Standard,9.96,Monthly,PayPal,0,16,34.5,2,0,1,15
+SUB-10160,USR-1123,Netflix,Streaming,Premium,23.37,Monthly,Debit Card,1,17,60.8,1,1,4,6
+SUB-10161,USR-1392,Disney+,Streaming,Basic,8.27,Annual,Debit Card,1,28,42.6,3,0,2,3
+SUB-10162,USR-2530,Adobe Creative Cloud,Productivity,Basic,23.02,Monthly,Credit Card,1,2,1.7,49,0,1,18
+SUB-10163,USR-3810,Coursera Plus,Education,Premium,56.23,Monthly,PayPal,1,28,17.8,1,0,3,11
+SUB-10164,USR-4048,PlayStation Plus,Gaming,Standard,15.56,Monthly,Credit Card,1,22,26.1,0,0,3,6
+SUB-10165,USR-2058,PlayStation Plus,Gaming,Premium,20.79,Annual,Debit Card,1,27,46.5,0,1,1,13
+SUB-10166,USR-2031,Duolingo Super,Education,Standard,12.94,Monthly,Auto-Debit,1,20,51.4,1,0,3,6
+SUB-10167,USR-2478,Coursera Plus,Education,Basic,19.8,Monthly,Debit Card,0,0,1.6,27,0,2,13
+SUB-10168,USR-1261,Xbox Game Pass,Gaming,Premium,21.98,Monthly,Debit Card,1,8,7.3,16,0,3,14
+SUB-10169,USR-2159,PlayStation Plus,Gaming,Premium,21.6,Monthly,Debit Card,1,23,38.8,0,0,1,8
+SUB-10170,USR-1182,Peloton Digital,Fitness,Basic,11.94,Monthly,Credit Card,0,17,39.7,4,0,2,3
+SUB-10171,USR-4372,Xbox Game Pass,Gaming,Premium,22.39,Annual,Credit Card,1,29,67.3,0,0,3,5
+SUB-10172,USR-3532,Disney+,Streaming,Standard,13.86,Monthly,Auto-Debit,1,27,55.7,0,0,1,20
+SUB-10173,USR-4189,Peloton Digital,Fitness,Standard,23.09,Annual,PayPal,0,12,17.1,12,0,1,1
+SUB-10174,USR-2998,Xbox Game Pass,Gaming,Premium,22.01,Annual,Credit Card,1,25,40.8,2,0,2,1
+SUB-10175,USR-4259,Coursera Plus,Education,Standard,40.62,Annual,PayPal,1,14,9.9,9,0,2,6
+SUB-10176,USR-3487,Coursera Plus,Education,Standard,38.4,Monthly,PayPal,1,7,9.4,18,0,2,1
+SUB-10177,USR-1575,ChatGPT Plus,Productivity,Standard,20.12,Annual,Debit Card,1,0,2.4,88,1,1,3
+SUB-10178,USR-3037,PlayStation Plus,Gaming,Standard,15.37,Monthly,Credit Card,1,0,2.4,56,0,1,5
+SUB-10179,USR-3416,Duolingo Super,Education,Basic,8.99,Annual,Credit Card,1,15,46.9,0,0,3,11
+SUB-10180,USR-2377,Duolingo Super,Education,Basic,8.88,Monthly,Credit Card,0,26,50.0,8,0,3,12
+SUB-10181,USR-3556,Netflix,Streaming,Standard,15.94,Monthly,Credit Card,1,19,43.5,1,0,4,19
+SUB-10182,USR-1266,Google One / Drive,Cloud Storage,Standard,10.28,Annual,Credit Card,1,28,17.1,6,1,2,23
+SUB-10183,USR-3867,Google One / Drive,Cloud Storage,Standard,9.69,Monthly,Credit Card,1,13,9.8,4,1,3,7
+SUB-10184,USR-2970,Adobe Creative Cloud,Productivity,Premium,84.11,Monthly,Auto-Debit,1,22,18.7,4,0,2,15
+SUB-10185,USR-3334,iCloud Storage,Cloud Storage,Basic,3.06,Monthly,Debit Card,1,26,0.0,0,0,4,3
+SUB-10186,USR-1018,Spotify,Streaming,Standard,10.46,Annual,Credit Card,1,0,1.9,26,0,1,26
+SUB-10187,USR-1546,Spotify,Streaming,Basic,6.45,Monthly,PayPal,1,22,21.7,3,1,1,1
+SUB-10188,USR-2146,Google One / Drive,Cloud Storage,Basic,2.06,Monthly,Debit Card,1,27,55.0,0,1,2,1
+SUB-10189,USR-1631,Microsoft 365,Productivity,Basic,7.39,Monthly,Debit Card,1,17,36.5,2,0,3,4
+SUB-10190,USR-2469,Xbox Game Pass,Gaming,Standard,17.3,Monthly,Credit Card,1,2,1.4,84,0,1,18
+SUB-10191,USR-2035,iCloud Storage,Cloud Storage,Basic,3.06,Annual,PayPal,1,15,45.7,0,0,3,8
+SUB-10192,USR-1817,Gym Membership (Anytime/Gold),Fitness,Basic,29.44,Monthly,PayPal,1,25,67.0,1,1,4,7
+SUB-10193,USR-1197,Gym Membership (Anytime/Gold),Fitness,Premium,89.93,Monthly,Debit Card,1,0,0.4,42,0,2,15
+SUB-10194,USR-1522,Netflix,Streaming,Standard,15.45,Annual,Credit Card,1,20,72.4,1,0,2,60
+SUB-10195,USR-2997,Disney+,Streaming,Standard,13.87,Monthly,PayPal,1,23,67.2,2,0,3,27
+SUB-10196,USR-2772,Spotify,Streaming,Standard,11.25,Annual,Credit Card,0,10,7.2,7,0,1,1
+SUB-10197,USR-3096,Google One / Drive,Cloud Storage,Standard,10.18,Monthly,Credit Card,1,1,2.4,56,0,1,34
+SUB-10198,USR-4253,Adobe Creative Cloud,Productivity,Basic,22.04,Monthly,Auto-Debit,1,1,1.3,79,0,1,6
+SUB-10199,USR-3222,Microsoft 365,Productivity,Standard,12.77,Monthly,Credit Card,1,23,37.3,0,0,2,19
+SUB-10200,USR-3670,Disney+,Streaming,Basic,8.2,Annual,PayPal,1,17,57.6,5,0,2,8
+SUB-10201,USR-2241,Adobe Creative Cloud,Productivity,Premium,92.31,Annual,PayPal,1,23,27.3,2,0,3,47
+SUB-10202,USR-3554,Duolingo Super,Education,Basic,9.46,Annual,Debit Card,1,2,0.8,75,0,1,15
+SUB-10203,USR-4313,Xbox Game Pass,Gaming,Basic,11.83,Monthly,Debit Card,1,14,14.9,8,0,3,45
+SUB-10204,USR-3761,Microsoft 365,Productivity,Standard,12.92,Monthly,Credit Card,1,3,2.0,32,0,1,1
+SUB-10205,USR-1579,Disney+,Streaming,Standard,14.02,Monthly,Auto-Debit,1,0,0.5,47,0,1,9
+SUB-10206,USR-3172,Spotify,Streaming,Standard,11.5,Monthly,Auto-Debit,1,0,0.6,64,0,2,27
+SUB-10207,USR-2877,Duolingo Super,Education,Standard,12.8,Monthly,Credit Card,0,12,16.9,11,1,2,4
+SUB-10208,USR-3660,PlayStation Plus,Gaming,Basic,9.37,Monthly,Debit Card,1,3,0.1,88,0,1,8
+SUB-10209,USR-4430,PlayStation Plus,Gaming,Basic,9.63,Monthly,Auto-Debit,1,2,2.2,41,0,1,8
+SUB-10210,USR-1104,ChatGPT Plus,Productivity,Basic,9.78,Monthly,PayPal,0,17,40.7,0,1,1,13
+SUB-10211,USR-3038,iCloud Storage,Cloud Storage,Premium,30.94,Monthly,PayPal,0,22,26.2,0,1,1,12
+SUB-10212,USR-3883,Xbox Game Pass,Gaming,Premium,22.77,Monthly,Credit Card,1,12,9.6,7,0,3,6
+SUB-10213,USR-4319,Adobe Creative Cloud,Productivity,Standard,56.45,Monthly,Credit Card,1,9,15.6,11,0,1,8
+SUB-10214,USR-2538,Disney+,Streaming,Basic,8.16,Monthly,Credit Card,1,1,2.2,46,0,2,8
+SUB-10215,USR-1495,PlayStation Plus,Gaming,Premium,22.31,Monthly,Credit Card,1,21,47.7,2,0,3,3
+SUB-10216,USR-1009,Google One / Drive,Cloud Storage,Basic,2.04,Monthly,Credit Card,1,13,6.8,4,1,2,2
+SUB-10217,USR-4167,iCloud Storage,Cloud Storage,Standard,10.22,Annual,Debit Card,1,0,0.9,27,0,2,5
+SUB-10218,USR-1560,Coursera Plus,Education,Standard,38.27,Monthly,Debit Card,1,18,38.1,0,1,1,10
+SUB-10219,USR-2293,Spotify,Streaming,Standard,11.34,Monthly,PayPal,1,15,33.5,1,0,4,48
+SUB-10220,USR-1658,Coursera Plus,Education,Basic,19.85,Annual,PayPal,1,0,0.2,77,1,1,6
+SUB-10221,USR-4250,Spotify,Streaming,Basic,6.28,Monthly,Credit Card,1,20,35.0,2,0,1,3
+SUB-10222,USR-2341,Spotify,Streaming,Standard,10.5,Monthly,Credit Card,1,10,15.7,10,0,2,41
+SUB-10223,USR-1759,Adobe Creative Cloud,Productivity,Basic,23.05,Monthly,Credit Card,1,20,47.9,7,0,1,11
+SUB-10224,USR-2968,PlayStation Plus,Gaming,Standard,15.02,Monthly,Debit Card,1,10,19.5,14,0,1,14
+SUB-10225,USR-3067,PlayStation Plus,Gaming,Standard,14.38,Monthly,Debit Card,1,0,1.4,69,0,1,15
+SUB-10226,USR-3305,Duolingo Super,Education,Basic,9.2,Monthly,Credit Card,1,22,0.0,2,0,2,40
+SUB-10227,USR-2091,iCloud Storage,Cloud Storage,Basic,2.97,Monthly,Auto-Debit,1,10,5.6,5,0,1,3
+SUB-10228,USR-2364,Peloton Digital,Fitness,Standard,24.54,Monthly,Credit Card,1,13,14.7,5,0,1,13
+SUB-10229,USR-1150,Adobe Creative Cloud,Productivity,Basic,21.49,Monthly,Credit Card,1,7,7.4,4,0,1,1
+SUB-10230,USR-2673,Spotify,Streaming,Premium,17.11,Annual,Auto-Debit,1,1,1.3,72,0,1,14
+SUB-10231,USR-1294,Netflix,Streaming,Premium,21.86,Annual,PayPal,1,1,2.1,61,0,1,8
+SUB-10232,USR-3139,Spotify,Streaming,Premium,16.22,Monthly,Credit Card,1,20,0.0,0,0,3,10
+SUB-10233,USR-1120,Netflix,Streaming,Premium,23.58,Monthly,Debit Card,0,2,1.1,89,0,1,20
+SUB-10234,USR-3359,Xbox Game Pass,Gaming,Standard,17.55,Monthly,Credit Card,1,3,0.8,70,0,1,6
+SUB-10235,USR-2236,Duolingo Super,Education,Standard,12.59,Monthly,Debit Card,1,2,1.9,78,0,2,16
+SUB-10236,USR-3700,Microsoft 365,Productivity,Standard,13.3,Monthly,Credit Card,1,0,1.4,51,0,2,11
+SUB-10237,USR-4021,Xbox Game Pass,Gaming,Standard,17.02,Monthly,Credit Card,1,20,31.1,0,0,2,4
+SUB-10238,USR-1136,Netflix,Streaming,Standard,15.8,Monthly,Debit Card,1,20,49.5,0,1,3,10
+SUB-10239,USR-4388,Duolingo Super,Education,Standard,12.49,Annual,Debit Card,1,3,1.9,83,0,2,16
+SUB-10240,USR-4278,Duolingo Super,Education,Standard,12.35,Monthly,Credit Card,1,2,2.1,72,0,1,11
+SUB-10241,USR-1658,Spotify,Streaming,Standard,10.89,Monthly,Credit Card,1,16,19.0,4,0,2,1
+SUB-10242,USR-1731,Adobe Creative Cloud,Productivity,Standard,56.66,Monthly,Credit Card,1,7,7.5,9,0,2,60
+SUB-10243,USR-1643,PlayStation Plus,Gaming,Standard,15.63,Monthly,Credit Card,1,0,1.6,82,0,2,25
+SUB-10244,USR-4272,Xbox Game Pass,Gaming,Standard,17.29,Monthly,Credit Card,1,26,59.5,0,0,3,1
+SUB-10245,USR-3448,iCloud Storage,Cloud Storage,Standard,10.34,Monthly,PayPal,1,27,58.0,0,0,2,20
+SUB-10246,USR-1954,Spotify,Streaming,Standard,10.65,Annual,Debit Card,1,24,42.0,6,0,2,17
+SUB-10247,USR-1194,Google One / Drive,Cloud Storage,Standard,10.32,Monthly,Debit Card,1,11,8.2,10,0,2,5
+SUB-10248,USR-3934,Google One / Drive,Cloud Storage,Standard,9.64,Annual,PayPal,1,27,67.8,0,0,1,9
+SUB-10249,USR-3949,Peloton Digital,Fitness,Premium,42.44,Annual,Credit Card,0,0,1.4,59,0,1,25
+SUB-10250,USR-3846,PlayStation Plus,Gaming,Premium,21.17,Annual,Auto-Debit,1,18,68.5,3,0,1,8
+SUB-10251,USR-3548,Disney+,Streaming,Basic,8.14,Monthly,Auto-Debit,1,14,13.0,19,0,2,2
+SUB-10252,USR-1067,Duolingo Super,Education,Standard,12.52,Annual,Debit Card,1,0,0.9,49,0,2,12
+SUB-10253,USR-3827,Spotify,Streaming,Standard,11.09,Annual,PayPal,1,11,17.8,11,1,1,9
+SUB-10254,USR-2448,PlayStation Plus,Gaming,Standard,14.47,Monthly,Credit Card,1,26,17.5,1,0,4,13
+SUB-10255,USR-1433,Netflix,Streaming,Standard,15.96,Monthly,PayPal,0,6,13.2,9,0,1,11
+SUB-10256,USR-3923,Gym Membership (Anytime/Gold),Fitness,Standard,48.64,Annual,Credit Card,0,28,54.5,0,1,3,14
+SUB-10257,USR-2204,iCloud Storage,Cloud Storage,Basic,2.86,Annual,Auto-Debit,0,0,2.1,41,0,1,14
+SUB-10258,USR-4135,Xbox Game Pass,Gaming,Premium,21.14,Monthly,Credit Card,1,10,19.1,19,0,1,4
+SUB-10259,USR-3040,Gym Membership (Anytime/Gold),Fitness,Basic,29.12,Monthly,Credit Card,1,24,30.4,0,0,1,4
+SUB-10260,USR-4157,Adobe Creative Cloud,Productivity,Basic,21.24,Monthly,PayPal,1,26,52.0,0,0,3,10
+SUB-10261,USR-2943,Disney+,Streaming,Basic,7.93,Monthly,PayPal,0,0,0.9,43,0,1,8
+SUB-10262,USR-1935,Netflix,Streaming,Premium,23.7,Monthly,Debit Card,0,25,46.4,1,0,2,31
+SUB-10263,USR-3491,iCloud Storage,Cloud Storage,Basic,3.06,Annual,Credit Card,1,2,2.0,27,0,1,11
+SUB-10264,USR-2630,Google One / Drive,Cloud Storage,Basic,2.03,Monthly,Credit Card,1,28,66.3,1,0,4,12
+SUB-10265,USR-3469,Gym Membership (Anytime/Gold),Fitness,Standard,48.75,Monthly,PayPal,0,25,65.7,3,0,3,32
+SUB-10266,USR-1765,ChatGPT Plus,Productivity,Premium,28.5,Monthly,Credit Card,1,5,6.4,4,0,1,23
+SUB-10267,USR-2351,Spotify,Streaming,Premium,17.76,Annual,Debit Card,1,26,60.6,0,0,2,13
+SUB-10268,USR-1870,Duolingo Super,Education,Standard,12.56,Monthly,PayPal,1,22,28.6,2,0,3,4
+SUB-10269,USR-3431,Adobe Creative Cloud,Productivity,Basic,23.09,Annual,Auto-Debit,1,29,42.9,2,1,1,20
+SUB-10270,USR-2291,Netflix,Streaming,Standard,15.6,Monthly,Credit Card,1,9,13.1,10,1,1,4
+SUB-10271,USR-1492,Disney+,Streaming,Standard,13.77,Annual,Credit Card,1,7,14.2,14,0,2,46
+SUB-10272,USR-2573,iCloud Storage,Cloud Storage,Standard,10.4,Monthly,Credit Card,1,5,15.3,10,0,2,9
+SUB-10273,USR-2773,Gym Membership (Anytime/Gold),Fitness,Basic,31.47,Annual,Credit Card,1,0,0.5,48,0,2,59
+SUB-10274,USR-3519,iCloud Storage,Cloud Storage,Premium,29.21,Monthly,Debit Card,1,1,1.4,88,0,2,16
+SUB-10275,USR-4184,Disney+,Streaming,Basic,7.9,Monthly,Credit Card,0,0,1.7,22,0,1,32
+SUB-10276,USR-1148,Peloton Digital,Fitness,Premium,40.74,Annual,Credit Card,1,0,1.8,46,0,2,17
+SUB-10277,USR-3672,PlayStation Plus,Gaming,Basic,10.16,Annual,Debit Card,1,7,10.6,13,0,1,12
+SUB-10278,USR-1572,ChatGPT Plus,Productivity,Basic,9.59,Monthly,Credit Card,1,1,1.7,72,0,1,4
+SUB-10279,USR-2625,Duolingo Super,Education,Standard,13.4,Monthly,Auto-Debit,0,0,0.9,52,0,1,5
+SUB-10280,USR-1551,ChatGPT Plus,Productivity,Standard,19.72,Monthly,Debit Card,1,12,6.5,4,0,1,25
+SUB-10281,USR-1848,Microsoft 365,Productivity,Premium,21.29,Monthly,Credit Card,1,0,0.5,81,0,1,21
+SUB-10282,USR-4288,Spotify,Streaming,Basic,6.37,Monthly,Credit Card,1,11,10.7,10,0,2,50
+SUB-10283,USR-3466,Netflix,Streaming,Standard,16.17,Monthly,Debit Card,1,21,30.3,0,0,2,6
+SUB-10284,USR-3445,ChatGPT Plus,Productivity,Basic,9.66,Monthly,Credit Card,1,26,46.1,2,0,2,1
+SUB-10285,USR-3206,Peloton Digital,Fitness,Basic,11.96,Annual,Credit Card,1,28,60.1,1,0,2,6
+SUB-10286,USR-1170,Microsoft 365,Productivity,Basic,7.39,Annual,Debit Card,1,0,2.1,61,0,2,7
+SUB-10287,USR-2029,Gym Membership (Anytime/Gold),Fitness,Basic,31.43,Monthly,Credit Card,0,0,1.7,56,1,1,8
+SUB-10288,USR-1778,Duolingo Super,Education,Premium,19.8,Monthly,Debit Card,1,0,1.6,68,0,1,2
+SUB-10289,USR-3328,Coursera Plus,Education,Basic,20.08,Monthly,Credit Card,1,29,16.0,2,0,1,17
+SUB-10290,USR-2546,ChatGPT Plus,Productivity,Premium,29.19,Annual,Credit Card,1,20,27.8,1,0,3,37
+SUB-10291,USR-3703,Google One / Drive,Cloud Storage,Standard,10.19,Monthly,Credit Card,1,24,31.5,2,0,4,12
+SUB-10292,USR-1574,Gym Membership (Anytime/Gold),Fitness,Basic,29.16,Monthly,Credit Card,1,24,20.7,1,0,3,5
+SUB-10293,USR-3447,Microsoft 365,Productivity,Standard,12.91,Monthly,Debit Card,1,7,7.5,8,1,2,8
+SUB-10294,USR-2683,Peloton Digital,Fitness,Basic,12.22,Monthly,Credit Card,1,21,63.2,0,2,2,1
+SUB-10295,USR-2390,Adobe Creative Cloud,Productivity,Basic,22.82,Monthly,Debit Card,1,6,10.4,7,0,2,3
+SUB-10296,USR-2859,Duolingo Super,Education,Premium,19.49,Monthly,Credit Card,1,17,49.7,4,0,2,3
+SUB-10297,USR-2907,Xbox Game Pass,Gaming,Standard,17.59,Monthly,Debit Card,1,5,6.1,8,0,1,39
+SUB-10298,USR-3654,Netflix,Streaming,Premium,22.26,Annual,Credit Card,1,0,0.3,61,0,1,5
+SUB-10299,USR-1194,Xbox Game Pass,Gaming,Premium,20.99,Annual,PayPal,1,27,42.8,5,0,3,7
+SUB-10300,USR-3350,ChatGPT Plus,Productivity,Standard,20.4,Monthly,Credit Card,1,23,70.7,0,0,1,60
+SUB-10301,USR-2711,Adobe Creative Cloud,Productivity,Standard,56.22,Annual,Debit Card,1,0,2.0,49,0,2,15
+SUB-10302,USR-3669,Microsoft 365,Productivity,Premium,22.88,Monthly,PayPal,1,1,2.0,82,1,1,27
+SUB-10303,USR-1163,Adobe Creative Cloud,Productivity,Premium,85.98,Monthly,Credit Card,1,11,4.3,9,0,3,16
+SUB-10304,USR-3364,iCloud Storage,Cloud Storage,Basic,2.99,Annual,Auto-Debit,1,1,0.7,64,0,1,6
+SUB-10305,USR-1082,Microsoft 365,Productivity,Basic,7.47,Monthly,PayPal,1,23,38.0,2,2,1,11
+SUB-10306,USR-1640,Adobe Creative Cloud,Productivity,Basic,23.04,Monthly,PayPal,1,18,50.0,3,0,2,2
+SUB-10307,USR-1851,Google One / Drive,Cloud Storage,Standard,10.23,Monthly,Credit Card,1,8,16.1,7,0,3,2
+SUB-10308,USR-1170,Duolingo Super,Education,Standard,12.98,Annual,Credit Card,1,22,72.8,0,0,2,4
+SUB-10309,USR-2043,Gym Membership (Anytime/Gold),Fitness,Basic,30.13,Monthly,Debit Card,1,0,1.2,85,0,1,15
+SUB-10310,USR-2243,Netflix,Streaming,Premium,23.83,Monthly,Credit Card,1,1,0.0,33,0,1,34
+SUB-10311,USR-1599,Peloton Digital,Fitness,Premium,42.7,Annual,Credit Card,1,14,10.6,9,0,2,38
+SUB-10312,USR-1746,Peloton Digital,Fitness,Standard,24.01,Monthly,Credit Card,1,0,0.9,66,0,1,16
+SUB-10313,USR-3665,PlayStation Plus,Gaming,Standard,14.33,Monthly,Debit Card,1,6,7.2,13,0,2,40
+SUB-10314,USR-1741,PlayStation Plus,Gaming,Basic,9.41,Monthly,Credit Card,1,15,17.5,0,0,1,4
+SUB-10315,USR-3339,Spotify,Streaming,Standard,10.6,Monthly,Debit Card,1,15,10.9,7,0,2,30
+SUB-10316,USR-4110,Peloton Digital,Fitness,Premium,41.33,Monthly,Debit Card,1,21,55.7,0,2,2,22
+SUB-10317,USR-4115,Gym Membership (Anytime/Gold),Fitness,Premium,94.44,Monthly,Credit Card,1,26,72.0,0,2,1,32
+SUB-10318,USR-2184,PlayStation Plus,Gaming,Basic,9.63,Monthly,Debit Card,1,0,0.5,54,0,2,13
+SUB-10319,USR-1890,Spotify,Streaming,Basic,6.41,Monthly,Credit Card,0,19,39.8,6,0,2,9
+SUB-10320,USR-2654,Netflix,Streaming,Standard,15.65,Monthly,Credit Card,1,21,37.4,1,0,1,11
+SUB-10321,USR-1028,Disney+,Streaming,Basic,7.96,Monthly,Debit Card,1,18,15.4,0,0,2,26
+SUB-10322,USR-3056,Coursera Plus,Education,Basic,20.04,Monthly,Auto-Debit,1,5,9.3,19,1,1,33
+SUB-10323,USR-3059,Peloton Digital,Fitness,Basic,11.7,Monthly,Debit Card,1,15,4.8,17,0,2,60
+SUB-10324,USR-2342,Peloton Digital,Fitness,Basic,11.9,Monthly,PayPal,1,23,20.9,6,0,3,13
+SUB-10325,USR-3653,Duolingo Super,Education,Basic,9.36,Monthly,Credit Card,1,6,14.0,10,0,3,12
+SUB-10326,USR-3797,Microsoft 365,Productivity,Premium,21.88,Monthly,Credit Card,0,0,1.8,81,0,1,3
+SUB-10327,USR-3300,Microsoft 365,Productivity,Basic,7.08,Monthly,Credit Card,1,10,4.9,15,0,1,8
+SUB-10328,USR-3283,iCloud Storage,Cloud Storage,Premium,31.44,Annual,Auto-Debit,1,15,15.2,19,0,2,7
+SUB-10329,USR-4296,ChatGPT Plus,Productivity,Standard,19.42,Monthly,Debit Card,1,16,17.6,2,0,3,1
+SUB-10330,USR-3580,Xbox Game Pass,Gaming,Standard,16.68,Monthly,Credit Card,0,6,8.6,5,0,3,1
+SUB-10331,USR-1901,Duolingo Super,Education,Basic,9.16,Monthly,Credit Card,1,0,0.0,56,0,2,1
+SUB-10332,USR-1507,Microsoft 365,Productivity,Standard,13.39,Annual,Debit Card,1,1,0.5,55,0,1,20
+SUB-10333,USR-1344,Duolingo Super,Education,Standard,13.42,Monthly,Credit Card,1,1,1.4,36,0,1,18
+SUB-10334,USR-3201,Adobe Creative Cloud,Productivity,Basic,22.45,Monthly,Debit Card,1,2,0.0,82,0,1,24
+SUB-10335,USR-4437,Peloton Digital,Fitness,Basic,11.43,Monthly,Auto-Debit,1,26,60.5,2,0,2,8
+SUB-10336,USR-2831,iCloud Storage,Cloud Storage,Basic,3.11,Monthly,Credit Card,1,21,22.8,2,0,2,3
+SUB-10337,USR-2605,Disney+,Streaming,Basic,8.17,Monthly,Debit Card,1,29,70.3,3,1,3,8
+SUB-10338,USR-3230,Microsoft 365,Productivity,Basic,7.03,Annual,Credit Card,1,22,19.9,1,0,2,10
+SUB-10339,USR-2030,PlayStation Plus,Gaming,Standard,14.39,Monthly,Auto-Debit,1,28,53.7,1,0,2,6
+SUB-10340,USR-2189,Duolingo Super,Education,Basic,9.24,Annual,Credit Card,1,0,2.1,30,1,1,24
+SUB-10341,USR-1707,Disney+,Streaming,Premium,19.3,Monthly,Credit Card,1,23,64.2,2,0,2,27
+SUB-10342,USR-2722,Netflix,Streaming,Standard,15.81,Annual,PayPal,1,5,8.9,7,0,2,26
+SUB-10343,USR-2358,Google One / Drive,Cloud Storage,Basic,2.04,Annual,Credit Card,1,22,38.6,0,0,2,28
+SUB-10344,USR-2469,Coursera Plus,Education,Standard,38.85,Monthly,Credit Card,1,28,74.0,0,0,3,2
+SUB-10345,USR-4164,Adobe Creative Cloud,Productivity,Standard,56.75,Annual,Credit Card,1,14,4.7,7,0,1,8
+SUB-10346,USR-1998,Peloton Digital,Fitness,Standard,22.93,Annual,Credit Card,1,23,48.2,1,0,3,8
+SUB-10347,USR-3298,Microsoft 365,Productivity,Premium,22.54,Annual,Credit Card,1,25,52.3,2,0,1,4
+SUB-10348,USR-2487,Spotify,Streaming,Basic,6.52,Monthly,Credit Card,1,21,63.9,4,1,3,6
+SUB-10349,USR-1865,Xbox Game Pass,Gaming,Basic,11.97,Annual,Credit Card,1,0,0.0,50,0,1,22
+SUB-10350,USR-2867,Xbox Game Pass,Gaming,Basic,12.28,Annual,Credit Card,1,22,47.3,0,0,1,6
+SUB-10351,USR-1573,Microsoft 365,Productivity,Standard,13.3,Annual,PayPal,1,16,32.9,0,0,1,26
+SUB-10352,USR-2301,Disney+,Streaming,Standard,14.56,Monthly,Credit Card,1,9,6.8,4,0,3,25
+SUB-10353,USR-1060,Google One / Drive,Cloud Storage,Basic,2.08,Monthly,PayPal,0,0,0.7,55,0,1,24
+SUB-10354,USR-1326,Disney+,Streaming,Standard,14.45,Monthly,Credit Card,1,9,10.4,6,0,2,8
+SUB-10355,USR-2433,Duolingo Super,Education,Premium,18.59,Annual,Credit Card,1,0,1.9,59,0,1,7
+SUB-10356,USR-3126,Disney+,Streaming,Basic,8.31,Monthly,Auto-Debit,0,0,0.8,35,0,1,14
+SUB-10357,USR-4161,Spotify,Streaming,Standard,10.91,Monthly,Credit Card,0,12,13.4,19,0,2,16
+SUB-10358,USR-3234,Spotify,Streaming,Standard,10.89,Monthly,Debit Card,1,24,34.0,0,0,1,8
+SUB-10359,USR-1428,Gym Membership (Anytime/Gold),Fitness,Basic,31.23,Monthly,Credit Card,1,23,35.6,0,0,2,10
+SUB-10360,USR-2364,ChatGPT Plus,Productivity,Standard,20.75,Monthly,Credit Card,1,5,10.0,4,0,1,6
+SUB-10361,USR-4447,Gym Membership (Anytime/Gold),Fitness,Standard,49.99,Monthly,Credit Card,1,24,40.4,0,2,2,29
+SUB-10362,USR-3497,Netflix,Streaming,Premium,23.64,Monthly,PayPal,1,0,2.0,28,0,1,8
+SUB-10363,USR-3869,Microsoft 365,Productivity,Standard,12.84,Monthly,Credit Card,1,8,7.0,12,0,1,9
+SUB-10364,USR-4232,Xbox Game Pass,Gaming,Basic,11.93,Monthly,Credit Card,1,0,2.4,54,0,2,14
+SUB-10365,USR-3329,ChatGPT Plus,Productivity,Basic,10.48,Monthly,Credit Card,1,1,0.4,80,1,1,16
+SUB-10366,USR-2535,Adobe Creative Cloud,Productivity,Standard,55.08,Monthly,Auto-Debit,1,18,63.9,1,0,2,3
+SUB-10367,USR-2797,Adobe Creative Cloud,Productivity,Premium,91.04,Monthly,PayPal,1,21,62.3,0,0,2,8
+SUB-10368,USR-3887,ChatGPT Plus,Productivity,Premium,30.72,Annual,Auto-Debit,1,10,12.4,17,0,2,5
+SUB-10369,USR-1962,Microsoft 365,Productivity,Premium,21.36,Monthly,Credit Card,1,1,0.3,33,0,1,18
+SUB-10370,USR-3354,PlayStation Plus,Gaming,Standard,15.03,Monthly,Debit Card,1,18,30.4,2,0,2,11
+SUB-10371,USR-2777,ChatGPT Plus,Productivity,Premium,31.18,Monthly,Credit Card,1,2,2.2,65,0,2,5
+SUB-10372,USR-2074,Spotify,Streaming,Basic,6.49,Monthly,Debit Card,1,5,10.9,11,0,2,5
+SUB-10373,USR-2321,PlayStation Plus,Gaming,Basic,10.21,Annual,Credit Card,1,22,65.0,0,0,2,22
+SUB-10374,USR-1529,Netflix,Streaming,Standard,15.25,Monthly,PayPal,1,9,5.6,7,2,3,7
+SUB-10375,USR-2184,Duolingo Super,Education,Standard,12.93,Monthly,Debit Card,1,15,20.7,1,0,1,20
+SUB-10376,USR-4481,Microsoft 365,Productivity,Basic,7.16,Monthly,Credit Card,1,1,1.3,23,0,1,20
+SUB-10377,USR-2227,iCloud Storage,Cloud Storage,Standard,10.37,Annual,Credit Card,1,9,9.1,18,0,3,33
+SUB-10378,USR-1415,Disney+,Streaming,Basic,7.95,Monthly,PayPal,1,27,42.0,0,0,3,14
+SUB-10379,USR-3682,Microsoft 365,Productivity,Standard,12.37,Monthly,Debit Card,1,2,0.2,33,0,1,9
+SUB-10380,USR-1098,ChatGPT Plus,Productivity,Premium,29.96,Monthly,Credit Card,1,19,34.9,2,1,4,2
+SUB-10381,USR-3424,Google One / Drive,Cloud Storage,Basic,1.94,Monthly,Credit Card,0,18,73.6,0,1,2,36
+SUB-10382,USR-1657,PlayStation Plus,Gaming,Premium,22.29,Monthly,Credit Card,1,29,32.5,5,0,2,14
+SUB-10383,USR-3911,Xbox Game Pass,Gaming,Basic,11.98,Annual,PayPal,1,21,0.0,2,0,2,1
+SUB-10384,USR-1471,Gym Membership (Anytime/Gold),Fitness,Standard,52.38,Monthly,Credit Card,1,1,1.5,36,0,1,10
+SUB-10385,USR-3973,Adobe Creative Cloud,Productivity,Standard,57.72,Monthly,PayPal,1,18,67.7,0,1,2,2
+SUB-10386,USR-3715,ChatGPT Plus,Productivity,Standard,20.3,Monthly,PayPal,1,8,16.5,16,0,1,3
+SUB-10387,USR-1545,Spotify,Streaming,Basic,6.38,Annual,Debit Card,0,3,0.1,29,0,1,9
+SUB-10388,USR-2053,ChatGPT Plus,Productivity,Basic,9.69,Monthly,Credit Card,1,7,16.5,4,0,2,39
+SUB-10389,USR-2401,Coursera Plus,Education,Standard,38.36,Annual,PayPal,1,0,1.1,75,0,2,37
+SUB-10390,USR-2966,Google One / Drive,Cloud Storage,Premium,25.19,Annual,PayPal,1,23,41.4,1,0,2,7
+SUB-10391,USR-2207,iCloud Storage,Cloud Storage,Standard,9.84,Monthly,Credit Card,1,1,0.0,63,1,1,14
+SUB-10392,USR-3990,Spotify,Streaming,Standard,11.53,Monthly,PayPal,1,8,5.6,7,2,3,11
+SUB-10393,USR-3775,Duolingo Super,Education,Basic,9.11,Monthly,Debit Card,0,22,64.0,0,1,1,14
+SUB-10394,USR-2947,Gym Membership (Anytime/Gold),Fitness,Basic,29.51,Monthly,PayPal,1,0,0.4,83,0,1,3
+SUB-10395,USR-4098,Coursera Plus,Education,Premium,60.65,Monthly,Debit Card,1,16,22.9,0,0,3,18
+SUB-10396,USR-2202,Disney+,Streaming,Standard,14.46,Monthly,Debit Card,1,28,56.3,0,0,1,31
+SUB-10397,USR-1087,Peloton Digital,Fitness,Standard,23.57,Monthly,Debit Card,1,0,1.1,38,0,1,6
+SUB-10398,USR-4323,PlayStation Plus,Gaming,Basic,9.84,Monthly,Credit Card,1,0,2.1,53,0,2,4
+SUB-10399,USR-2602,Duolingo Super,Education,Basic,9.13,Monthly,Debit Card,1,20,60.6,2,0,2,5
+SUB-10400,USR-1151,PlayStation Plus,Gaming,Standard,15.31,Monthly,Credit Card,1,27,66.5,3,0,3,5
+SUB-10401,USR-1354,Netflix,Streaming,Standard,15.23,Monthly,Credit Card,1,21,66.7,3,2,4,21
+SUB-10402,USR-2036,Peloton Digital,Fitness,Basic,11.95,Monthly,Debit Card,1,7,11.6,8,0,2,8
+SUB-10403,USR-2929,Xbox Game Pass,Gaming,Standard,16.9,Monthly,Credit Card,1,18,34.4,0,0,1,38
+SUB-10404,USR-3442,Google One / Drive,Cloud Storage,Standard,10.3,Monthly,PayPal,1,12,13.2,7,0,2,2
+SUB-10405,USR-3833,Google One / Drive,Cloud Storage,Basic,1.96,Annual,Debit Card,1,0,0.3,56,0,1,8
+SUB-10406,USR-2850,ChatGPT Plus,Productivity,Standard,20.25,Annual,PayPal,1,21,23.1,0,0,4,2
+SUB-10407,USR-2934,Xbox Game Pass,Gaming,Standard,17.6,Monthly,Auto-Debit,1,12,8.5,7,0,3,9
+SUB-10408,USR-4040,ChatGPT Plus,Productivity,Standard,19.18,Monthly,Credit Card,1,7,14.4,10,0,2,30
+SUB-10409,USR-3750,Disney+,Streaming,Basic,8.23,Monthly,Debit Card,1,2,0.7,57,0,2,9
+SUB-10410,USR-1688,Disney+,Streaming,Standard,14.22,Monthly,Debit Card,1,28,55.0,0,0,1,5
+SUB-10411,USR-1524,Gym Membership (Anytime/Gold),Fitness,Premium,92.11,Monthly,PayPal,1,23,67.6,0,0,1,12
+SUB-10412,USR-1370,Google One / Drive,Cloud Storage,Premium,25.83,Annual,Credit Card,1,14,16.0,9,0,1,6
+SUB-10413,USR-2365,iCloud Storage,Cloud Storage,Standard,9.54,Annual,Credit Card,1,23,32.0,8,2,2,24
+SUB-10414,USR-4035,Coursera Plus,Education,Standard,39.74,Monthly,PayPal,1,23,66.5,6,0,1,17
+SUB-10415,USR-1066,Google One / Drive,Cloud Storage,Standard,10.19,Monthly,PayPal,1,2,0.7,86,0,1,1
+SUB-10416,USR-1748,Microsoft 365,Productivity,Basic,6.94,Annual,PayPal,1,12,6.3,6,2,1,1
+SUB-10417,USR-3000,Disney+,Streaming,Basic,8.05,Monthly,Debit Card,1,17,24.9,0,2,4,6
+SUB-10418,USR-4014,PlayStation Plus,Gaming,Standard,14.54,Monthly,PayPal,0,8,12.7,8,1,2,4
+SUB-10419,USR-3103,Disney+,Streaming,Basic,7.66,Monthly,Credit Card,1,20,42.1,2,1,2,23
+SUB-10420,USR-3739,ChatGPT Plus,Productivity,Basic,9.73,Monthly,Credit Card,1,27,17.3,1,1,2,1
+SUB-10421,USR-2997,Netflix,Streaming,Basic,10.55,Monthly,Debit Card,0,18,31.5,0,1,3,17
+SUB-10422,USR-1540,iCloud Storage,Cloud Storage,Basic,2.88,Monthly,Debit Card,1,0,1.6,39,0,1,40
+SUB-10423,USR-3509,Peloton Digital,Fitness,Basic,11.85,Annual,Credit Card,1,0,1.6,83,0,2,3
+SUB-10424,USR-4001,Adobe Creative Cloud,Productivity,Premium,85.92,Annual,Credit Card,1,0,2.0,52,0,2,48
+SUB-10425,USR-1578,Microsoft 365,Productivity,Basic,6.97,Annual,Credit Card,1,18,40.0,0,2,3,8
+SUB-10426,USR-2468,Google One / Drive,Cloud Storage,Basic,2.08,Monthly,Debit Card,1,26,51.7,8,0,3,26
+SUB-10427,USR-2790,Google One / Drive,Cloud Storage,Standard,10.12,Monthly,Credit Card,1,15,68.2,1,0,2,6
+SUB-10428,USR-1596,Adobe Creative Cloud,Productivity,Basic,21.42,Monthly,PayPal,1,22,67.9,6,0,3,19
+SUB-10429,USR-3890,Gym Membership (Anytime/Gold),Fitness,Standard,49.67,Annual,Debit Card,1,1,0.4,37,0,1,4
+SUB-10430,USR-2668,Xbox Game Pass,Gaming,Standard,16.58,Annual,Credit Card,1,25,57.1,0,1,3,16
+SUB-10431,USR-2711,Netflix,Streaming,Basic,10.48,Monthly,PayPal,1,1,0.2,83,0,1,13
+SUB-10432,USR-1773,Xbox Game Pass,Gaming,Standard,16.36,Monthly,Debit Card,1,13,6.9,10,0,1,2
+SUB-10433,USR-1780,Spotify,Streaming,Standard,10.53,Monthly,Debit Card,0,15,57.9,1,0,4,16
+SUB-10434,USR-1120,Microsoft 365,Productivity,Standard,12.88,Annual,Credit Card,1,22,38.4,2,0,1,10
+SUB-10435,USR-2013,Coursera Plus,Education,Basic,18.73,Annual,Credit Card,1,16,55.8,3,0,1,5
+SUB-10436,USR-3840,Netflix,Streaming,Basic,10.19,Monthly,PayPal,1,0,1.3,65,0,1,2
+SUB-10437,USR-1679,Xbox Game Pass,Gaming,Premium,21.43,Annual,PayPal,1,25,26.0,1,0,4,27
+SUB-10438,USR-4245,ChatGPT Plus,Productivity,Premium,29.27,Monthly,Debit Card,1,19,64.4,0,0,2,1
+SUB-10439,USR-1037,Adobe Creative Cloud,Productivity,Standard,54.91,Monthly,PayPal,1,27,27.8,1,0,2,15
+SUB-10440,USR-3017,Google One / Drive,Cloud Storage,Basic,2.02,Monthly,Credit Card,0,2,1.3,37,0,1,4
+SUB-10441,USR-1550,Peloton Digital,Fitness,Basic,12.45,Monthly,Credit Card,1,27,72.6,4,0,1,18
+SUB-10442,USR-4279,Peloton Digital,Fitness,Standard,23.8,Annual,Credit Card,1,14,15.2,10,1,2,5
+SUB-10443,USR-1400,iCloud Storage,Cloud Storage,Standard,9.88,Annual,Debit Card,1,11,9.4,4,1,2,10
+SUB-10444,USR-2973,Netflix,Streaming,Premium,22.99,Annual,Debit Card,1,0,1.9,82,0,1,54
+SUB-10445,USR-2295,Disney+,Streaming,Standard,13.92,Monthly,Credit Card,0,23,44.9,0,0,1,7
+SUB-10446,USR-3981,Disney+,Streaming,Standard,14.61,Monthly,PayPal,0,13,7.2,9,0,2,13
+SUB-10447,USR-4386,Duolingo Super,Education,Basic,8.71,Monthly,Debit Card,1,0,2.3,39,1,1,41
+SUB-10448,USR-2863,Adobe Creative Cloud,Productivity,Standard,52.85,Monthly,Credit Card,1,1,1.8,40,0,2,26
+SUB-10449,USR-3510,Duolingo Super,Education,Standard,12.47,Monthly,Credit Card,1,14,12.5,15,0,1,38
+SUB-10450,USR-4300,Spotify,Streaming,Basic,6.68,Monthly,Debit Card,0,9,15.6,11,0,1,13
+SUB-10451,USR-4242,Disney+,Streaming,Standard,13.31,Monthly,Auto-Debit,1,22,39.4,8,0,1,31
+SUB-10452,USR-1242,Netflix,Streaming,Basic,10.1,Annual,Debit Card,1,16,58.4,1,0,1,3
+SUB-10453,USR-2181,Netflix,Streaming,Basic,9.82,Monthly,Credit Card,1,22,71.2,2,0,1,2
+SUB-10454,USR-2336,PlayStation Plus,Gaming,Basic,10.15,Annual,Credit Card,1,0,0.8,45,0,1,2
+SUB-10455,USR-3147,ChatGPT Plus,Productivity,Basic,10.07,Monthly,Debit Card,1,22,26.4,0,0,2,22
+SUB-10456,USR-2513,Spotify,Streaming,Standard,10.44,Monthly,Debit Card,1,0,0.9,88,0,1,7
+SUB-10457,USR-2313,Xbox Game Pass,Gaming,Standard,16.43,Monthly,Credit Card,1,23,42.8,0,0,1,1
+SUB-10458,USR-4058,Disney+,Streaming,Standard,13.59,Monthly,PayPal,1,23,42.7,4,0,3,27
+SUB-10459,USR-3027,Duolingo Super,Education,Premium,19.39,Monthly,Debit Card,1,1,1.5,27,0,1,46
+SUB-10460,USR-3202,Netflix,Streaming,Standard,16.06,Monthly,Debit Card,1,12,15.9,5,2,1,48
+SUB-10461,USR-2304,Disney+,Streaming,Standard,13.73,Monthly,PayPal,1,5,6.6,11,0,1,9
+SUB-10462,USR-4150,Coursera Plus,Education,Premium,59.84,Annual,Debit Card,1,27,49.6,2,0,2,6
+SUB-10463,USR-1064,Adobe Creative Cloud,Productivity,Standard,57.47,Monthly,Credit Card,1,15,73.7,0,0,2,9
+SUB-10464,USR-1823,Gym Membership (Anytime/Gold),Fitness,Standard,50.81,Annual,Auto-Debit,1,11,10.7,19,1,2,16
+SUB-10465,USR-2116,PlayStation Plus,Gaming,Basic,10.01,Monthly,Credit Card,1,2,0.8,57,0,1,9
+SUB-10466,USR-3462,Duolingo Super,Education,Basic,9.1,Annual,Debit Card,1,11,19.0,19,0,2,35
+SUB-10467,USR-3668,ChatGPT Plus,Productivity,Premium,30.09,Annual,Debit Card,1,10,12.1,17,0,1,4
+SUB-10468,USR-4453,Gym Membership (Anytime/Gold),Fitness,Standard,52.44,Annual,Debit Card,1,21,70.1,1,0,3,10
+SUB-10469,USR-3575,Netflix,Streaming,Standard,15.36,Monthly,Credit Card,1,26,66.4,1,0,2,20
+SUB-10470,USR-2880,iCloud Storage,Cloud Storage,Standard,9.96,Monthly,Auto-Debit,1,28,58.8,0,1,2,5
+SUB-10471,USR-3462,PlayStation Plus,Gaming,Basic,9.86,Monthly,Credit Card,1,2,1.8,43,0,1,7
+SUB-10472,USR-1038,ChatGPT Plus,Productivity,Standard,19.13,Annual,Debit Card,1,0,0.8,67,0,2,26
+SUB-10473,USR-4066,Google One / Drive,Cloud Storage,Standard,10.37,Annual,Debit Card,0,2,0.9,83,1,1,10
+SUB-10474,USR-1266,Google One / Drive,Cloud Storage,Standard,10.24,Monthly,Debit Card,1,1,1.6,74,0,2,11
+SUB-10475,USR-2223,Spotify,Streaming,Standard,10.74,Annual,Credit Card,1,15,73.0,0,0,1,18
+SUB-10476,USR-2232,Duolingo Super,Education,Basic,8.65,Monthly,Debit Card,1,2,2.1,60,0,1,24
+SUB-10477,USR-4036,Microsoft 365,Productivity,Premium,21.32,Annual,Auto-Debit,1,0,0.2,42,0,1,4
+SUB-10478,USR-4148,ChatGPT Plus,Productivity,Standard,19.02,Annual,Auto-Debit,1,15,11.4,6,0,3,5
+SUB-10479,USR-2596,Coursera Plus,Education,Standard,39.67,Annual,Debit Card,1,0,1.2,86,0,1,20
+SUB-10480,USR-1474,Netflix,Streaming,Basic,9.81,Annual,Auto-Debit,1,9,7.0,9,0,2,3
+SUB-10481,USR-3648,Xbox Game Pass,Gaming,Standard,17.64,Monthly,Credit Card,1,0,0.9,24,0,1,18
+SUB-10482,USR-2659,Xbox Game Pass,Gaming,Standard,16.22,Monthly,Debit Card,1,12,15.1,6,1,2,22
+SUB-10483,USR-3509,Coursera Plus,Education,Basic,19.57,Annual,Debit Card,1,0,0.3,64,0,2,7
+SUB-10484,USR-1804,Google One / Drive,Cloud Storage,Standard,10.08,Monthly,Debit Card,1,20,39.4,1,0,3,4
+SUB-10485,USR-3763,Google One / Drive,Cloud Storage,Standard,9.9,Monthly,Debit Card,1,14,5.1,12,1,2,16
+SUB-10486,USR-3747,Spotify,Streaming,Standard,11.42,Annual,Debit Card,1,2,1.7,71,0,2,8
+SUB-10487,USR-1599,Spotify,Streaming,Basic,6.48,Monthly,Credit Card,1,5,16.9,8,0,3,5
+SUB-10488,USR-3443,Google One / Drive,Cloud Storage,Standard,10.14,Annual,Credit Card,1,1,1.5,45,0,2,1
+SUB-10489,USR-3368,Netflix,Streaming,Standard,15.54,Monthly,Debit Card,1,7,5.2,14,1,2,5
+SUB-10490,USR-4487,Xbox Game Pass,Gaming,Standard,17.51,Monthly,Credit Card,1,0,0.8,55,0,1,12
+SUB-10491,USR-1978,Adobe Creative Cloud,Productivity,Basic,21.86,Monthly,Debit Card,1,20,20.4,1,0,2,2
+SUB-10492,USR-1486,Disney+,Streaming,Standard,14.39,Monthly,Debit Card,1,0,0.0,45,0,1,12
+SUB-10493,USR-2996,Spotify,Streaming,Premium,17.48,Monthly,Credit Card,1,1,2.2,30,0,1,15
+SUB-10494,USR-2640,Xbox Game Pass,Gaming,Standard,16.14,Monthly,Credit Card,1,13,8.6,4,0,2,26
+SUB-10495,USR-4041,Peloton Digital,Fitness,Standard,24.27,Monthly,Debit Card,1,8,14.2,9,0,2,5
+SUB-10496,USR-2124,Duolingo Super,Education,Basic,9.03,Monthly,Credit Card,1,18,67.5,5,1,3,13
+SUB-10497,USR-3364,Xbox Game Pass,Gaming,Basic,11.85,Monthly,Credit Card,1,25,23.9,0,0,2,46
+SUB-10498,USR-3364,PlayStation Plus,Gaming,Standard,15.48,Annual,Auto-Debit,1,29,15.8,3,0,1,3
+SUB-10499,USR-2077,Xbox Game Pass,Gaming,Premium,22.13,Annual,Debit Card,0,16,18.6,1,0,4,48
+SUB-10500,USR-4377,Duolingo Super,Education,Standard,12.81,Monthly,Auto-Debit,1,15,19.5,8,0,2,2
+SUB-10501,USR-2949,Peloton Digital,Fitness,Basic,12.01,Annual,Credit Card,1,21,69.5,3,0,2,28
+SUB-10502,USR-4485,Peloton Digital,Fitness,Premium,42.47,Monthly,Credit Card,0,11,15.4,12,0,2,2
+SUB-10503,USR-4490,Peloton Digital,Fitness,Basic,12.43,Monthly,Credit Card,1,22,57.3,0,0,1,3
+SUB-10504,USR-1381,Xbox Game Pass,Gaming,Basic,12.3,Annual,Credit Card,1,6,17.4,17,0,3,16
+SUB-10505,USR-1185,Spotify,Streaming,Standard,10.48,Monthly,Credit Card,1,15,31.4,3,0,4,5
+SUB-10506,USR-3015,PlayStation Plus,Gaming,Premium,22.29,Monthly,Credit Card,1,28,71.1,0,0,2,11
+SUB-10507,USR-1204,Duolingo Super,Education,Standard,13.17,Monthly,Debit Card,1,17,18.2,1,0,2,2
+SUB-10508,USR-2405,Google One / Drive,Cloud Storage,Basic,1.9,Monthly,Debit Card,1,0,1.8,68,0,1,5
+SUB-10509,USR-3311,Adobe Creative Cloud,Productivity,Basic,22.09,Annual,Credit Card,1,0,1.0,80,1,1,17
+SUB-10510,USR-2814,Microsoft 365,Productivity,Premium,21.23,Annual,Credit Card,1,13,12.7,14,0,1,13
+SUB-10511,USR-4159,Peloton Digital,Fitness,Standard,23.65,Monthly,PayPal,1,0,2.0,69,0,1,9
+SUB-10512,USR-2154,Google One / Drive,Cloud Storage,Basic,1.99,Annual,Credit Card,1,23,26.2,3,1,2,25
+SUB-10513,USR-2506,ChatGPT Plus,Productivity,Basic,9.52,Monthly,Credit Card,1,0,0.1,34,0,1,14
+SUB-10514,USR-4473,Disney+,Streaming,Standard,13.35,Monthly,Debit Card,0,23,32.1,1,0,2,7
+SUB-10515,USR-1401,Microsoft 365,Productivity,Standard,13.36,Monthly,Debit Card,1,28,19.7,2,1,3,15
+SUB-10516,USR-1442,Gym Membership (Anytime/Gold),Fitness,Premium,87.94,Monthly,Debit Card,1,5,10.5,12,1,2,31
+SUB-10517,USR-1269,Duolingo Super,Education,Basic,9.09,Monthly,Credit Card,1,26,16.2,7,0,3,3
+SUB-10518,USR-1574,Netflix,Streaming,Standard,15.9,Annual,Credit Card,1,12,13.4,14,0,1,10
+SUB-10519,USR-4003,Peloton Digital,Fitness,Premium,40.22,Monthly,Credit Card,1,20,31.5,6,0,4,26
+SUB-10520,USR-4125,Adobe Creative Cloud,Productivity,Basic,22.06,Monthly,Debit Card,0,17,39.5,0,0,4,19
+SUB-10521,USR-3440,iCloud Storage,Cloud Storage,Standard,9.61,Monthly,Auto-Debit,1,28,60.9,0,0,1,30
+SUB-10522,USR-3801,Xbox Game Pass,Gaming,Standard,16.15,Monthly,PayPal,0,1,1.9,56,0,1,4
+SUB-10523,USR-2503,Peloton Digital,Fitness,Standard,23.86,Annual,Credit Card,1,29,31.8,3,0,2,21
+SUB-10524,USR-3437,Adobe Creative Cloud,Productivity,Basic,22.8,Annual,Credit Card,1,9,17.8,9,0,1,9
+SUB-10525,USR-3346,Coursera Plus,Education,Basic,18.72,Annual,Credit Card,0,8,12.0,4,2,1,15
+SUB-10526,USR-1707,Xbox Game Pass,Gaming,Standard,16.39,Monthly,Credit Card,1,16,45.3,0,1,2,35
+SUB-10527,USR-1270,Gym Membership (Anytime/Gold),Fitness,Basic,31.12,Annual,Debit Card,1,19,30.2,1,0,3,35
+SUB-10528,USR-3040,iCloud Storage,Cloud Storage,Basic,3.03,Monthly,Credit Card,1,2,2.4,34,0,1,18
+SUB-10529,USR-2244,Peloton Digital,Fitness,Standard,24.15,Monthly,Credit Card,1,25,35.3,1,0,3,21
+SUB-10530,USR-1910,Spotify,Streaming,Premium,17.09,Annual,Credit Card,1,14,6.7,7,1,3,1
+SUB-10531,USR-3005,PlayStation Plus,Gaming,Basic,9.3,Monthly,Credit Card,1,20,64.0,1,0,3,9
+SUB-10532,USR-3906,Spotify,Streaming,Standard,10.58,Monthly,PayPal,1,24,67.5,0,0,3,3
+SUB-10533,USR-1037,Peloton Digital,Fitness,Basic,11.65,Monthly,Debit Card,1,29,48.3,0,2,2,12
+SUB-10534,USR-1256,Xbox Game Pass,Gaming,Premium,21.79,Monthly,Debit Card,1,18,37.4,2,0,2,2
+SUB-10535,USR-1963,Netflix,Streaming,Basic,9.87,Annual,Debit Card,1,0,1.6,86,0,1,1
+SUB-10536,USR-2405,Peloton Digital,Fitness,Standard,24.58,Monthly,PayPal,1,29,27.9,3,1,2,4
+SUB-10537,USR-2481,iCloud Storage,Cloud Storage,Premium,28.9,Monthly,Auto-Debit,1,15,45.8,0,0,2,25
+SUB-10538,USR-3162,PlayStation Plus,Gaming,Basic,9.79,Monthly,Debit Card,1,2,0.5,79,0,2,21
+SUB-10539,USR-4498,ChatGPT Plus,Productivity,Basic,10.36,Annual,Credit Card,1,14,14.1,14,0,1,2
+SUB-10540,USR-3242,Microsoft 365,Productivity,Standard,12.9,Monthly,Credit Card,1,6,13.9,18,0,3,60
+SUB-10541,USR-1383,iCloud Storage,Cloud Storage,Standard,10.03,Monthly,PayPal,1,25,16.1,2,0,2,1
+SUB-10542,USR-1565,Google One / Drive,Cloud Storage,Standard,9.99,Monthly,Debit Card,1,18,41.8,0,1,2,2
+SUB-10543,USR-4138,Duolingo Super,Education,Basic,9.04,Monthly,Debit Card,1,19,37.1,0,0,3,15
+SUB-10544,USR-3176,Disney+,Streaming,Basic,8.25,Monthly,PayPal,1,18,22.6,2,0,1,28
+SUB-10545,USR-3223,Disney+,Streaming,Premium,19.52,Annual,Credit Card,1,10,13.7,12,0,1,32
+SUB-10546,USR-2779,Duolingo Super,Education,Basic,9.19,Annual,PayPal,1,10,17.4,10,1,2,33
+SUB-10547,USR-3372,Google One / Drive,Cloud Storage,Basic,2.04,Monthly,Debit Card,1,7,5.5,7,0,2,3
+SUB-10548,USR-1991,Duolingo Super,Education,Standard,13.12,Monthly,Auto-Debit,1,27,25.2,0,0,2,2
+SUB-10549,USR-2136,Coursera Plus,Education,Premium,61.26,Monthly,Debit Card,1,15,39.9,0,0,4,23
+SUB-10550,USR-1916,Duolingo Super,Education,Basic,9.38,Monthly,Debit Card,1,0,0.9,30,0,1,4
+SUB-10551,USR-1892,Disney+,Streaming,Standard,13.89,Monthly,PayPal,1,0,1.1,85,0,1,7
+SUB-10552,USR-1809,ChatGPT Plus,Productivity,Standard,20.18,Monthly,Credit Card,0,26,29.3,5,0,1,3
+SUB-10553,USR-1439,Adobe Creative Cloud,Productivity,Premium,89.53,Monthly,Credit Card,1,12,4.5,8,0,2,4
+SUB-10554,USR-2291,PlayStation Plus,Gaming,Premium,20.73,Monthly,PayPal,1,24,32.9,1,0,4,11
+SUB-10555,USR-4130,Adobe Creative Cloud,Productivity,Standard,55.96,Monthly,PayPal,1,16,64.5,1,0,4,10
+SUB-10556,USR-1688,Spotify,Streaming,Premium,16.58,Annual,Credit Card,1,16,49.8,4,0,3,6
+SUB-10557,USR-2871,Google One / Drive,Cloud Storage,Premium,25.94,Monthly,Credit Card,1,27,34.2,2,2,2,9
+SUB-10558,USR-2796,Coursera Plus,Education,Basic,19.79,Monthly,Debit Card,0,1,1.2,38,0,1,9
+SUB-10559,USR-3882,iCloud Storage,Cloud Storage,Premium,30.14,Monthly,Credit Card,0,21,30.8,0,0,2,52
+SUB-10560,USR-4272,Adobe Creative Cloud,Productivity,Standard,52.64,Monthly,Credit Card,1,1,1.7,62,0,2,20
+SUB-10561,USR-3116,Netflix,Streaming,Basic,10.3,Monthly,Credit Card,1,0,0.8,64,1,1,8
+SUB-10562,USR-4424,Duolingo Super,Education,Basic,8.8,Monthly,Auto-Debit,1,0,0.7,64,0,1,12
+SUB-10563,USR-1329,Coursera Plus,Education,Premium,61.05,Monthly,Debit Card,1,8,8.2,16,2,2,8
+SUB-10564,USR-1781,Gym Membership (Anytime/Gold),Fitness,Basic,30.78,Monthly,Debit Card,1,28,41.2,0,0,1,26
+SUB-10565,USR-2093,Xbox Game Pass,Gaming,Basic,11.78,Monthly,Credit Card,1,6,6.2,19,0,2,2
+SUB-10566,USR-2211,Gym Membership (Anytime/Gold),Fitness,Basic,29.52,Annual,Credit Card,1,7,14.6,17,0,2,12
+SUB-10567,USR-1222,Gym Membership (Anytime/Gold),Fitness,Premium,85.9,Monthly,Credit Card,1,26,56.3,0,0,1,36
+SUB-10568,USR-3517,Peloton Digital,Fitness,Premium,41.26,Annual,Credit Card,1,1,1.6,53,0,1,7
+SUB-10569,USR-1086,Microsoft 365,Productivity,Standard,13.54,Annual,Credit Card,1,7,11.0,13,0,1,20
+SUB-10570,USR-1827,Gym Membership (Anytime/Gold),Fitness,Basic,29.99,Monthly,PayPal,1,15,40.7,2,0,1,7
+SUB-10571,USR-2462,Peloton Digital,Fitness,Basic,11.55,Monthly,Credit Card,0,19,74.4,0,0,3,6
+SUB-10572,USR-1742,Netflix,Streaming,Standard,15.28,Monthly,Debit Card,1,15,13.1,19,2,2,14
+SUB-10573,USR-1565,ChatGPT Plus,Productivity,Premium,29.81,Annual,Credit Card,1,29,27.4,4,0,2,8
+SUB-10574,USR-3367,Netflix,Streaming,Standard,15.85,Monthly,Credit Card,1,0,2.2,39,0,2,16
+SUB-10575,USR-1232,iCloud Storage,Cloud Storage,Standard,9.91,Monthly,Debit Card,1,25,39.6,0,0,2,4
+SUB-10576,USR-1731,Coursera Plus,Education,Basic,18.54,Monthly,Credit Card,1,2,1.3,73,0,1,1
+SUB-10577,USR-2049,PlayStation Plus,Gaming,Basic,9.74,Monthly,Debit Card,1,0,1.4,48,0,1,7
+SUB-10578,USR-2307,iCloud Storage,Cloud Storage,Standard,10.37,Monthly,Credit Card,1,27,43.7,0,0,2,4
+SUB-10579,USR-3651,PlayStation Plus,Gaming,Standard,15.26,Annual,Credit Card,1,27,21.8,1,0,3,21
+SUB-10580,USR-1915,iCloud Storage,Cloud Storage,Premium,31.06,Monthly,PayPal,1,1,1.5,27,0,2,3
+SUB-10581,USR-1444,Google One / Drive,Cloud Storage,Premium,25.34,Monthly,Debit Card,1,3,2.5,76,0,1,3
+SUB-10582,USR-1665,Gym Membership (Anytime/Gold),Fitness,Standard,51.89,Annual,Auto-Debit,0,1,0.7,60,0,1,4
+SUB-10583,USR-1509,Microsoft 365,Productivity,Standard,12.45,Annual,Credit Card,1,21,24.2,5,1,3,1
+SUB-10584,USR-3174,ChatGPT Plus,Productivity,Basic,9.94,Monthly,Credit Card,1,10,14.6,18,0,1,22
+SUB-10585,USR-3241,Spotify,Streaming,Standard,11.22,Monthly,Credit Card,1,15,70.4,1,0,3,6
+SUB-10586,USR-4159,PlayStation Plus,Gaming,Basic,9.64,Monthly,PayPal,1,20,52.1,1,1,2,8
+SUB-10587,USR-3195,Xbox Game Pass,Gaming,Standard,17.54,Monthly,Credit Card,1,0,1.6,84,0,1,11
+SUB-10588,USR-2545,PlayStation Plus,Gaming,Premium,20.74,Annual,Credit Card,1,29,31.3,1,0,2,9
+SUB-10589,USR-2592,Coursera Plus,Education,Standard,37.76,Annual,Credit Card,1,0,0.0,68,0,1,6
+SUB-10590,USR-2798,Netflix,Streaming,Premium,22.08,Monthly,Credit Card,1,23,30.0,1,0,2,2
+SUB-10591,USR-2750,PlayStation Plus,Gaming,Basic,9.92,Monthly,Credit Card,1,0,2.2,43,0,2,43
+SUB-10592,USR-1409,PlayStation Plus,Gaming,Basic,9.99,Annual,Credit Card,1,1,1.0,89,1,1,4
+SUB-10593,USR-1227,Spotify,Streaming,Standard,11.3,Monthly,Credit Card,1,16,58.9,0,0,2,10
+SUB-10594,USR-4444,ChatGPT Plus,Productivity,Basic,9.5,Monthly,Credit Card,1,0,1.9,23,0,1,38
+SUB-10595,USR-1341,ChatGPT Plus,Productivity,Basic,9.9,Monthly,Debit Card,1,24,37.4,6,0,2,8
+SUB-10596,USR-1830,Peloton Digital,Fitness,Basic,12.47,Monthly,Credit Card,1,6,10.2,14,0,2,18
+SUB-10597,USR-4166,Netflix,Streaming,Standard,14.8,Monthly,Credit Card,1,18,54.1,0,0,3,9
+SUB-10598,USR-1640,Gym Membership (Anytime/Gold),Fitness,Basic,31.1,Monthly,Credit Card,1,24,32.3,0,0,4,1
+SUB-10599,USR-3057,Coursera Plus,Education,Basic,18.97,Monthly,Credit Card,1,12,13.1,19,0,2,20
+SUB-10600,USR-2548,Xbox Game Pass,Gaming,Standard,16.24,Monthly,Credit Card,1,22,70.6,4,0,2,3
+SUB-10601,USR-3770,Xbox Game Pass,Gaming,Premium,22.76,Annual,Auto-Debit,1,24,48.1,0,0,2,5
+SUB-10602,USR-1718,Gym Membership (Anytime/Gold),Fitness,Standard,47.97,Annual,Debit Card,1,1,0.4,77,0,1,17
+SUB-10603,USR-2732,Disney+,Streaming,Basic,8.21,Monthly,Auto-Debit,0,18,29.8,8,0,1,54
+SUB-10604,USR-1519,ChatGPT Plus,Productivity,Basic,9.52,Monthly,PayPal,1,8,11.7,12,0,1,1
+SUB-10605,USR-2052,Xbox Game Pass,Gaming,Premium,21.06,Monthly,Credit Card,1,22,73.6,4,0,2,14
+SUB-10606,USR-3763,Duolingo Super,Education,Basic,9.52,Monthly,Debit Card,1,27,65.2,3,2,3,2
+SUB-10607,USR-2836,iCloud Storage,Cloud Storage,Standard,9.62,Monthly,Credit Card,1,1,2.0,63,1,1,21
+SUB-10608,USR-1322,Xbox Game Pass,Gaming,Premium,21.36,Monthly,Credit Card,1,22,27.4,1,0,3,2
+SUB-10609,USR-2515,ChatGPT Plus,Productivity,Premium,30.36,Monthly,PayPal,1,0,2.4,38,0,1,8
+SUB-10610,USR-3778,iCloud Storage,Cloud Storage,Basic,3.07,Annual,Credit Card,1,25,65.0,1,1,3,2
+SUB-10611,USR-1552,ChatGPT Plus,Productivity,Standard,20.69,Monthly,Auto-Debit,1,8,16.2,9,2,3,1
+SUB-10612,USR-2600,Duolingo Super,Education,Standard,13.09,Monthly,PayPal,1,17,24.6,0,0,2,3
+SUB-10613,USR-3736,Microsoft 365,Productivity,Standard,12.72,Monthly,PayPal,1,3,1.9,30,0,1,44
+SUB-10614,USR-3268,Gym Membership (Anytime/Gold),Fitness,Premium,93.13,Monthly,Credit Card,1,2,1.1,39,0,1,7
+SUB-10615,USR-1754,Coursera Plus,Education,Standard,37.24,Monthly,Credit Card,1,0,1.4,35,0,1,12
+SUB-10616,USR-2209,Adobe Creative Cloud,Productivity,Basic,22.81,Monthly,Credit Card,1,23,0.0,6,0,2,18
+SUB-10617,USR-2498,Adobe Creative Cloud,Productivity,Standard,55.84,Monthly,Credit Card,1,12,9.0,4,0,2,3
+SUB-10618,USR-2406,Disney+,Streaming,Standard,14.19,Annual,Credit Card,1,21,56.1,2,0,2,44
+SUB-10619,USR-1308,iCloud Storage,Cloud Storage,Basic,2.88,Monthly,Auto-Debit,1,22,58.3,2,0,3,1
+SUB-10620,USR-1540,Google One / Drive,Cloud Storage,Standard,9.81,Monthly,Credit Card,1,0,2.3,57,0,2,3
+SUB-10621,USR-3524,Microsoft 365,Productivity,Basic,7.18,Annual,Auto-Debit,1,29,51.5,5,0,3,6
+SUB-10622,USR-1784,ChatGPT Plus,Productivity,Standard,20.77,Annual,Auto-Debit,1,26,30.1,6,1,2,28
+SUB-10623,USR-3226,Coursera Plus,Education,Standard,39.15,Monthly,Credit Card,1,1,1.6,36,0,1,9
+SUB-10624,USR-2208,Xbox Game Pass,Gaming,Basic,11.86,Monthly,PayPal,1,12,14.5,10,0,2,13
+SUB-10625,USR-3966,Coursera Plus,Education,Basic,19.22,Annual,Auto-Debit,1,1,0.9,89,0,1,3
+SUB-10626,USR-1318,Peloton Digital,Fitness,Standard,24.1,Annual,Debit Card,0,23,72.2,1,0,1,33
+SUB-10627,USR-1241,ChatGPT Plus,Productivity,Basic,9.79,Monthly,Debit Card,1,18,28.3,1,0,3,3
+SUB-10628,USR-2860,Disney+,Streaming,Premium,19.66,Monthly,Credit Card,1,13,9.9,4,0,2,11
+SUB-10629,USR-2814,Microsoft 365,Productivity,Basic,7.28,Monthly,Credit Card,1,0,2.3,22,0,1,15
+SUB-10630,USR-3533,Coursera Plus,Education,Standard,37.45,Monthly,Debit Card,1,1,2.1,81,0,1,13
+SUB-10631,USR-1233,Google One / Drive,Cloud Storage,Premium,25.75,Monthly,Auto-Debit,1,15,13.7,14,0,2,42
+SUB-10632,USR-3504,Peloton Digital,Fitness,Standard,24.21,Monthly,Auto-Debit,1,3,1.2,55,0,1,15
+SUB-10633,USR-3521,Xbox Game Pass,Gaming,Premium,21.06,Monthly,Credit Card,1,10,6.7,10,0,2,12
+SUB-10634,USR-4337,Adobe Creative Cloud,Productivity,Standard,54.99,Monthly,Credit Card,1,21,15.6,3,0,2,3
+SUB-10635,USR-3075,Disney+,Streaming,Basic,7.73,Monthly,Credit Card,1,25,32.6,0,0,1,16
+SUB-10636,USR-2355,Disney+,Streaming,Standard,14.39,Monthly,Debit Card,1,2,1.7,61,0,1,20
+SUB-10637,USR-1559,ChatGPT Plus,Productivity,Standard,19.06,Annual,Credit Card,1,1,1.8,51,0,1,33
+SUB-10638,USR-4065,Coursera Plus,Education,Standard,39.04,Monthly,PayPal,0,6,5.3,11,0,1,5
+SUB-10639,USR-3349,Microsoft 365,Productivity,Basic,7.23,Annual,Credit Card,1,1,1.9,85,0,2,10
+SUB-10640,USR-2481,Disney+,Streaming,Basic,7.97,Monthly,Credit Card,1,13,8.0,14,1,2,16
+SUB-10641,USR-3605,Peloton Digital,Fitness,Basic,12.07,Monthly,Credit Card,1,24,21.7,0,1,2,42
+SUB-10642,USR-3163,Xbox Game Pass,Gaming,Basic,11.32,Monthly,Debit Card,1,24,68.7,0,0,3,3
+SUB-10643,USR-2647,Gym Membership (Anytime/Gold),Fitness,Basic,29.92,Monthly,Credit Card,1,6,12.8,11,1,2,5
+SUB-10644,USR-2057,Coursera Plus,Education,Standard,37.19,Monthly,Credit Card,1,29,36.4,1,0,1,5
+SUB-10645,USR-2903,Gym Membership (Anytime/Gold),Fitness,Basic,30.44,Annual,Credit Card,1,17,39.6,2,0,4,7
+SUB-10646,USR-2526,Duolingo Super,Education,Standard,13.09,Annual,Credit Card,1,0,1.8,40,0,1,4
+SUB-10647,USR-2801,ChatGPT Plus,Productivity,Standard,20.84,Monthly,Credit Card,1,29,49.5,1,0,3,60
+SUB-10648,USR-2531,Microsoft 365,Productivity,Standard,12.93,Annual,Credit Card,1,0,0.2,80,0,1,15
+SUB-10649,USR-1990,Duolingo Super,Education,Premium,20.29,Annual,Auto-Debit,1,20,56.9,0,0,2,7
+SUB-10650,USR-1606,Gym Membership (Anytime/Gold),Fitness,Standard,49.1,Monthly,Credit Card,1,0,2.3,25,0,1,2
+SUB-10651,USR-2308,Gym Membership (Anytime/Gold),Fitness,Basic,29.08,Monthly,Credit Card,1,28,44.0,1,1,2,23
+SUB-10652,USR-3648,PlayStation Plus,Gaming,Standard,15.13,Annual,Credit Card,1,26,21.5,1,0,1,3
+SUB-10653,USR-2329,Microsoft 365,Productivity,Standard,12.82,Monthly,Debit Card,1,28,70.8,0,1,3,47
+SUB-10654,USR-3553,Adobe Creative Cloud,Productivity,Basic,22.57,Monthly,Credit Card,1,20,66.1,1,1,2,30
+SUB-10655,USR-4272,PlayStation Plus,Gaming,Basic,9.83,Monthly,Debit Card,1,15,55.7,1,0,2,12
+SUB-10656,USR-3539,Adobe Creative Cloud,Productivity,Standard,53.68,Monthly,Credit Card,1,7,19.1,5,0,2,21
+SUB-10657,USR-2599,Duolingo Super,Education,Standard,13.58,Monthly,Credit Card,1,9,4.7,15,0,2,7
+SUB-10658,USR-4088,Netflix,Streaming,Standard,15.89,Monthly,Credit Card,0,5,8.1,14,0,2,9
+SUB-10659,USR-3454,Xbox Game Pass,Gaming,Basic,11.66,Annual,Debit Card,1,10,9.9,19,0,1,7
+SUB-10660,USR-1757,Disney+,Streaming,Premium,18.15,Monthly,PayPal,1,28,34.0,7,0,2,19
+SUB-10661,USR-2049,ChatGPT Plus,Productivity,Standard,20.64,Annual,Debit Card,1,21,32.6,0,1,3,1
+SUB-10662,USR-2634,iCloud Storage,Cloud Storage,Premium,30.68,Annual,PayPal,1,26,16.8,0,1,3,25
+SUB-10663,USR-2877,Disney+,Streaming,Standard,14.36,Annual,PayPal,1,27,34.8,2,0,1,4
+SUB-10664,USR-4076,Coursera Plus,Education,Basic,18.66,Monthly,Credit Card,1,13,11.2,12,0,3,17
+SUB-10665,USR-1119,Google One / Drive,Cloud Storage,Standard,9.63,Monthly,PayPal,1,0,1.8,71,0,1,3
+SUB-10666,USR-3368,PlayStation Plus,Gaming,Standard,15.65,Monthly,Auto-Debit,1,5,18.1,19,0,3,31
+SUB-10667,USR-1857,Gym Membership (Anytime/Gold),Fitness,Premium,91.69,Monthly,Debit Card,1,15,14.6,5,0,1,5
+SUB-10668,USR-3249,Xbox Game Pass,Gaming,Standard,17.22,Monthly,Credit Card,1,16,47.7,1,0,1,10
+SUB-10669,USR-2196,Coursera Plus,Education,Basic,19.81,Annual,Debit Card,1,7,9.3,4,2,2,34
+SUB-10670,USR-4178,Gym Membership (Anytime/Gold),Fitness,Basic,31.06,Monthly,Credit Card,1,17,47.8,1,1,1,2
+SUB-10671,USR-2608,Peloton Digital,Fitness,Basic,12.27,Monthly,PayPal,1,2,2.3,84,1,1,1
+SUB-10672,USR-1247,Coursera Plus,Education,Standard,38.66,Monthly,Debit Card,1,0,1.0,88,0,1,2
+SUB-10673,USR-2348,Xbox Game Pass,Gaming,Premium,21.03,Monthly,Credit Card,1,2,0.3,83,0,1,11
+SUB-10674,USR-3979,Google One / Drive,Cloud Storage,Standard,9.94,Monthly,Debit Card,1,18,0.0,1,0,2,2
+SUB-10675,USR-3954,Coursera Plus,Education,Basic,20.17,Monthly,Credit Card,1,29,44.4,1,0,2,3
+SUB-10676,USR-1278,Coursera Plus,Education,Basic,19.22,Annual,PayPal,0,27,45.4,2,0,3,5
+SUB-10677,USR-3570,ChatGPT Plus,Productivity,Premium,30.53,Monthly,Credit Card,1,22,35.2,0,0,1,4
+SUB-10678,USR-4420,Adobe Creative Cloud,Productivity,Premium,91.03,Annual,Credit Card,1,0,0.6,34,0,1,14
+SUB-10679,USR-1846,Google One / Drive,Cloud Storage,Premium,26.08,Annual,PayPal,1,15,9.5,11,0,1,5
+SUB-10680,USR-4467,Google One / Drive,Cloud Storage,Basic,1.97,Monthly,Credit Card,1,9,11.9,18,0,2,7
+SUB-10681,USR-2681,PlayStation Plus,Gaming,Premium,21.05,Monthly,Credit Card,0,28,69.3,0,0,4,20
+SUB-10682,USR-1184,ChatGPT Plus,Productivity,Basic,9.81,Monthly,Auto-Debit,1,13,11.6,6,0,3,16
+SUB-10683,USR-2152,Peloton Digital,Fitness,Standard,23.63,Annual,Credit Card,1,24,45.8,1,0,3,4
+SUB-10684,USR-3982,Disney+,Streaming,Standard,13.39,Annual,Credit Card,1,24,49.9,3,0,1,24
+SUB-10685,USR-3567,Xbox Game Pass,Gaming,Standard,16.24,Monthly,Auto-Debit,1,1,1.5,28,1,2,3
+SUB-10686,USR-1966,ChatGPT Plus,Productivity,Premium,30.68,Annual,Credit Card,1,15,22.7,1,0,1,1
+SUB-10687,USR-1702,Netflix,Streaming,Basic,9.86,Monthly,Credit Card,1,20,55.3,2,0,2,13
+SUB-10688,USR-4074,Spotify,Streaming,Basic,6.87,Monthly,Debit Card,1,28,16.8,8,0,2,13
+SUB-10689,USR-1388,Spotify,Streaming,Premium,17.89,Monthly,Debit Card,1,10,6.4,19,0,1,13
+SUB-10690,USR-3326,Microsoft 365,Productivity,Standard,13.27,Monthly,Auto-Debit,1,22,32.0,1,0,1,6
+SUB-10691,USR-3078,ChatGPT Plus,Productivity,Basic,10.16,Annual,Credit Card,1,5,19.3,6,0,1,9
+SUB-10692,USR-1015,Google One / Drive,Cloud Storage,Standard,9.81,Monthly,Credit Card,1,15,31.8,0,0,2,15
+SUB-10693,USR-2839,Disney+,Streaming,Basic,7.92,Monthly,Credit Card,1,29,35.9,0,0,2,15
+SUB-10694,USR-2409,PlayStation Plus,Gaming,Premium,22.25,Monthly,Debit Card,1,20,25.8,0,0,2,38
+SUB-10695,USR-4148,Spotify,Streaming,Standard,10.96,Monthly,Credit Card,1,24,44.4,6,1,2,11
+SUB-10696,USR-2612,Coursera Plus,Education,Premium,59.84,Monthly,Credit Card,0,25,40.1,1,0,3,3
+SUB-10697,USR-1578,Duolingo Super,Education,Basic,9.06,Monthly,Credit Card,1,20,42.1,3,0,3,2
+SUB-10698,USR-3993,Microsoft 365,Productivity,Premium,21.59,Monthly,Debit Card,1,2,1.5,33,0,1,22
+SUB-10699,USR-1800,Xbox Game Pass,Gaming,Premium,21.87,Monthly,PayPal,1,20,35.2,2,0,1,1
+SUB-10700,USR-2620,Google One / Drive,Cloud Storage,Basic,1.98,Monthly,Credit Card,1,12,16.7,13,0,1,11
+SUB-10701,USR-1869,Duolingo Super,Education,Basic,8.69,Annual,Credit Card,1,12,6.7,5,0,1,34
+SUB-10702,USR-2923,Disney+,Streaming,Basic,7.95,Monthly,PayPal,1,2,1.8,83,1,1,9
+SUB-10703,USR-2300,Microsoft 365,Productivity,Basic,7.06,Monthly,PayPal,1,0,1.0,40,0,1,13
+SUB-10704,USR-2622,Xbox Game Pass,Gaming,Basic,11.82,Annual,Credit Card,1,14,5.5,10,0,2,10
+SUB-10705,USR-2392,Duolingo Super,Education,Standard,12.55,Monthly,Credit Card,1,14,10.0,8,0,2,4
+SUB-10706,USR-4092,Peloton Digital,Fitness,Basic,11.77,Monthly,Credit Card,1,26,38.6,1,0,3,1
+SUB-10707,USR-1020,Adobe Creative Cloud,Productivity,Standard,55.03,Annual,Credit Card,1,23,69.9,0,2,2,10
+SUB-10708,USR-1174,Disney+,Streaming,Basic,8.1,Monthly,Credit Card,1,17,28.9,2,0,3,21
+SUB-10709,USR-4444,Adobe Creative Cloud,Productivity,Standard,53.19,Annual,Credit Card,1,27,23.5,0,0,2,9
+SUB-10710,USR-3225,ChatGPT Plus,Productivity,Basic,10.13,Annual,Credit Card,1,9,8.2,8,2,2,2
+SUB-10711,USR-1773,Coursera Plus,Education,Standard,38.27,Monthly,PayPal,1,0,1.6,24,0,2,8
+SUB-10712,USR-2195,Peloton Digital,Fitness,Premium,41.49,Monthly,Credit Card,1,1,0.9,65,0,1,38
+SUB-10713,USR-1829,Netflix,Streaming,Basic,9.57,Monthly,Auto-Debit,1,0,2.1,27,0,2,15
+SUB-10714,USR-3672,PlayStation Plus,Gaming,Basic,9.78,Monthly,Debit Card,1,26,51.9,0,0,3,5
+SUB-10715,USR-3395,Spotify,Streaming,Standard,10.99,Monthly,Credit Card,1,6,4.6,12,0,2,5
+SUB-10716,USR-2284,Disney+,Streaming,Premium,18.19,Annual,Credit Card,1,1,1.6,89,0,2,12
+SUB-10717,USR-1721,Gym Membership (Anytime/Gold),Fitness,Basic,30.79,Monthly,PayPal,1,29,53.2,2,0,1,10
+SUB-10718,USR-4187,Disney+,Streaming,Standard,14.22,Monthly,PayPal,1,24,70.0,0,0,3,32
+SUB-10719,USR-1319,Disney+,Streaming,Standard,14.24,Monthly,PayPal,1,21,50.5,1,0,4,24
+SUB-10720,USR-2094,Microsoft 365,Productivity,Premium,22.22,Monthly,Credit Card,1,0,2.3,58,0,2,3
+SUB-10721,USR-3343,PlayStation Plus,Gaming,Basic,9.46,Monthly,Credit Card,1,24,61.7,2,0,3,2
+SUB-10722,USR-2749,ChatGPT Plus,Productivity,Basic,9.78,Annual,Credit Card,1,26,20.1,3,0,3,12
+SUB-10723,USR-2977,Duolingo Super,Education,Standard,12.37,Annual,Credit Card,1,13,9.5,6,1,1,3
+SUB-10724,USR-2619,Gym Membership (Anytime/Gold),Fitness,Basic,29.91,Monthly,PayPal,1,0,2.3,69,0,1,5
+SUB-10725,USR-4324,Peloton Digital,Fitness,Standard,25.2,Monthly,Credit Card,1,0,0.6,44,1,1,32
+SUB-10726,USR-1472,Duolingo Super,Education,Basic,8.82,Annual,Debit Card,1,18,30.2,0,0,2,26
+SUB-10727,USR-2134,Microsoft 365,Productivity,Standard,12.56,Monthly,Credit Card,1,1,0.0,70,0,1,19
+SUB-10728,USR-2516,Spotify,Streaming,Basic,6.31,Annual,Credit Card,0,19,65.6,1,0,2,45
+SUB-10729,USR-3578,Adobe Creative Cloud,Productivity,Standard,57.48,Monthly,Credit Card,1,11,11.2,17,1,2,4
+SUB-10730,USR-3832,Netflix,Streaming,Basic,9.82,Annual,Credit Card,1,28,60.1,5,0,4,20
+SUB-10731,USR-2603,Peloton Digital,Fitness,Premium,40.12,Annual,Auto-Debit,1,20,40.8,6,0,3,1
+SUB-10732,USR-3375,iCloud Storage,Cloud Storage,Standard,10.38,Monthly,Auto-Debit,1,15,73.5,1,1,4,16
+SUB-10733,USR-1580,Netflix,Streaming,Standard,16.25,Annual,Debit Card,1,15,13.9,11,0,1,5
+SUB-10734,USR-2656,Duolingo Super,Education,Standard,13.02,Annual,Credit Card,1,0,0.8,39,0,1,9
+SUB-10735,USR-3766,Duolingo Super,Education,Standard,12.99,Monthly,PayPal,0,1,0.8,76,0,1,39
+SUB-10736,USR-4296,Spotify,Streaming,Standard,10.99,Monthly,Debit Card,1,0,1.9,61,0,1,14
+SUB-10737,USR-4354,Microsoft 365,Productivity,Premium,21.65,Monthly,Credit Card,1,12,19.7,12,0,2,11
+SUB-10738,USR-1022,Peloton Digital,Fitness,Standard,24.13,Monthly,Debit Card,1,6,6.7,5,0,3,1
+SUB-10739,USR-2499,PlayStation Plus,Gaming,Premium,20.68,Monthly,Debit Card,1,0,1.6,85,1,2,3
+SUB-10740,USR-3088,Adobe Creative Cloud,Productivity,Standard,55.97,Monthly,PayPal,1,22,70.5,1,0,3,6
+SUB-10741,USR-3586,Gym Membership (Anytime/Gold),Fitness,Premium,87.64,Monthly,PayPal,1,0,0.6,37,0,2,1
+SUB-10742,USR-2489,Coursera Plus,Education,Standard,39.68,Monthly,Credit Card,1,0,0.1,72,0,1,9
+SUB-10743,USR-3151,Google One / Drive,Cloud Storage,Standard,9.88,Monthly,Debit Card,1,7,5.5,19,0,1,15
+SUB-10744,USR-1367,Netflix,Streaming,Basic,10.5,Annual,Credit Card,1,17,58.0,1,0,3,21
+SUB-10745,USR-3803,Peloton Digital,Fitness,Standard,23.95,Monthly,PayPal,1,11,13.1,16,2,2,27
+SUB-10746,USR-2875,Netflix,Streaming,Standard,15.08,Monthly,Credit Card,1,6,15.3,14,0,2,29
+SUB-10747,USR-1292,Gym Membership (Anytime/Gold),Fitness,Premium,90.71,Monthly,PayPal,1,0,1.4,50,0,1,6
+SUB-10748,USR-2182,Peloton Digital,Fitness,Basic,11.42,Annual,Auto-Debit,1,24,70.3,2,0,3,5
+SUB-10749,USR-1758,PlayStation Plus,Gaming,Basic,9.95,Monthly,Debit Card,0,2,0.1,33,0,1,2
+SUB-10750,USR-2988,Xbox Game Pass,Gaming,Basic,12.04,Annual,Debit Card,1,24,74.8,1,0,3,7
+SUB-10751,USR-2351,ChatGPT Plus,Productivity,Basic,9.56,Annual,Debit Card,1,10,11.7,6,0,2,31
+SUB-10752,USR-2637,iCloud Storage,Cloud Storage,Standard,9.86,Annual,Credit Card,1,17,29.1,4,0,4,18
+SUB-10753,USR-2583,Netflix,Streaming,Standard,15.57,Annual,Credit Card,1,19,30.2,6,0,1,22
+SUB-10754,USR-3393,Netflix,Streaming,Basic,10.28,Monthly,PayPal,1,13,8.0,9,0,1,2
+SUB-10755,USR-3361,Microsoft 365,Productivity,Premium,23.13,Monthly,PayPal,1,29,44.3,1,0,1,4
+SUB-10756,USR-1507,Peloton Digital,Fitness,Basic,11.52,Annual,Credit Card,1,3,2.2,54,0,1,30
+SUB-10757,USR-1611,Google One / Drive,Cloud Storage,Premium,25.11,Monthly,Auto-Debit,1,7,6.9,16,0,2,2
+SUB-10758,USR-2826,Xbox Game Pass,Gaming,Basic,11.53,Annual,PayPal,1,2,2.2,39,0,1,52
+SUB-10759,USR-1168,Peloton Digital,Fitness,Standard,23.21,Monthly,Debit Card,1,16,38.7,3,0,1,3
+SUB-10760,USR-1174,iCloud Storage,Cloud Storage,Standard,10.43,Monthly,Credit Card,1,29,53.6,1,0,2,17
+SUB-10761,USR-2061,Duolingo Super,Education,Basic,9.4,Annual,Credit Card,1,15,19.8,9,0,1,2
+SUB-10762,USR-1938,Adobe Creative Cloud,Productivity,Basic,22.77,Monthly,PayPal,0,0,1.7,62,0,2,5
+SUB-10763,USR-1108,iCloud Storage,Cloud Storage,Premium,29.23,Annual,Debit Card,1,9,12.4,12,0,2,1
+SUB-10764,USR-2134,Gym Membership (Anytime/Gold),Fitness,Standard,50.35,Annual,Debit Card,1,17,42.7,4,0,2,23
+SUB-10765,USR-1760,Disney+,Streaming,Standard,13.41,Monthly,Credit Card,1,2,1.3,39,0,2,2
+SUB-10766,USR-3404,Disney+,Streaming,Standard,14.12,Monthly,Debit Card,1,17,19.0,1,0,3,1
+SUB-10767,USR-4053,iCloud Storage,Cloud Storage,Standard,10.3,Monthly,Credit Card,1,0,0.8,30,0,1,17
+SUB-10768,USR-3855,Google One / Drive,Cloud Storage,Premium,25.79,Monthly,Credit Card,1,2,0.1,81,0,1,9
+SUB-10769,USR-4183,Google One / Drive,Cloud Storage,Standard,10.05,Monthly,Credit Card,1,8,6.7,12,1,2,2
+SUB-10770,USR-3070,Peloton Digital,Fitness,Basic,11.88,Monthly,Credit Card,1,0,0.3,55,0,1,13
+SUB-10771,USR-4495,Disney+,Streaming,Basic,8.37,Annual,Debit Card,1,20,50.4,1,1,2,11
+SUB-10772,USR-2812,Gym Membership (Anytime/Gold),Fitness,Premium,86.63,Annual,Auto-Debit,1,0,1.4,66,0,2,8
+SUB-10773,USR-1866,Coursera Plus,Education,Premium,59.05,Monthly,Debit Card,1,20,47.9,1,0,2,10
+SUB-10774,USR-1497,Peloton Digital,Fitness,Standard,23.3,Annual,Credit Card,1,2,1.3,84,0,1,29
+SUB-10775,USR-1091,Adobe Creative Cloud,Productivity,Standard,57.37,Monthly,Auto-Debit,1,22,69.2,6,0,3,1
+SUB-10776,USR-3623,Coursera Plus,Education,Standard,37.91,Monthly,PayPal,1,0,1.9,62,0,2,7
+SUB-10777,USR-2536,Gym Membership (Anytime/Gold),Fitness,Basic,30.56,Monthly,Credit Card,1,0,0.9,28,0,1,9
+SUB-10778,USR-1718,Xbox Game Pass,Gaming,Basic,12.15,Annual,PayPal,1,0,1.6,30,0,1,11
+SUB-10779,USR-4031,Duolingo Super,Education,Basic,9.04,Monthly,PayPal,1,1,0.0,34,0,1,12
+SUB-10780,USR-3389,Spotify,Streaming,Standard,10.71,Monthly,PayPal,1,0,2.2,77,1,1,1
+SUB-10781,USR-2240,Adobe Creative Cloud,Productivity,Basic,23.06,Monthly,Credit Card,1,6,15.6,19,0,2,13
+SUB-10782,USR-1229,Spotify,Streaming,Standard,10.75,Annual,Credit Card,1,28,34.7,0,2,2,1
+SUB-10783,USR-1444,Coursera Plus,Education,Standard,39.21,Monthly,Auto-Debit,1,16,36.9,0,1,2,13
+SUB-10784,USR-2700,Duolingo Super,Education,Basic,9.12,Annual,Credit Card,1,2,1.1,63,0,1,13
+SUB-10785,USR-1448,Netflix,Streaming,Standard,15.24,Monthly,PayPal,1,22,59.4,0,0,2,1
+SUB-10786,USR-2861,Xbox Game Pass,Gaming,Basic,12.22,Annual,Debit Card,1,29,33.1,2,1,1,31
+SUB-10787,USR-3111,Duolingo Super,Education,Premium,18.68,Annual,PayPal,1,0,2.0,82,0,1,1
+SUB-10788,USR-2129,Netflix,Streaming,Standard,15.8,Monthly,Credit Card,1,15,19.1,10,0,1,8
+SUB-10789,USR-2359,Google One / Drive,Cloud Storage,Standard,9.85,Annual,Credit Card,1,1,0.4,85,0,1,5
+SUB-10790,USR-1531,Xbox Game Pass,Gaming,Premium,21.74,Monthly,Debit Card,1,0,0.1,58,0,1,2
+SUB-10791,USR-2774,iCloud Storage,Cloud Storage,Premium,31.03,Monthly,Debit Card,1,28,20.8,0,0,3,29
+SUB-10792,USR-4358,Spotify,Streaming,Standard,10.93,Annual,Credit Card,1,0,1.4,43,1,1,2
+SUB-10793,USR-1016,Xbox Game Pass,Gaming,Basic,12.19,Annual,Credit Card,1,29,50.1,0,1,2,7
+SUB-10794,USR-2067,Disney+,Streaming,Basic,7.64,Annual,Credit Card,1,7,4.9,7,0,2,13
+SUB-10795,USR-1157,Spotify,Streaming,Premium,16.44,Monthly,Debit Card,1,23,63.0,2,0,3,4
+SUB-10796,USR-2795,ChatGPT Plus,Productivity,Basic,9.65,Monthly,Auto-Debit,1,0,0.6,65,0,2,8
+SUB-10797,USR-2165,Spotify,Streaming,Standard,11.26,Monthly,Credit Card,1,20,28.8,0,0,2,26
+SUB-10798,USR-2151,Duolingo Super,Education,Basic,8.66,Annual,Credit Card,1,15,19.5,14,0,2,14
+SUB-10799,USR-1418,Xbox Game Pass,Gaming,Basic,12.22,Annual,Credit Card,1,2,1.0,63,0,1,2
+SUB-10800,USR-2266,ChatGPT Plus,Productivity,Standard,19.33,Monthly,PayPal,1,14,6.2,4,1,1,13
+SUB-10801,USR-4193,Gym Membership (Anytime/Gold),Fitness,Premium,91.82,Annual,Credit Card,1,14,8.8,11,1,1,20
+SUB-10802,USR-2432,ChatGPT Plus,Productivity,Premium,29.02,Monthly,Debit Card,1,1,1.3,60,0,1,26
+SUB-10803,USR-1489,Disney+,Streaming,Basic,8.09,Monthly,Auto-Debit,1,18,29.4,4,0,2,16
+SUB-10804,USR-2277,Adobe Creative Cloud,Productivity,Basic,22.87,Annual,Credit Card,1,17,42.6,1,0,2,16
+SUB-10805,USR-3194,Coursera Plus,Education,Basic,19.95,Monthly,Credit Card,1,8,5.1,9,0,2,41
+SUB-10806,USR-2143,Peloton Digital,Fitness,Standard,23.73,Annual,Credit Card,1,27,47.4,4,0,2,3
+SUB-10807,USR-2504,iCloud Storage,Cloud Storage,Basic,2.92,Monthly,Credit Card,1,29,20.5,0,0,2,18
+SUB-10808,USR-2300,Adobe Creative Cloud,Productivity,Premium,90.58,Annual,Credit Card,1,0,0.2,56,0,1,12
+SUB-10809,USR-3006,Google One / Drive,Cloud Storage,Standard,9.94,Annual,Debit Card,1,0,0.8,88,0,1,43
+SUB-10810,USR-4140,Microsoft 365,Productivity,Basic,6.82,Annual,Credit Card,1,27,62.4,1,0,3,49
+SUB-10811,USR-1905,Netflix,Streaming,Basic,10.45,Monthly,Debit Card,0,0,1.9,72,0,2,11
+SUB-10812,USR-3292,Google One / Drive,Cloud Storage,Standard,9.9,Annual,Debit Card,1,2,1.0,42,0,1,19
+SUB-10813,USR-1009,iCloud Storage,Cloud Storage,Standard,10.26,Annual,Credit Card,1,7,17.8,10,1,1,16
+SUB-10814,USR-1046,Spotify,Streaming,Basic,6.76,Monthly,Credit Card,1,21,34.5,3,1,2,45
+SUB-10815,USR-2982,Netflix,Streaming,Basic,10.41,Monthly,Credit Card,1,14,13.5,16,0,3,41
+SUB-10816,USR-1238,Microsoft 365,Productivity,Standard,13.1,Annual,PayPal,1,28,70.1,2,0,3,60
+SUB-10817,USR-1131,ChatGPT Plus,Productivity,Standard,20.48,Monthly,Debit Card,1,9,13.7,9,2,1,6
+SUB-10818,USR-1439,Peloton Digital,Fitness,Basic,11.62,Annual,Auto-Debit,1,0,0.1,69,0,1,5
+SUB-10819,USR-2212,Spotify,Streaming,Basic,6.44,Monthly,Debit Card,1,21,41.4,3,0,1,26
+SUB-10820,USR-3754,Disney+,Streaming,Standard,13.94,Monthly,PayPal,1,0,1.1,59,0,1,4
+SUB-10821,USR-2477,Google One / Drive,Cloud Storage,Standard,10.39,Annual,PayPal,1,25,68.7,0,0,2,43
+SUB-10822,USR-1950,Microsoft 365,Productivity,Standard,12.61,Annual,Debit Card,0,24,60.8,2,0,3,5
+SUB-10823,USR-2314,Coursera Plus,Education,Premium,57.01,Annual,Credit Card,0,0,2.4,71,0,1,1
+SUB-10824,USR-3260,Spotify,Streaming,Standard,10.45,Annual,Credit Card,1,5,9.6,17,0,2,2
+SUB-10825,USR-2215,Microsoft 365,Productivity,Basic,7.29,Annual,Credit Card,1,12,19.2,11,1,2,2
+SUB-10826,USR-1958,ChatGPT Plus,Productivity,Standard,19.03,Annual,PayPal,1,1,0.4,38,0,2,1
+SUB-10827,USR-3045,Duolingo Super,Education,Premium,19.41,Monthly,Debit Card,1,2,2.1,43,0,1,13
+SUB-10828,USR-3330,Disney+,Streaming,Standard,14.3,Annual,Debit Card,1,25,63.0,0,0,4,47
+SUB-10829,USR-4037,Xbox Game Pass,Gaming,Standard,16.77,Monthly,PayPal,1,15,36.0,5,1,1,19
+SUB-10830,USR-3201,Coursera Plus,Education,Premium,58.31,Monthly,PayPal,1,15,37.8,0,0,2,4
+SUB-10831,USR-2496,Adobe Creative Cloud,Productivity,Standard,55.62,Annual,Credit Card,1,21,30.2,2,0,2,60
+SUB-10832,USR-4192,iCloud Storage,Cloud Storage,Standard,10.33,Annual,Credit Card,1,11,17.5,13,0,2,3
+SUB-10833,USR-4496,Netflix,Streaming,Standard,15.3,Monthly,Auto-Debit,1,0,2.4,73,0,2,11
+SUB-10834,USR-4322,Adobe Creative Cloud,Productivity,Standard,56.68,Monthly,Credit Card,1,6,9.3,9,0,1,47
+SUB-10835,USR-2057,iCloud Storage,Cloud Storage,Standard,10.39,Monthly,PayPal,1,0,1.6,60,0,1,1
+SUB-10836,USR-3239,Adobe Creative Cloud,Productivity,Basic,21.21,Monthly,Debit Card,1,26,55.3,0,0,3,6
+SUB-10837,USR-4274,Xbox Game Pass,Gaming,Premium,22.18,Monthly,PayPal,1,1,1.4,36,0,2,8
+SUB-10838,USR-3103,Adobe Creative Cloud,Productivity,Standard,56.43,Monthly,Credit Card,1,16,62.9,0,0,4,40
+SUB-10839,USR-2425,Microsoft 365,Productivity,Standard,12.76,Monthly,Auto-Debit,1,24,68.0,0,0,2,30
+SUB-10840,USR-4073,Spotify,Streaming,Premium,17.25,Monthly,PayPal,1,2,1.7,66,0,1,3
+SUB-10841,USR-1721,Xbox Game Pass,Gaming,Basic,12.44,Monthly,Debit Card,1,27,22.6,0,1,4,2
+SUB-10842,USR-1023,Gym Membership (Anytime/Gold),Fitness,Basic,28.71,Monthly,Credit Card,1,9,19.1,9,1,2,6
+SUB-10843,USR-4080,Duolingo Super,Education,Standard,12.63,Annual,Debit Card,1,19,39.8,0,1,2,10
+SUB-10844,USR-3908,Xbox Game Pass,Gaming,Basic,12.2,Monthly,Credit Card,1,21,17.2,4,0,4,9
+SUB-10845,USR-1373,Microsoft 365,Productivity,Standard,12.8,Monthly,Credit Card,1,28,17.7,3,0,2,10
+SUB-10846,USR-2294,Netflix,Streaming,Premium,22.13,Annual,Credit Card,1,0,0.8,55,0,1,5
+SUB-10847,USR-2266,Google One / Drive,Cloud Storage,Basic,2.07,Monthly,PayPal,1,20,62.1,0,0,4,23
+SUB-10848,USR-3087,Netflix,Streaming,Basic,9.68,Monthly,Credit Card,1,8,11.2,19,1,3,21
+SUB-10849,USR-3890,Google One / Drive,Cloud Storage,Basic,2.02,Monthly,Debit Card,1,2,1.1,57,0,2,8
+SUB-10850,USR-1338,Microsoft 365,Productivity,Standard,12.9,Annual,PayPal,1,13,8.8,15,0,3,3
+SUB-10851,USR-2965,Duolingo Super,Education,Basic,9.5,Monthly,Debit Card,1,1,2.5,71,0,2,1
+SUB-10852,USR-4330,Spotify,Streaming,Standard,10.66,Monthly,PayPal,1,0,1.9,30,0,1,5
+SUB-10853,USR-1783,ChatGPT Plus,Productivity,Standard,19.67,Annual,Credit Card,1,0,0.3,43,0,1,37
+SUB-10854,USR-2932,Coursera Plus,Education,Standard,37.82,Monthly,Credit Card,1,15,7.3,4,0,1,11
+SUB-10855,USR-2987,Coursera Plus,Education,Basic,19.64,Annual,Debit Card,1,29,48.7,0,0,2,8
+SUB-10856,USR-1724,ChatGPT Plus,Productivity,Premium,31.14,Annual,Credit Card,1,7,13.5,9,2,2,38
+SUB-10857,USR-3062,Spotify,Streaming,Basic,6.29,Annual,PayPal,1,13,12.1,5,0,1,20
+SUB-10858,USR-2987,Duolingo Super,Education,Basic,9.22,Annual,PayPal,1,2,0.0,36,1,2,16
+SUB-10859,USR-3286,Xbox Game Pass,Gaming,Basic,11.76,Monthly,Credit Card,1,1,1.8,45,0,1,6
+SUB-10860,USR-4357,Coursera Plus,Education,Standard,39.91,Annual,Debit Card,1,0,1.7,89,0,2,9
+SUB-10861,USR-2709,Gym Membership (Anytime/Gold),Fitness,Premium,86.93,Monthly,Debit Card,1,0,1.9,65,0,2,17
+SUB-10862,USR-3471,Peloton Digital,Fitness,Basic,12.51,Annual,Credit Card,1,2,0.7,43,0,1,9
+SUB-10863,USR-3665,Spotify,Streaming,Premium,17.19,Monthly,Credit Card,1,22,52.0,1,0,2,2
+SUB-10864,USR-2107,Disney+,Streaming,Premium,18.63,Annual,Auto-Debit,1,1,1.0,35,0,1,44
+SUB-10865,USR-2724,Netflix,Streaming,Basic,10.36,Annual,Auto-Debit,1,16,57.1,2,0,2,2
+SUB-10866,USR-2816,iCloud Storage,Cloud Storage,Premium,30.37,Annual,Credit Card,1,27,43.3,0,1,4,10
+SUB-10867,USR-4177,Spotify,Streaming,Standard,10.51,Monthly,Credit Card,1,8,18.3,15,1,2,4
+SUB-10868,USR-3788,Duolingo Super,Education,Basic,9.54,Monthly,Auto-Debit,1,28,70.6,1,0,4,4
+SUB-10869,USR-4179,PlayStation Plus,Gaming,Premium,22.48,Annual,Credit Card,1,18,21.1,2,0,2,4
+SUB-10870,USR-3358,Gym Membership (Anytime/Gold),Fitness,Standard,50.92,Annual,PayPal,1,0,1.8,47,0,2,7
+SUB-10871,USR-1500,Microsoft 365,Productivity,Premium,21.58,Annual,Credit Card,1,0,0.1,56,0,1,18
+SUB-10872,USR-2673,Adobe Creative Cloud,Productivity,Standard,53.11,Monthly,Credit Card,1,1,1.4,70,0,2,13
+SUB-10873,USR-3654,Peloton Digital,Fitness,Standard,23.87,Monthly,PayPal,0,27,24.1,0,0,2,9
+SUB-10874,USR-1470,Google One / Drive,Cloud Storage,Standard,9.52,Monthly,Credit Card,1,0,0.1,27,0,1,26
+SUB-10875,USR-1920,Coursera Plus,Education,Standard,40.07,Monthly,Credit Card,1,16,46.6,3,0,4,37
+SUB-10876,USR-2177,Spotify,Streaming,Premium,16.63,Monthly,Credit Card,0,29,49.6,3,2,2,35
+SUB-10877,USR-3555,Spotify,Streaming,Standard,10.99,Monthly,Credit Card,1,15,4.8,14,0,3,20
+SUB-10878,USR-3241,iCloud Storage,Cloud Storage,Standard,9.94,Monthly,PayPal,1,17,63.5,0,0,2,2
+SUB-10879,USR-3185,Adobe Creative Cloud,Productivity,Standard,54.64,Monthly,PayPal,1,1,1.4,72,0,1,12
+SUB-10880,USR-1887,Google One / Drive,Cloud Storage,Standard,9.91,Annual,Credit Card,1,1,1.7,61,0,1,10
+SUB-10881,USR-4453,Spotify,Streaming,Basic,6.31,Annual,Credit Card,1,1,1.9,56,0,2,5
+SUB-10882,USR-1713,Netflix,Streaming,Standard,15.12,Monthly,Credit Card,0,26,32.4,3,0,4,23
+SUB-10883,USR-1099,iCloud Storage,Cloud Storage,Standard,9.84,Annual,Credit Card,1,2,0.7,42,0,1,8
+SUB-10884,USR-3146,Adobe Creative Cloud,Productivity,Basic,21.92,Annual,Debit Card,1,22,67.7,3,0,1,5
+SUB-10885,USR-3017,Disney+,Streaming,Basic,8.19,Monthly,Debit Card,1,15,61.7,2,0,2,9
+SUB-10886,USR-1110,iCloud Storage,Cloud Storage,Premium,30.03,Monthly,Credit Card,1,6,14.1,6,0,2,26
+SUB-10887,USR-1271,Google One / Drive,Cloud Storage,Standard,9.86,Monthly,Credit Card,1,1,1.7,76,0,2,1
+SUB-10888,USR-2533,Google One / Drive,Cloud Storage,Standard,10.2,Monthly,Credit Card,1,11,18.5,12,0,3,14
+SUB-10889,USR-1515,Microsoft 365,Productivity,Premium,23.02,Annual,Debit Card,0,19,60.8,0,0,3,10
+SUB-10890,USR-1991,Disney+,Streaming,Basic,8.37,Monthly,Debit Card,0,16,15.3,2,0,2,15
+SUB-10891,USR-2989,Spotify,Streaming,Basic,6.57,Monthly,Credit Card,1,0,0.6,75,0,2,5
+SUB-10892,USR-4373,Google One / Drive,Cloud Storage,Standard,10.43,Annual,Credit Card,1,27,21.8,0,0,1,16
+SUB-10893,USR-1824,Disney+,Streaming,Standard,14.41,Annual,Debit Card,1,11,8.8,12,2,2,6
+SUB-10894,USR-1374,Adobe Creative Cloud,Productivity,Standard,54.24,Monthly,Credit Card,1,0,2.3,84,0,1,2
+SUB-10895,USR-1663,Peloton Digital,Fitness,Standard,25.18,Monthly,Debit Card,1,18,50.9,3,0,2,8
+SUB-10896,USR-1201,Xbox Game Pass,Gaming,Standard,17.81,Annual,Credit Card,1,26,38.0,5,0,2,10
+SUB-10897,USR-1894,Coursera Plus,Education,Basic,18.86,Monthly,Auto-Debit,1,10,17.7,17,0,1,14
+SUB-10898,USR-2724,Xbox Game Pass,Gaming,Basic,12.45,Annual,Credit Card,1,18,31.4,1,0,3,13
+SUB-10899,USR-3144,Adobe Creative Cloud,Productivity,Basic,22.41,Monthly,Credit Card,1,7,6.4,12,0,2,8
+SUB-10900,USR-2278,PlayStation Plus,Gaming,Basic,9.26,Monthly,Credit Card,1,0,1.4,52,0,1,35
+SUB-10901,USR-2640,Gym Membership (Anytime/Gold),Fitness,Standard,49.12,Monthly,Credit Card,1,15,36.3,0,1,1,10
+SUB-10902,USR-4412,Adobe Creative Cloud,Productivity,Basic,21.04,Annual,PayPal,1,0,1.4,36,0,1,11
+SUB-10903,USR-2152,Netflix,Streaming,Standard,15.77,Annual,Credit Card,0,2,0.9,35,0,1,16
+SUB-10904,USR-1576,PlayStation Plus,Gaming,Basic,9.3,Annual,Credit Card,1,1,2.2,57,0,1,50
+SUB-10905,USR-3031,PlayStation Plus,Gaming,Premium,21.84,Annual,Debit Card,1,15,13.1,13,0,2,39
+SUB-10906,USR-3314,Gym Membership (Anytime/Gold),Fitness,Premium,90.54,Monthly,PayPal,1,12,19.7,17,0,2,44
+SUB-10907,USR-2814,Duolingo Super,Education,Basic,9.1,Monthly,Credit Card,0,16,62.5,1,0,3,17
+SUB-10908,USR-1675,Microsoft 365,Productivity,Basic,7.48,Annual,PayPal,0,7,8.7,9,0,1,23
+SUB-10909,USR-4403,Adobe Creative Cloud,Productivity,Standard,56.97,Monthly,Credit Card,1,25,37.5,0,0,3,12
+SUB-10910,USR-1129,Adobe Creative Cloud,Productivity,Standard,55.03,Monthly,Debit Card,1,22,27.4,0,0,1,13
+SUB-10911,USR-1339,Peloton Digital,Fitness,Standard,24.74,Annual,PayPal,1,10,19.0,17,0,3,3
+SUB-10912,USR-3482,Xbox Game Pass,Gaming,Basic,11.91,Annual,Credit Card,1,6,18.0,10,0,1,8
+SUB-10913,USR-2874,PlayStation Plus,Gaming,Standard,14.26,Monthly,Debit Card,1,18,72.3,0,0,2,14
+SUB-10914,USR-1684,ChatGPT Plus,Productivity,Standard,20.78,Annual,Credit Card,1,10,8.1,8,0,1,14
+SUB-10915,USR-3067,iCloud Storage,Cloud Storage,Standard,10.15,Monthly,Credit Card,1,13,16.6,14,0,2,11
+SUB-10916,USR-1832,Disney+,Streaming,Standard,13.69,Monthly,PayPal,0,15,17.0,19,0,2,2
+SUB-10917,USR-1330,Duolingo Super,Education,Basic,8.78,Monthly,Credit Card,1,2,0.2,29,0,1,7
+SUB-10918,USR-2948,Gym Membership (Anytime/Gold),Fitness,Standard,50.62,Monthly,Credit Card,1,11,16.8,4,0,2,5
+SUB-10919,USR-2891,Adobe Creative Cloud,Productivity,Premium,91.46,Monthly,Debit Card,1,22,21.0,2,0,4,31
+SUB-10920,USR-4059,ChatGPT Plus,Productivity,Basic,10.36,Monthly,PayPal,0,20,17.4,1,0,1,4
+SUB-10921,USR-2001,PlayStation Plus,Gaming,Standard,14.49,Monthly,Credit Card,1,19,59.8,1,0,3,26
+SUB-10922,USR-3672,Duolingo Super,Education,Standard,13.24,Monthly,Credit Card,0,22,18.7,5,1,3,8
+SUB-10923,USR-3782,Xbox Game Pass,Gaming,Basic,12.34,Monthly,PayPal,1,0,2.2,50,0,2,11
+SUB-10924,USR-3175,Google One / Drive,Cloud Storage,Standard,10.21,Annual,Debit Card,1,28,58.7,2,0,1,31
+SUB-10925,USR-2603,Google One / Drive,Cloud Storage,Standard,9.92,Monthly,Debit Card,1,13,15.1,7,0,1,19
+SUB-10926,USR-1569,Coursera Plus,Education,Basic,20.0,Monthly,Credit Card,1,0,2.0,80,0,1,3
+SUB-10927,USR-1902,Xbox Game Pass,Gaming,Standard,17.46,Monthly,Auto-Debit,1,26,48.6,0,1,4,11
+SUB-10928,USR-2922,ChatGPT Plus,Productivity,Premium,29.42,Annual,Debit Card,1,6,19.4,5,0,1,6
+SUB-10929,USR-1930,ChatGPT Plus,Productivity,Standard,19.98,Monthly,Debit Card,1,22,20.7,0,0,1,32
+SUB-10930,USR-1352,Adobe Creative Cloud,Productivity,Premium,89.49,Annual,PayPal,1,5,6.4,6,0,2,16
+SUB-10931,USR-2971,Gym Membership (Anytime/Gold),Fitness,Premium,86.94,Monthly,Credit Card,1,10,10.0,14,0,1,13
+SUB-10932,USR-2693,iCloud Storage,Cloud Storage,Basic,3.04,Monthly,Credit Card,1,15,17.2,8,0,2,1
+SUB-10933,USR-2072,Google One / Drive,Cloud Storage,Standard,10.44,Annual,Credit Card,1,7,7.9,4,0,2,10
+SUB-10934,USR-3743,Google One / Drive,Cloud Storage,Premium,24.93,Monthly,Credit Card,1,8,4.9,8,2,1,5
+SUB-10935,USR-3611,Netflix,Streaming,Basic,9.78,Monthly,Debit Card,1,0,0.4,73,0,2,27
+SUB-10936,USR-3668,Disney+,Streaming,Standard,14.21,Monthly,Credit Card,0,26,46.4,0,1,4,8
+SUB-10937,USR-2095,Netflix,Streaming,Premium,23.01,Monthly,Debit Card,1,5,12.4,18,0,2,23
+SUB-10938,USR-2501,PlayStation Plus,Gaming,Standard,15.7,Annual,Auto-Debit,1,0,1.8,42,0,1,3
+SUB-10939,USR-1072,Peloton Digital,Fitness,Standard,23.84,Monthly,Auto-Debit,1,6,8.7,11,1,2,16
+SUB-10940,USR-4457,Netflix,Streaming,Basic,10.53,Monthly,Credit Card,1,11,15.4,19,0,1,16
+SUB-10941,USR-2403,Disney+,Streaming,Premium,18.45,Monthly,PayPal,1,1,1.4,85,0,1,27
+SUB-10942,USR-3696,Xbox Game Pass,Gaming,Standard,17.57,Annual,Credit Card,1,1,1.6,26,0,1,11
+SUB-10943,USR-3867,Microsoft 365,Productivity,Standard,13.38,Monthly,Debit Card,1,6,5.2,15,0,2,24
+SUB-10944,USR-1425,Gym Membership (Anytime/Gold),Fitness,Basic,28.55,Monthly,Debit Card,1,19,56.7,1,0,2,5
+SUB-10945,USR-1532,Coursera Plus,Education,Basic,20.42,Monthly,PayPal,0,0,0.1,58,0,2,6
+SUB-10946,USR-2629,Disney+,Streaming,Premium,18.16,Annual,Auto-Debit,1,10,6.6,8,0,1,2
+SUB-10947,USR-1929,Disney+,Streaming,Standard,13.77,Monthly,Auto-Debit,0,29,33.6,3,0,3,41
+SUB-10948,USR-1032,Adobe Creative Cloud,Productivity,Premium,92.29,Monthly,Credit Card,1,7,19.2,13,0,1,12
+SUB-10949,USR-2986,PlayStation Plus,Gaming,Standard,14.56,Annual,PayPal,1,23,53.3,3,0,2,8
+SUB-10950,USR-3045,Xbox Game Pass,Gaming,Standard,16.55,Monthly,Debit Card,1,0,1.7,22,0,2,5
+SUB-10951,USR-3402,ChatGPT Plus,Productivity,Standard,19.86,Monthly,PayPal,1,0,1.6,36,0,2,43
+SUB-10952,USR-2972,Xbox Game Pass,Gaming,Premium,21.29,Monthly,Credit Card,1,25,64.3,0,1,2,18
+SUB-10953,USR-2919,Peloton Digital,Fitness,Standard,24.15,Monthly,Debit Card,0,23,68.0,5,0,2,16
+SUB-10954,USR-2025,Xbox Game Pass,Gaming,Standard,16.47,Monthly,Credit Card,1,27,15.2,0,2,3,30
+SUB-10955,USR-3779,Microsoft 365,Productivity,Standard,13.52,Monthly,Credit Card,0,22,18.1,0,0,3,3
+SUB-10956,USR-4120,Duolingo Super,Education,Standard,13.6,Monthly,Auto-Debit,1,7,5.4,4,0,2,4
+SUB-10957,USR-3659,Xbox Game Pass,Gaming,Premium,21.08,Monthly,Debit Card,1,21,25.2,4,0,4,12
+SUB-10958,USR-3111,Xbox Game Pass,Gaming,Standard,17.35,Monthly,Credit Card,1,0,1.2,34,0,1,7
+SUB-10959,USR-3126,Adobe Creative Cloud,Productivity,Standard,56.18,Annual,Debit Card,1,19,41.0,0,0,2,5
+SUB-10960,USR-2925,Adobe Creative Cloud,Productivity,Standard,56.41,Annual,Credit Card,1,0,2.3,87,0,1,12
+SUB-10961,USR-1714,Duolingo Super,Education,Standard,13.29,Annual,Credit Card,1,26,26.2,0,0,3,8
+SUB-10962,USR-3564,Duolingo Super,Education,Basic,9.54,Monthly,Credit Card,1,29,49.1,1,1,4,6
+SUB-10963,USR-3690,Disney+,Streaming,Basic,8.02,Monthly,Debit Card,1,1,2.1,76,1,2,10
+SUB-10964,USR-3952,Peloton Digital,Fitness,Standard,23.3,Monthly,Debit Card,1,1,0.6,31,0,1,40
+SUB-10965,USR-3834,Netflix,Streaming,Standard,15.13,Annual,Credit Card,1,0,1.7,61,0,2,8
+SUB-10966,USR-3635,Netflix,Streaming,Basic,10.27,Monthly,Credit Card,1,15,31.4,1,0,4,16
+SUB-10967,USR-3129,Google One / Drive,Cloud Storage,Premium,26.09,Annual,Credit Card,1,17,0.0,2,0,4,1
+SUB-10968,USR-2820,Xbox Game Pass,Gaming,Premium,21.7,Annual,Credit Card,1,0,1.3,57,0,1,13
+SUB-10969,USR-2012,Duolingo Super,Education,Standard,13.38,Monthly,PayPal,1,5,7.8,5,1,2,1
+SUB-10970,USR-3253,Xbox Game Pass,Gaming,Standard,17.56,Annual,Credit Card,1,10,12.6,16,0,1,12
+SUB-10971,USR-1733,Spotify,Streaming,Standard,11.19,Monthly,Credit Card,1,24,21.2,0,0,3,2
+SUB-10972,USR-2016,Xbox Game Pass,Gaming,Basic,12.08,Monthly,Credit Card,1,16,64.9,1,0,3,10
+SUB-10973,USR-2004,Duolingo Super,Education,Standard,12.85,Annual,Credit Card,1,23,63.6,8,1,2,26
+SUB-10974,USR-2072,Adobe Creative Cloud,Productivity,Standard,57.01,Annual,Credit Card,1,0,2.5,77,0,2,1
+SUB-10975,USR-1539,Spotify,Streaming,Standard,10.62,Monthly,Debit Card,1,14,8.0,18,0,3,24
+SUB-10976,USR-3960,iCloud Storage,Cloud Storage,Premium,28.72,Monthly,PayPal,1,26,36.6,4,1,3,19
+SUB-10977,USR-1449,Spotify,Streaming,Standard,11.47,Monthly,Debit Card,1,0,1.8,33,1,1,12
+SUB-10978,USR-1832,Xbox Game Pass,Gaming,Standard,17.66,Monthly,PayPal,1,8,4.6,4,0,1,43
+SUB-10979,USR-3298,PlayStation Plus,Gaming,Standard,14.67,Monthly,Credit Card,1,0,1.9,23,0,1,5
+SUB-10980,USR-4022,Duolingo Super,Education,Basic,8.99,Monthly,Credit Card,1,0,1.8,26,1,1,5
+SUB-10981,USR-1759,iCloud Storage,Cloud Storage,Standard,9.68,Monthly,PayPal,1,0,1.1,32,0,1,13
+SUB-10982,USR-1754,Disney+,Streaming,Basic,8.1,Monthly,PayPal,1,0,1.1,67,0,1,11
+SUB-10983,USR-1791,Netflix,Streaming,Basic,10.0,Monthly,Debit Card,1,16,66.9,1,0,1,17
+SUB-10984,USR-1402,Google One / Drive,Cloud Storage,Standard,10.15,Annual,Credit Card,1,15,70.7,0,0,3,29
+SUB-10985,USR-1246,Peloton Digital,Fitness,Basic,12.52,Monthly,Credit Card,1,26,26.9,3,0,1,23
+SUB-10986,USR-2240,PlayStation Plus,Gaming,Standard,14.64,Annual,Credit Card,1,24,55.3,2,0,3,4
+SUB-10987,USR-3578,Coursera Plus,Education,Premium,61.25,Monthly,Credit Card,0,0,1.0,71,0,2,3
+SUB-10988,USR-2394,Netflix,Streaming,Standard,14.92,Annual,PayPal,0,19,47.3,3,0,3,33
+SUB-10989,USR-3207,Coursera Plus,Education,Standard,37.3,Monthly,Debit Card,1,15,17.0,4,0,2,13
+SUB-10990,USR-3122,Coursera Plus,Education,Basic,19.55,Monthly,Auto-Debit,1,17,74.7,1,0,3,22
+SUB-10991,USR-1979,Spotify,Streaming,Premium,17.73,Monthly,Credit Card,1,2,2.4,86,0,1,1
+SUB-10992,USR-1131,Duolingo Super,Education,Basic,8.82,Annual,Credit Card,1,29,68.1,1,0,2,10
+SUB-10993,USR-2207,Duolingo Super,Education,Standard,13.03,Annual,Auto-Debit,1,18,17.0,1,0,3,60
+SUB-10994,USR-1838,iCloud Storage,Cloud Storage,Standard,10.38,Monthly,Credit Card,0,19,71.2,4,0,2,3
+SUB-10995,USR-3922,Xbox Game Pass,Gaming,Basic,11.84,Monthly,Credit Card,1,28,58.2,2,0,3,7
+SUB-10996,USR-3655,ChatGPT Plus,Productivity,Basic,10.47,Monthly,Debit Card,1,25,66.2,0,0,1,8
+SUB-10997,USR-3505,PlayStation Plus,Gaming,Standard,15.36,Monthly,Credit Card,1,2,2.0,67,0,1,60
+SUB-10998,USR-2650,Xbox Game Pass,Gaming,Standard,17.05,Monthly,Credit Card,1,22,74.0,0,1,2,5
+SUB-10999,USR-4389,Microsoft 365,Productivity,Standard,13.39,Monthly,Debit Card,1,0,2.2,32,0,1,7
+SUB-11000,USR-1462,iCloud Storage,Cloud Storage,Premium,28.47,Monthly,Auto-Debit,0,25,27.7,1,1,2,6
+SUB-11001,USR-2823,ChatGPT Plus,Productivity,Basic,10.45,Monthly,Auto-Debit,0,28,21.0,5,0,2,24
+SUB-11002,USR-4241,Duolingo Super,Education,Standard,12.53,Monthly,Credit Card,1,5,19.0,10,0,3,22
+SUB-11003,USR-2239,Coursera Plus,Education,Basic,19.01,Monthly,Credit Card,1,5,5.5,13,0,1,3
+SUB-11004,USR-3536,Spotify,Streaming,Premium,16.33,Annual,Debit Card,1,27,46.9,4,0,1,20
+SUB-11005,USR-4088,Gym Membership (Anytime/Gold),Fitness,Standard,52.47,Annual,Debit Card,1,21,28.4,2,0,3,7
+SUB-11006,USR-1777,Coursera Plus,Education,Premium,59.16,Annual,Credit Card,1,3,1.5,46,0,2,5
+SUB-11007,USR-2416,Xbox Game Pass,Gaming,Premium,22.15,Monthly,Credit Card,1,7,6.8,19,0,2,34
+SUB-11008,USR-3738,Duolingo Super,Education,Premium,19.75,Annual,Credit Card,0,16,44.4,0,0,2,4
+SUB-11009,USR-2696,iCloud Storage,Cloud Storage,Standard,10.11,Annual,Credit Card,0,13,4.4,15,0,1,25
+SUB-11010,USR-2094,ChatGPT Plus,Productivity,Standard,19.29,Monthly,Debit Card,1,0,0.7,41,0,1,13
+SUB-11011,USR-4034,Disney+,Streaming,Basic,8.28,Monthly,Credit Card,1,0,1.5,80,0,1,16
+SUB-11012,USR-4109,PlayStation Plus,Gaming,Basic,9.51,Monthly,Auto-Debit,1,20,54.3,0,0,4,8
+SUB-11013,USR-1421,Peloton Digital,Fitness,Basic,12.41,Monthly,PayPal,1,5,4.8,14,0,3,38
+SUB-11014,USR-1427,Duolingo Super,Education,Premium,19.52,Monthly,PayPal,1,22,17.9,2,0,1,36
+SUB-11015,USR-3608,Disney+,Streaming,Standard,13.82,Annual,Credit Card,0,16,29.8,0,0,1,4
+SUB-11016,USR-1292,Coursera Plus,Education,Premium,60.81,Monthly,Credit Card,1,7,9.4,19,0,2,55
+SUB-11017,USR-2594,ChatGPT Plus,Productivity,Basic,9.74,Monthly,Credit Card,0,21,26.4,3,0,1,2
+SUB-11018,USR-1126,Duolingo Super,Education,Basic,8.94,Annual,PayPal,1,18,71.0,0,1,3,10
+SUB-11019,USR-2842,Google One / Drive,Cloud Storage,Standard,10.04,Monthly,Credit Card,1,0,1.5,82,0,2,32
+SUB-11020,USR-1215,ChatGPT Plus,Productivity,Basic,9.88,Monthly,Auto-Debit,1,27,49.5,0,0,2,5
+SUB-11021,USR-3754,Adobe Creative Cloud,Productivity,Premium,90.19,Monthly,Credit Card,1,11,7.2,4,1,1,2
+SUB-11022,USR-2912,Coursera Plus,Education,Premium,57.06,Annual,Auto-Debit,1,28,49.6,6,0,3,5
+SUB-11023,USR-3180,Duolingo Super,Education,Standard,13.01,Monthly,Debit Card,1,14,10.7,12,0,1,9
+SUB-11024,USR-1768,Google One / Drive,Cloud Storage,Standard,9.51,Annual,Credit Card,1,10,5.2,17,0,3,8
+SUB-11025,USR-2648,iCloud Storage,Cloud Storage,Standard,9.82,Monthly,Credit Card,1,28,44.5,3,0,4,4
+SUB-11026,USR-1817,Coursera Plus,Education,Standard,40.48,Monthly,PayPal,0,0,0.0,65,0,1,6
+SUB-11027,USR-2744,Adobe Creative Cloud,Productivity,Standard,55.34,Monthly,Credit Card,1,0,0.5,50,0,2,23
+SUB-11028,USR-3948,Coursera Plus,Education,Premium,56.31,Monthly,Credit Card,1,3,1.1,23,0,1,11
+SUB-11029,USR-2967,Xbox Game Pass,Gaming,Standard,16.56,Monthly,Debit Card,1,1,0.5,75,1,2,2
+SUB-11030,USR-1841,Duolingo Super,Education,Standard,12.5,Monthly,Credit Card,1,18,58.8,2,0,3,11
+SUB-11031,USR-2744,Google One / Drive,Cloud Storage,Standard,10.19,Monthly,Debit Card,1,20,24.2,4,0,2,6
+SUB-11032,USR-3472,PlayStation Plus,Gaming,Standard,15.7,Monthly,Credit Card,1,17,39.6,0,1,3,37
+SUB-11033,USR-3401,Xbox Game Pass,Gaming,Standard,16.8,Annual,Debit Card,1,15,33.6,4,0,2,32
+SUB-11034,USR-1419,iCloud Storage,Cloud Storage,Standard,9.63,Annual,Credit Card,1,21,20.7,0,1,2,25
+SUB-11035,USR-4078,Adobe Creative Cloud,Productivity,Standard,55.69,Annual,Credit Card,1,15,15.3,14,0,1,1
+SUB-11036,USR-1749,Duolingo Super,Education,Standard,13.34,Monthly,PayPal,1,8,8.3,6,1,1,24
+SUB-11037,USR-1874,Coursera Plus,Education,Basic,18.76,Annual,Credit Card,1,27,48.1,1,1,4,3
+SUB-11038,USR-2062,Peloton Digital,Fitness,Standard,24.49,Monthly,Debit Card,1,9,18.3,18,0,2,13
+SUB-11039,USR-1186,Gym Membership (Anytime/Gold),Fitness,Premium,94.01,Monthly,Credit Card,0,18,17.4,2,0,4,4
+SUB-11040,USR-3686,Xbox Game Pass,Gaming,Standard,17.7,Annual,PayPal,1,27,20.7,0,1,2,42
+SUB-11041,USR-3162,iCloud Storage,Cloud Storage,Basic,2.98,Annual,Credit Card,1,2,1.7,35,0,1,7
+SUB-11042,USR-2320,Netflix,Streaming,Premium,23.31,Monthly,Debit Card,1,15,73.7,2,1,1,17
+SUB-11043,USR-4414,Xbox Game Pass,Gaming,Basic,11.93,Monthly,Credit Card,1,17,54.0,0,0,2,21
+SUB-11044,USR-4370,Gym Membership (Anytime/Gold),Fitness,Standard,51.58,Annual,Debit Card,1,0,1.7,40,0,1,11
+SUB-11045,USR-3163,Microsoft 365,Productivity,Premium,22.89,Monthly,PayPal,1,21,24.1,0,0,1,27
+SUB-11046,USR-2486,Disney+,Streaming,Premium,18.65,Monthly,Auto-Debit,1,25,71.7,8,0,1,6
+SUB-11047,USR-4310,Duolingo Super,Education,Standard,12.69,Monthly,Debit Card,1,19,49.9,1,0,1,2
+SUB-11048,USR-1432,Adobe Creative Cloud,Productivity,Premium,90.24,Monthly,Credit Card,1,2,0.0,59,1,1,8
+SUB-11049,USR-1778,PlayStation Plus,Gaming,Basic,9.83,Monthly,Auto-Debit,1,2,2.0,70,0,1,3
+SUB-11050,USR-3003,iCloud Storage,Cloud Storage,Basic,2.88,Annual,Credit Card,1,27,17.3,1,0,3,58
+SUB-11051,USR-2524,PlayStation Plus,Gaming,Basic,9.68,Monthly,PayPal,1,11,11.1,8,0,2,23
+SUB-11052,USR-1149,Disney+,Streaming,Basic,8.11,Annual,Debit Card,1,1,0.1,33,0,1,7
+SUB-11053,USR-1422,Coursera Plus,Education,Basic,18.86,Monthly,Credit Card,1,18,34.4,1,0,3,7
+SUB-11054,USR-1868,Disney+,Streaming,Premium,19.75,Monthly,Debit Card,0,11,17.8,15,0,1,3
+SUB-11055,USR-4437,Spotify,Streaming,Standard,10.71,Annual,PayPal,1,21,52.6,5,0,3,60
+SUB-11056,USR-3519,Xbox Game Pass,Gaming,Standard,16.27,Monthly,Debit Card,1,19,19.8,1,0,2,3
+SUB-11057,USR-1106,Peloton Digital,Fitness,Basic,11.79,Annual,Credit Card,1,17,52.0,0,0,4,20
+SUB-11058,USR-1623,iCloud Storage,Cloud Storage,Basic,2.93,Monthly,Credit Card,1,0,2.5,70,0,2,34
+SUB-11059,USR-3753,Adobe Creative Cloud,Productivity,Basic,23.0,Monthly,Debit Card,1,2,0.5,74,0,1,22
+SUB-11060,USR-2115,Google One / Drive,Cloud Storage,Standard,9.63,Annual,Credit Card,1,5,13.8,16,0,1,21
+SUB-11061,USR-1814,Microsoft 365,Productivity,Basic,7.03,Monthly,PayPal,1,0,1.4,22,1,1,16
+SUB-11062,USR-2161,Spotify,Streaming,Standard,10.88,Monthly,Credit Card,1,1,0.9,77,0,1,27
+SUB-11063,USR-1600,Google One / Drive,Cloud Storage,Standard,10.19,Annual,PayPal,1,29,46.3,0,0,2,8
+SUB-11064,USR-1138,iCloud Storage,Cloud Storage,Standard,10.47,Annual,Credit Card,1,18,50.6,5,1,3,13
+SUB-11065,USR-2466,ChatGPT Plus,Productivity,Standard,19.6,Monthly,Credit Card,1,29,66.2,3,0,2,1
+SUB-11066,USR-3791,Xbox Game Pass,Gaming,Premium,22.17,Monthly,Debit Card,0,22,68.9,0,0,3,5
+SUB-11067,USR-2778,Duolingo Super,Education,Basic,8.68,Monthly,PayPal,1,29,26.4,2,0,1,6
+SUB-11068,USR-2777,Microsoft 365,Productivity,Standard,13.34,Monthly,Debit Card,1,0,2.2,34,0,1,14
+SUB-11069,USR-2006,Peloton Digital,Fitness,Standard,24.81,Monthly,Debit Card,1,22,41.6,0,2,2,17
+SUB-11070,USR-1745,Xbox Game Pass,Gaming,Basic,12.32,Monthly,Auto-Debit,1,27,62.5,0,0,1,30
+SUB-11071,USR-2955,Netflix,Streaming,Premium,23.42,Monthly,Credit Card,1,25,17.9,2,1,4,22
+SUB-11072,USR-3109,iCloud Storage,Cloud Storage,Premium,29.28,Annual,Debit Card,1,0,1.4,35,0,1,2
+SUB-11073,USR-4000,Microsoft 365,Productivity,Basic,7.48,Monthly,PayPal,1,14,12.5,17,0,1,22
+SUB-11074,USR-3007,iCloud Storage,Cloud Storage,Standard,9.86,Annual,Credit Card,1,13,12.3,5,0,2,5
+SUB-11075,USR-1372,Duolingo Super,Education,Standard,13.38,Monthly,Credit Card,1,16,68.5,1,1,2,3
+SUB-11076,USR-4207,ChatGPT Plus,Productivity,Premium,30.28,Annual,PayPal,1,0,0.0,82,0,1,10
+SUB-11077,USR-4246,Netflix,Streaming,Premium,23.9,Monthly,Credit Card,1,0,0.2,35,1,1,9
+SUB-11078,USR-1728,Microsoft 365,Productivity,Premium,23.05,Monthly,PayPal,0,13,13.3,6,0,3,49
+SUB-11079,USR-2597,PlayStation Plus,Gaming,Premium,22.02,Monthly,Credit Card,1,0,0.5,44,1,2,4
+SUB-11080,USR-3930,Netflix,Streaming,Standard,14.77,Monthly,Credit Card,1,22,30.3,1,0,1,2
+SUB-11081,USR-1166,Coursera Plus,Education,Standard,39.09,Monthly,Credit Card,1,20,64.4,0,0,2,1
+SUB-11082,USR-3632,ChatGPT Plus,Productivity,Premium,29.31,Monthly,Debit Card,1,14,15.8,5,0,1,18
+SUB-11083,USR-3099,iCloud Storage,Cloud Storage,Standard,9.85,Annual,PayPal,0,25,57.9,2,0,3,13
+SUB-11084,USR-3564,Netflix,Streaming,Basic,9.78,Monthly,PayPal,1,24,58.9,0,0,2,6
+SUB-11085,USR-2750,Gym Membership (Anytime/Gold),Fitness,Standard,51.91,Monthly,Credit Card,1,24,56.2,0,1,1,25
+SUB-11086,USR-3440,Gym Membership (Anytime/Gold),Fitness,Standard,48.88,Monthly,PayPal,1,12,5.5,4,1,1,5
+SUB-11087,USR-3577,Duolingo Super,Education,Basic,8.78,Monthly,Credit Card,1,2,1.1,89,0,1,4
+SUB-11088,USR-1857,iCloud Storage,Cloud Storage,Standard,9.61,Monthly,Credit Card,1,0,1.8,58,0,2,7
+SUB-11089,USR-2005,Xbox Game Pass,Gaming,Standard,16.36,Monthly,Credit Card,1,27,54.1,4,1,3,12
+SUB-11090,USR-3563,Disney+,Streaming,Basic,8.15,Annual,Auto-Debit,0,9,11.2,16,0,1,36
+SUB-11091,USR-2044,ChatGPT Plus,Productivity,Premium,30.93,Monthly,Credit Card,1,12,18.0,15,0,1,4
+SUB-11092,USR-2602,ChatGPT Plus,Productivity,Standard,20.78,Annual,Credit Card,1,26,48.5,1,0,3,19
+SUB-11093,USR-1662,Google One / Drive,Cloud Storage,Basic,2.05,Annual,Credit Card,1,1,2.1,22,0,1,23
+SUB-11094,USR-3048,Google One / Drive,Cloud Storage,Premium,25.72,Monthly,Credit Card,1,0,2.3,83,0,2,3
+SUB-11095,USR-2746,Google One / Drive,Cloud Storage,Standard,9.66,Monthly,Credit Card,0,2,1.3,44,1,1,9
+SUB-11096,USR-1414,Netflix,Streaming,Premium,22.5,Monthly,Debit Card,1,19,53.7,5,0,4,15
+SUB-11097,USR-2658,Google One / Drive,Cloud Storage,Standard,9.9,Monthly,PayPal,1,27,26.3,2,0,2,1
+SUB-11098,USR-2450,iCloud Storage,Cloud Storage,Standard,9.54,Monthly,Debit Card,1,17,66.9,0,0,1,3
+SUB-11099,USR-2220,ChatGPT Plus,Productivity,Basic,10.2,Annual,PayPal,1,26,28.5,1,0,4,7
+SUB-11100,USR-4107,Spotify,Streaming,Basic,6.71,Monthly,Credit Card,1,18,27.7,1,0,2,7
+SUB-11101,USR-3065,Gym Membership (Anytime/Gold),Fitness,Standard,49.93,Monthly,Debit Card,1,2,2.1,48,1,1,39
+SUB-11102,USR-2558,Duolingo Super,Education,Basic,9.07,Monthly,Credit Card,1,15,69.2,0,0,3,9
+SUB-11103,USR-4017,Xbox Game Pass,Gaming,Basic,11.34,Monthly,Debit Card,1,15,53.5,6,0,3,14
+SUB-11104,USR-1864,Gym Membership (Anytime/Gold),Fitness,Premium,91.34,Annual,Credit Card,1,28,64.2,2,2,3,8
+SUB-11105,USR-4162,Gym Membership (Anytime/Gold),Fitness,Premium,93.93,Annual,PayPal,1,3,0.5,62,0,2,18
+SUB-11106,USR-4124,Google One / Drive,Cloud Storage,Standard,9.82,Monthly,PayPal,1,0,2.2,46,0,2,10
+SUB-11107,USR-3598,iCloud Storage,Cloud Storage,Premium,30.77,Monthly,Credit Card,1,26,61.5,1,0,3,12
+SUB-11108,USR-3172,Spotify,Streaming,Basic,6.31,Monthly,Auto-Debit,1,23,68.5,1,0,2,4
+SUB-11109,USR-3741,Adobe Creative Cloud,Productivity,Basic,21.24,Monthly,Credit Card,1,23,20.3,4,0,3,60
+SUB-11110,USR-3612,Microsoft 365,Productivity,Standard,12.65,Annual,Credit Card,1,3,2.4,45,1,2,29
+SUB-11111,USR-3575,Duolingo Super,Education,Standard,13.06,Monthly,Debit Card,1,3,2.4,37,0,1,60
+SUB-11112,USR-4450,Netflix,Streaming,Premium,23.63,Monthly,Credit Card,1,17,46.0,0,1,2,23
+SUB-11113,USR-4290,PlayStation Plus,Gaming,Premium,21.73,Monthly,Credit Card,1,0,0.4,35,0,2,26
+SUB-11114,USR-1425,Adobe Creative Cloud,Productivity,Standard,54.3,Monthly,PayPal,1,11,6.8,8,1,2,8
+SUB-11115,USR-1394,Netflix,Streaming,Standard,16.1,Annual,Debit Card,1,20,38.6,4,1,1,60
+SUB-11116,USR-4251,Microsoft 365,Productivity,Premium,21.68,Monthly,PayPal,1,0,1.4,79,0,2,58
+SUB-11117,USR-2167,Disney+,Streaming,Basic,8.24,Monthly,Credit Card,1,1,2.0,57,0,2,4
+SUB-11118,USR-3288,Google One / Drive,Cloud Storage,Basic,1.95,Monthly,Credit Card,1,21,57.0,1,1,1,15
+SUB-11119,USR-4420,Coursera Plus,Education,Basic,18.82,Monthly,Credit Card,1,21,48.9,0,0,1,60
+SUB-11120,USR-2676,Xbox Game Pass,Gaming,Premium,22.3,Monthly,PayPal,0,26,43.7,2,0,4,8
+SUB-11121,USR-2488,Spotify,Streaming,Standard,10.6,Monthly,PayPal,1,19,17.4,2,1,3,22
+SUB-11122,USR-2923,PlayStation Plus,Gaming,Premium,22.48,Monthly,Credit Card,0,26,17.0,0,0,2,15
+SUB-11123,USR-2831,Xbox Game Pass,Gaming,Standard,16.82,Monthly,Credit Card,1,17,24.2,3,0,4,10
+SUB-11124,USR-1142,Xbox Game Pass,Gaming,Basic,11.45,Monthly,Credit Card,1,22,60.2,0,0,2,12
+SUB-11125,USR-3193,Google One / Drive,Cloud Storage,Standard,10.42,Monthly,PayPal,1,18,69.7,1,0,3,14
+SUB-11126,USR-3324,Peloton Digital,Fitness,Standard,25.1,Monthly,Debit Card,0,10,13.6,19,0,1,9
+SUB-11127,USR-2090,Xbox Game Pass,Gaming,Basic,11.88,Monthly,Auto-Debit,1,0,0.5,63,1,1,3
+SUB-11128,USR-2127,iCloud Storage,Cloud Storage,Premium,31.38,Annual,PayPal,1,1,1.4,59,0,1,14
+SUB-11129,USR-2842,Adobe Creative Cloud,Productivity,Basic,21.97,Monthly,Debit Card,1,20,58.3,3,1,1,7
+SUB-11130,USR-1754,Disney+,Streaming,Standard,13.86,Monthly,Debit Card,1,29,52.3,1,1,1,24
+SUB-11131,USR-4138,Microsoft 365,Productivity,Premium,21.49,Monthly,Debit Card,1,0,0.9,30,0,1,22
+SUB-11132,USR-3761,Peloton Digital,Fitness,Premium,42.09,Monthly,Auto-Debit,1,1,0.6,84,0,1,1
+SUB-11133,USR-2899,Peloton Digital,Fitness,Standard,23.16,Monthly,Credit Card,1,0,1.7,67,0,1,36
+SUB-11134,USR-1264,Peloton Digital,Fitness,Standard,23.2,Annual,Credit Card,1,0,1.9,64,1,1,21
+SUB-11135,USR-1043,Duolingo Super,Education,Standard,12.62,Monthly,PayPal,1,13,19.3,17,0,3,4
+SUB-11136,USR-3596,Disney+,Streaming,Basic,7.95,Monthly,Debit Card,1,2,1.0,75,1,1,23
+SUB-11137,USR-4171,Netflix,Streaming,Basic,9.95,Monthly,Credit Card,1,25,22.8,3,0,1,14
+SUB-11138,USR-2161,Disney+,Streaming,Standard,13.58,Annual,Credit Card,1,11,19.8,10,0,1,17
+SUB-11139,USR-2605,Spotify,Streaming,Basic,6.92,Monthly,PayPal,1,2,1.8,58,0,1,8
+SUB-11140,USR-2938,Coursera Plus,Education,Standard,37.49,Monthly,PayPal,1,0,1.6,63,0,1,4
+SUB-11141,USR-1899,Peloton Digital,Fitness,Basic,12.09,Monthly,Debit Card,1,23,16.6,0,1,1,15
+SUB-11142,USR-2480,ChatGPT Plus,Productivity,Premium,29.95,Annual,Credit Card,1,0,2.2,52,0,2,13
+SUB-11143,USR-2594,Xbox Game Pass,Gaming,Standard,17.53,Monthly,Credit Card,0,23,31.7,3,0,1,24
+SUB-11144,USR-3954,Google One / Drive,Cloud Storage,Premium,24.13,Monthly,Debit Card,1,5,14.9,15,0,1,14
+SUB-11145,USR-3321,PlayStation Plus,Gaming,Standard,15.29,Monthly,Debit Card,1,6,10.9,4,1,1,40
+SUB-11146,USR-2220,Adobe Creative Cloud,Productivity,Premium,83.59,Monthly,PayPal,0,0,1.8,31,0,2,1
+SUB-11147,USR-2901,PlayStation Plus,Gaming,Basic,9.64,Monthly,PayPal,1,2,0.9,78,0,1,20
+SUB-11148,USR-3879,Spotify,Streaming,Standard,11.45,Monthly,PayPal,1,1,0.2,79,0,2,9
+SUB-11149,USR-3890,Peloton Digital,Fitness,Standard,25.17,Annual,Credit Card,1,1,0.9,63,0,2,9
+SUB-11150,USR-2933,PlayStation Plus,Gaming,Standard,14.37,Annual,Debit Card,1,2,0.9,24,1,1,1
+SUB-11151,USR-2327,Duolingo Super,Education,Basic,8.99,Monthly,Credit Card,1,22,35.5,0,1,2,9
+SUB-11152,USR-3745,PlayStation Plus,Gaming,Standard,15.55,Monthly,Debit Card,1,5,0.0,9,0,2,4
+SUB-11153,USR-3934,Coursera Plus,Education,Premium,58.98,Monthly,Credit Card,1,5,15.6,18,0,3,6
+SUB-11154,USR-3002,Microsoft 365,Productivity,Standard,12.51,Monthly,PayPal,1,9,8.1,16,0,3,24
+SUB-11155,USR-1679,iCloud Storage,Cloud Storage,Premium,29.96,Monthly,Auto-Debit,0,9,11.4,15,0,1,32
+SUB-11156,USR-1637,PlayStation Plus,Gaming,Standard,14.51,Monthly,Credit Card,1,0,0.7,58,0,1,3
+SUB-11157,USR-3856,Xbox Game Pass,Gaming,Standard,16.3,Monthly,PayPal,1,9,18.0,9,1,3,52
+SUB-11158,USR-4133,PlayStation Plus,Gaming,Premium,22.13,Monthly,Credit Card,1,1,1.0,86,0,1,14
+SUB-11159,USR-1860,Spotify,Streaming,Basic,6.29,Monthly,Auto-Debit,1,9,10.4,5,0,2,27
+SUB-11160,USR-4034,Coursera Plus,Education,Premium,58.44,Monthly,Debit Card,1,11,0.0,4,2,2,1
+SUB-11161,USR-4294,Google One / Drive,Cloud Storage,Basic,1.92,Monthly,Credit Card,1,17,29.3,1,0,3,14
+SUB-11162,USR-4337,Disney+,Streaming,Basic,7.84,Monthly,Credit Card,0,15,73.4,0,0,3,1
+SUB-11163,USR-1994,ChatGPT Plus,Productivity,Standard,20.09,Monthly,Credit Card,1,9,19.2,18,0,1,16
+SUB-11164,USR-2282,Spotify,Streaming,Basic,6.91,Monthly,Credit Card,0,16,30.9,2,0,2,18
+SUB-11165,USR-1751,PlayStation Plus,Gaming,Basic,9.29,Monthly,Credit Card,1,19,65.1,0,0,3,36
+SUB-11166,USR-3736,Duolingo Super,Education,Standard,13.61,Monthly,Credit Card,1,7,5.2,8,2,2,20
+SUB-11167,USR-1735,iCloud Storage,Cloud Storage,Standard,10.39,Annual,PayPal,1,9,19.6,8,0,1,1
+SUB-11168,USR-2760,Disney+,Streaming,Basic,7.74,Monthly,Auto-Debit,1,3,2.4,60,0,1,60
+SUB-11169,USR-2752,Disney+,Streaming,Standard,13.65,Annual,PayPal,1,21,40.7,4,1,3,9
+SUB-11170,USR-2809,Google One / Drive,Cloud Storage,Basic,2.01,Monthly,Credit Card,1,29,70.3,0,0,3,19
+SUB-11171,USR-1037,Peloton Digital,Fitness,Standard,24.63,Annual,PayPal,1,26,64.2,0,1,4,60
+SUB-11172,USR-1552,Peloton Digital,Fitness,Standard,24.27,Annual,Credit Card,1,16,67.9,0,0,2,4
+SUB-11173,USR-3857,Adobe Creative Cloud,Productivity,Standard,57.69,Monthly,Credit Card,1,10,14.3,19,2,2,26
+SUB-11174,USR-1757,PlayStation Plus,Gaming,Basic,9.54,Annual,Credit Card,1,12,13.1,4,0,1,11
+SUB-11175,USR-3847,Xbox Game Pass,Gaming,Basic,11.57,Monthly,Credit Card,1,2,2.3,46,0,1,60
+SUB-11176,USR-2093,Disney+,Streaming,Standard,14.53,Monthly,Debit Card,1,24,54.1,0,2,2,34
+SUB-11177,USR-2322,Xbox Game Pass,Gaming,Basic,12.45,Monthly,Credit Card,1,29,43.7,0,1,3,6
+SUB-11178,USR-1725,Spotify,Streaming,Premium,16.69,Monthly,Debit Card,1,20,41.0,3,0,2,9
+SUB-11179,USR-2166,Xbox Game Pass,Gaming,Standard,17.82,Annual,Debit Card,1,19,31.0,0,1,2,15
+SUB-11180,USR-3671,Adobe Creative Cloud,Productivity,Premium,87.65,Monthly,Credit Card,1,1,0.7,29,0,1,22
+SUB-11181,USR-3172,Peloton Digital,Fitness,Basic,12.48,Annual,Debit Card,1,28,60.9,3,1,1,11
+SUB-11182,USR-1376,Xbox Game Pass,Gaming,Standard,16.82,Monthly,Credit Card,1,25,40.7,0,0,1,12
+SUB-11183,USR-2501,Peloton Digital,Fitness,Premium,40.09,Annual,Credit Card,1,0,2.3,24,0,2,1
+SUB-11184,USR-2520,Google One / Drive,Cloud Storage,Basic,1.92,Annual,Debit Card,0,0,1.5,26,0,1,9
+SUB-11185,USR-4086,Netflix,Streaming,Premium,22.67,Monthly,Debit Card,1,18,74.8,2,0,1,19
+SUB-11186,USR-2480,iCloud Storage,Cloud Storage,Standard,9.68,Annual,Debit Card,1,12,18.0,13,0,2,44
+SUB-11187,USR-1524,Google One / Drive,Cloud Storage,Standard,10.37,Monthly,Debit Card,1,1,1.7,23,0,1,14
+SUB-11188,USR-1330,Adobe Creative Cloud,Productivity,Standard,56.29,Monthly,PayPal,1,0,0.6,30,0,1,4
+SUB-11189,USR-3835,iCloud Storage,Cloud Storage,Basic,2.94,Monthly,Debit Card,1,21,66.7,3,0,2,7
+SUB-11190,USR-4031,ChatGPT Plus,Productivity,Basic,10.45,Monthly,Credit Card,1,22,69.4,0,0,1,3
+SUB-11191,USR-3453,Peloton Digital,Fitness,Basic,12.51,Monthly,PayPal,1,19,37.2,0,0,2,50
+SUB-11192,USR-1446,Microsoft 365,Productivity,Premium,21.37,Monthly,PayPal,1,7,19.3,11,0,3,8
+SUB-11193,USR-2129,Spotify,Streaming,Basic,6.29,Annual,PayPal,1,0,2.2,75,0,2,20
+SUB-11194,USR-3585,Netflix,Streaming,Standard,14.96,Monthly,Credit Card,1,0,1.5,35,0,1,11
+SUB-11195,USR-2482,Adobe Creative Cloud,Productivity,Standard,52.99,Monthly,Debit Card,1,26,43.9,1,2,1,10
+SUB-11196,USR-2621,Microsoft 365,Productivity,Standard,13.48,Monthly,Debit Card,0,22,50.4,0,0,2,4
+SUB-11197,USR-1780,Netflix,Streaming,Standard,15.9,Monthly,Auto-Debit,1,0,1.0,43,0,1,20
+SUB-11198,USR-3812,PlayStation Plus,Gaming,Premium,22.47,Monthly,PayPal,1,14,15.1,10,1,1,13
+SUB-11199,USR-1678,Adobe Creative Cloud,Productivity,Standard,52.95,Annual,Credit Card,1,17,39.5,3,0,1,9
+SUB-11200,USR-4370,Xbox Game Pass,Gaming,Premium,21.25,Monthly,Credit Card,1,11,5.1,8,0,2,22
+SUB-11201,USR-3075,iCloud Storage,Cloud Storage,Standard,10.31,Monthly,Credit Card,1,25,44.1,5,0,3,2
+SUB-11202,USR-1787,Xbox Game Pass,Gaming,Standard,17.0,Annual,Credit Card,1,14,10.3,18,0,3,2
+SUB-11203,USR-2876,Peloton Digital,Fitness,Basic,11.97,Monthly,Credit Card,1,18,37.1,1,0,1,9
+SUB-11204,USR-3016,Google One / Drive,Cloud Storage,Standard,10.36,Monthly,Debit Card,1,1,0.3,76,0,1,10
+SUB-11205,USR-1955,Coursera Plus,Education,Premium,61.08,Monthly,Debit Card,0,23,34.0,0,0,3,31
+SUB-11206,USR-2350,Spotify,Streaming,Standard,10.94,Annual,Credit Card,1,14,4.9,8,0,2,12
+SUB-11207,USR-1730,Peloton Digital,Fitness,Standard,22.98,Annual,PayPal,1,6,4.0,14,0,1,1
+SUB-11208,USR-3560,Microsoft 365,Productivity,Standard,12.85,Annual,Credit Card,0,0,0.6,46,1,1,19
+SUB-11209,USR-4128,Microsoft 365,Productivity,Standard,13.21,Monthly,Debit Card,1,0,0.7,74,0,1,7
+SUB-11210,USR-4240,Coursera Plus,Education,Standard,39.5,Monthly,Credit Card,1,29,27.3,0,0,1,21
+SUB-11211,USR-3598,Duolingo Super,Education,Basic,9.06,Monthly,PayPal,1,24,35.2,0,0,1,13
+SUB-11212,USR-4102,ChatGPT Plus,Productivity,Premium,29.95,Monthly,Auto-Debit,1,1,0.0,78,0,1,10
+SUB-11213,USR-3876,Adobe Creative Cloud,Productivity,Standard,54.16,Annual,Credit Card,1,19,43.6,1,0,3,15
+SUB-11214,USR-3940,Netflix,Streaming,Basic,10.51,Monthly,Credit Card,1,8,11.2,7,0,2,11
+SUB-11215,USR-3354,Microsoft 365,Productivity,Standard,12.85,Monthly,Debit Card,1,15,9.0,17,0,2,9
+SUB-11216,USR-1022,Google One / Drive,Cloud Storage,Premium,25.8,Annual,Credit Card,1,0,1.0,82,0,1,59
+SUB-11217,USR-3751,Netflix,Streaming,Standard,14.99,Monthly,PayPal,1,6,18.0,19,0,3,16
+SUB-11218,USR-4176,Disney+,Streaming,Standard,14.58,Annual,Credit Card,0,15,11.9,7,0,3,14
+SUB-11219,USR-4267,Google One / Drive,Cloud Storage,Standard,9.85,Monthly,PayPal,1,0,2.0,83,0,1,14
+SUB-11220,USR-2787,Adobe Creative Cloud,Productivity,Basic,22.79,Monthly,Debit Card,0,6,10.9,10,1,2,10
+SUB-11221,USR-3550,Peloton Digital,Fitness,Standard,24.71,Annual,Credit Card,1,15,15.9,10,0,2,24
+SUB-11222,USR-1655,Duolingo Super,Education,Standard,13.2,Monthly,PayPal,1,0,2.0,22,0,1,7
+SUB-11223,USR-1618,Disney+,Streaming,Basic,7.68,Annual,Auto-Debit,1,0,0.9,38,0,1,8
+SUB-11224,USR-1301,Google One / Drive,Cloud Storage,Standard,10.45,Monthly,PayPal,1,1,0.8,50,0,2,1
+SUB-11225,USR-1936,Google One / Drive,Cloud Storage,Standard,10.28,Monthly,PayPal,0,15,25.4,1,1,2,48
+SUB-11226,USR-3652,ChatGPT Plus,Productivity,Standard,20.06,Monthly,Credit Card,1,19,62.3,2,2,2,18
+SUB-11227,USR-4099,Xbox Game Pass,Gaming,Basic,11.33,Monthly,Debit Card,1,0,1.5,68,0,1,26
+SUB-11228,USR-4435,ChatGPT Plus,Productivity,Basic,10.27,Monthly,Credit Card,1,5,18.4,4,0,2,31
+SUB-11229,USR-2037,iCloud Storage,Cloud Storage,Standard,9.77,Monthly,PayPal,1,16,38.6,4,0,3,6
+SUB-11230,USR-2554,iCloud Storage,Cloud Storage,Standard,10.34,Annual,Credit Card,1,24,38.3,2,1,4,14
+SUB-11231,USR-3972,PlayStation Plus,Gaming,Standard,15.22,Monthly,Credit Card,1,29,46.4,0,1,3,50
+SUB-11232,USR-4054,Spotify,Streaming,Standard,10.75,Annual,PayPal,1,23,30.8,1,1,1,9
+SUB-11233,USR-3748,Coursera Plus,Education,Basic,19.53,Annual,Credit Card,1,1,0.5,56,0,2,2
+SUB-11234,USR-4311,Netflix,Streaming,Standard,15.13,Annual,Credit Card,1,5,8.5,9,0,1,23
+SUB-11235,USR-4437,Xbox Game Pass,Gaming,Basic,12.17,Annual,Debit Card,1,13,16.3,10,1,3,7
+SUB-11236,USR-3644,iCloud Storage,Cloud Storage,Premium,31.39,Monthly,Debit Card,0,21,52.2,0,0,3,9
+SUB-11237,USR-4490,Duolingo Super,Education,Basic,8.84,Monthly,PayPal,1,0,0.3,23,1,2,13
+SUB-11238,USR-3636,iCloud Storage,Cloud Storage,Basic,2.91,Monthly,PayPal,1,9,4.1,13,0,1,4
+SUB-11239,USR-3604,iCloud Storage,Cloud Storage,Premium,28.74,Monthly,Credit Card,1,0,0.5,76,0,1,15
+SUB-11240,USR-2590,iCloud Storage,Cloud Storage,Basic,3.09,Monthly,Debit Card,1,23,51.6,0,0,4,24
+SUB-11241,USR-4331,Adobe Creative Cloud,Productivity,Standard,53.88,Annual,Credit Card,1,0,2.1,26,0,1,1
+SUB-11242,USR-2163,Microsoft 365,Productivity,Basic,7.38,Annual,Debit Card,1,1,1.3,43,0,1,3
+SUB-11243,USR-3002,Duolingo Super,Education,Standard,12.52,Annual,Debit Card,1,23,44.5,1,0,1,2
+SUB-11244,USR-3790,Microsoft 365,Productivity,Basic,6.8,Monthly,Credit Card,0,13,19.3,17,0,1,1
+SUB-11245,USR-3528,Microsoft 365,Productivity,Basic,6.89,Monthly,Credit Card,1,0,1.6,82,0,1,19
+SUB-11246,USR-3495,Peloton Digital,Fitness,Basic,11.45,Monthly,PayPal,0,16,66.7,5,0,1,8
+SUB-11247,USR-4137,Coursera Plus,Education,Premium,57.64,Annual,Debit Card,1,2,1.8,35,0,2,20
+SUB-11248,USR-3257,PlayStation Plus,Gaming,Standard,14.68,Monthly,Credit Card,1,27,28.4,8,0,3,5
+SUB-11249,USR-1134,PlayStation Plus,Gaming,Basic,9.63,Monthly,PayPal,1,19,72.1,1,0,3,7
+SUB-11250,USR-3330,Google One / Drive,Cloud Storage,Premium,25.85,Monthly,Debit Card,1,20,17.2,6,0,2,19
+SUB-11251,USR-1551,iCloud Storage,Cloud Storage,Standard,10.22,Monthly,Credit Card,1,24,50.3,4,1,4,2
+SUB-11252,USR-4423,Disney+,Streaming,Premium,18.39,Monthly,Credit Card,1,27,63.6,1,0,2,3
+SUB-11253,USR-2074,Xbox Game Pass,Gaming,Standard,17.73,Monthly,Credit Card,1,17,26.8,0,0,2,4
+SUB-11254,USR-3873,Duolingo Super,Education,Standard,13.49,Monthly,Credit Card,0,27,37.9,0,0,2,4
+SUB-11255,USR-4203,Xbox Game Pass,Gaming,Basic,11.32,Monthly,Credit Card,1,29,66.7,1,0,1,4
+SUB-11256,USR-3030,Microsoft 365,Productivity,Standard,13.08,Annual,Credit Card,1,22,51.7,2,1,3,11
+SUB-11257,USR-2782,Google One / Drive,Cloud Storage,Standard,9.57,Annual,Auto-Debit,1,24,59.4,0,0,2,6
+SUB-11258,USR-3550,Xbox Game Pass,Gaming,Standard,17.1,Monthly,Credit Card,1,2,1.9,86,0,1,1
+SUB-11259,USR-3225,iCloud Storage,Cloud Storage,Premium,29.5,Monthly,Credit Card,0,8,12.4,13,0,1,4
+SUB-11260,USR-3555,iCloud Storage,Cloud Storage,Basic,2.96,Monthly,Credit Card,1,20,42.7,1,0,4,23
+SUB-11261,USR-2933,Xbox Game Pass,Gaming,Basic,11.96,Monthly,Credit Card,1,0,0.9,36,0,1,1
+SUB-11262,USR-3154,Disney+,Streaming,Standard,13.84,Monthly,PayPal,1,6,12.2,17,0,2,40
+SUB-11263,USR-3869,Disney+,Streaming,Basic,7.67,Monthly,Debit Card,1,1,1.2,31,0,1,29
+SUB-11264,USR-3103,Coursera Plus,Education,Basic,19.0,Annual,Credit Card,1,10,16.7,4,0,2,18
+SUB-11265,USR-3611,Peloton Digital,Fitness,Standard,23.23,Monthly,Debit Card,1,10,8.5,19,0,2,9
+SUB-11266,USR-3420,Netflix,Streaming,Premium,24.0,Monthly,PayPal,1,14,8.0,13,0,1,60
+SUB-11267,USR-3413,Spotify,Streaming,Premium,17.83,Monthly,Debit Card,1,0,1.3,56,0,1,18
+SUB-11268,USR-3002,Coursera Plus,Education,Standard,40.11,Annual,PayPal,1,17,21.6,0,0,4,57
+SUB-11269,USR-4425,Disney+,Streaming,Standard,13.98,Monthly,Credit Card,1,19,37.7,0,0,1,9
+SUB-11270,USR-1438,Gym Membership (Anytime/Gold),Fitness,Standard,48.38,Monthly,Auto-Debit,1,21,45.3,0,0,1,53
+SUB-11271,USR-3598,Xbox Game Pass,Gaming,Basic,11.6,Annual,Auto-Debit,1,3,1.2,39,0,1,20
+SUB-11272,USR-1447,Adobe Creative Cloud,Productivity,Standard,52.28,Monthly,Credit Card,1,0,2.3,46,0,2,8
+SUB-11273,USR-3875,Disney+,Streaming,Basic,7.95,Monthly,Credit Card,1,17,74.0,0,0,2,8
+SUB-11274,USR-2738,Peloton Digital,Fitness,Basic,12.11,Monthly,Credit Card,1,8,12.0,5,1,1,20
+SUB-11275,USR-3741,Netflix,Streaming,Premium,21.8,Annual,Auto-Debit,0,20,63.5,1,0,2,1
+SUB-11276,USR-1016,Spotify,Streaming,Premium,17.19,Annual,Credit Card,1,13,5.6,11,0,1,11
+SUB-11277,USR-2565,ChatGPT Plus,Productivity,Premium,31.3,Annual,Debit Card,1,8,17.4,18,0,1,12
+SUB-11278,USR-4162,ChatGPT Plus,Productivity,Premium,29.21,Annual,PayPal,1,22,23.3,3,1,2,15
+SUB-11279,USR-3412,Google One / Drive,Cloud Storage,Premium,25.71,Monthly,PayPal,1,11,14.8,18,0,2,28
+SUB-11280,USR-2290,Xbox Game Pass,Gaming,Basic,11.93,Annual,Debit Card,1,0,0.4,68,0,1,28
+SUB-11281,USR-3659,Disney+,Streaming,Premium,18.18,Monthly,Debit Card,1,16,19.0,2,0,2,9
+SUB-11282,USR-3260,Microsoft 365,Productivity,Standard,13.55,Annual,Credit Card,0,26,28.8,0,1,3,29
+SUB-11283,USR-3063,ChatGPT Plus,Productivity,Premium,30.47,Annual,Credit Card,1,26,59.3,1,2,2,10
+SUB-11284,USR-2752,Gym Membership (Anytime/Gold),Fitness,Standard,50.53,Monthly,Credit Card,1,18,21.5,0,0,4,4
+SUB-11285,USR-1038,PlayStation Plus,Gaming,Standard,15.19,Monthly,Debit Card,1,13,14.2,10,0,2,20
+SUB-11286,USR-2161,Coursera Plus,Education,Premium,56.45,Monthly,Debit Card,1,15,19.7,2,0,4,7
+SUB-11287,USR-2647,Peloton Digital,Fitness,Standard,24.5,Annual,Credit Card,1,16,27.0,4,0,3,36
+SUB-11288,USR-1991,ChatGPT Plus,Productivity,Standard,20.14,Monthly,Debit Card,1,0,1.4,42,0,2,18
+SUB-11289,USR-4100,Disney+,Streaming,Standard,13.46,Annual,PayPal,1,21,0.0,0,0,1,49
+SUB-11290,USR-1493,Google One / Drive,Cloud Storage,Basic,2.06,Monthly,Credit Card,1,0,1.0,28,1,1,30
+SUB-11291,USR-1430,Microsoft 365,Productivity,Standard,13.63,Monthly,Credit Card,1,8,9.6,6,0,3,26
+SUB-11292,USR-1321,Coursera Plus,Education,Basic,18.78,Annual,Credit Card,1,1,0.4,65,0,1,11
+SUB-11293,USR-2934,Peloton Digital,Fitness,Standard,23.88,Monthly,Debit Card,1,26,56.8,0,0,4,6
+SUB-11294,USR-4117,Coursera Plus,Education,Standard,40.92,Monthly,Debit Card,1,19,34.8,2,0,1,6
+SUB-11295,USR-3529,Duolingo Super,Education,Premium,18.84,Monthly,Debit Card,1,0,2.0,58,0,2,1
+SUB-11296,USR-3448,iCloud Storage,Cloud Storage,Premium,29.49,Monthly,Debit Card,1,17,16.1,0,0,1,16
+SUB-11297,USR-3451,Netflix,Streaming,Basic,9.96,Annual,Debit Card,1,18,50.2,4,0,2,34
+SUB-11298,USR-1001,Google One / Drive,Cloud Storage,Basic,2.01,Monthly,Debit Card,1,10,18.1,19,1,3,3
+SUB-11299,USR-2902,Duolingo Super,Education,Standard,12.64,Monthly,PayPal,1,6,8.4,4,0,1,4
+SUB-11300,USR-4361,Coursera Plus,Education,Standard,37.09,Monthly,Credit Card,1,21,48.3,0,0,2,8
+SUB-11301,USR-1385,Google One / Drive,Cloud Storage,Basic,1.99,Annual,Credit Card,1,1,2.5,31,1,2,7
+SUB-11302,USR-3509,Microsoft 365,Productivity,Standard,13.17,Monthly,Auto-Debit,1,17,18.7,0,0,2,60
+SUB-11303,USR-2276,iCloud Storage,Cloud Storage,Premium,30.66,Annual,Credit Card,1,19,24.4,3,1,3,4
+SUB-11304,USR-3666,Xbox Game Pass,Gaming,Standard,17.47,Monthly,Debit Card,1,12,12.5,5,0,2,7
+SUB-11305,USR-1161,Xbox Game Pass,Gaming,Standard,16.79,Monthly,Credit Card,0,15,10.4,12,0,2,1
+SUB-11306,USR-3804,Google One / Drive,Cloud Storage,Basic,1.92,Monthly,Auto-Debit,1,0,2.2,77,0,1,7
+SUB-11307,USR-2378,Disney+,Streaming,Basic,7.62,Monthly,Debit Card,1,0,1.3,22,0,1,3
+SUB-11308,USR-1221,ChatGPT Plus,Productivity,Basic,9.6,Monthly,Credit Card,1,2,2.5,22,0,1,31
+SUB-11309,USR-3241,Adobe Creative Cloud,Productivity,Standard,54.02,Annual,PayPal,0,0,0.0,65,0,1,2
+SUB-11310,USR-1022,Peloton Digital,Fitness,Basic,11.77,Annual,Credit Card,1,7,12.6,10,0,2,3
+SUB-11311,USR-4047,Spotify,Streaming,Basic,6.35,Monthly,Debit Card,1,25,34.2,0,0,2,3
+SUB-11312,USR-3762,Xbox Game Pass,Gaming,Standard,16.54,Monthly,Auto-Debit,1,12,10.4,16,0,3,14
+SUB-11313,USR-2193,Duolingo Super,Education,Standard,12.98,Monthly,Credit Card,1,8,8.1,8,0,3,10
+SUB-11314,USR-2003,Peloton Digital,Fitness,Standard,25.1,Monthly,PayPal,1,14,13.3,14,0,2,31
+SUB-11315,USR-4368,Spotify,Streaming,Basic,6.57,Annual,Auto-Debit,1,5,16.7,17,0,1,19
+SUB-11316,USR-3407,PlayStation Plus,Gaming,Premium,22.68,Monthly,Credit Card,1,1,0.3,59,0,1,24
+SUB-11317,USR-4012,PlayStation Plus,Gaming,Basic,10.15,Monthly,Credit Card,1,0,1.9,86,0,1,19
+SUB-11318,USR-3317,Peloton Digital,Fitness,Basic,11.86,Annual,Debit Card,1,26,44.9,5,0,2,16
+SUB-11319,USR-1352,Adobe Creative Cloud,Productivity,Standard,57.64,Monthly,PayPal,1,3,0.0,74,1,2,27
+SUB-11320,USR-2466,Gym Membership (Anytime/Gold),Fitness,Standard,49.39,Monthly,Credit Card,1,17,26.6,0,1,1,2
+SUB-11321,USR-2853,Spotify,Streaming,Standard,11.38,Annual,Credit Card,1,9,16.2,5,2,2,2
+SUB-11322,USR-3769,Duolingo Super,Education,Standard,12.9,Annual,Debit Card,1,21,17.5,0,1,4,10
+SUB-11323,USR-4245,Gym Membership (Anytime/Gold),Fitness,Basic,30.36,Annual,Debit Card,1,28,54.6,2,1,2,18
+SUB-11324,USR-4486,ChatGPT Plus,Productivity,Standard,19.63,Annual,Credit Card,1,2,2.0,89,0,1,16
+SUB-11325,USR-1290,Gym Membership (Anytime/Gold),Fitness,Basic,30.56,Monthly,Credit Card,1,1,1.8,80,0,1,8
+SUB-11326,USR-2023,Netflix,Streaming,Premium,22.19,Monthly,Debit Card,1,26,55.2,0,0,2,9
+SUB-11327,USR-1088,iCloud Storage,Cloud Storage,Standard,10.38,Monthly,Credit Card,1,0,0.8,71,0,1,60
+SUB-11328,USR-4148,Peloton Digital,Fitness,Basic,11.57,Monthly,Credit Card,1,19,25.3,1,0,3,7
+SUB-11329,USR-4236,Duolingo Super,Education,Basic,8.93,Monthly,PayPal,1,15,67.9,0,2,2,18
+SUB-11330,USR-1396,Google One / Drive,Cloud Storage,Premium,24.56,Annual,PayPal,1,26,19.0,2,0,3,4
+SUB-11331,USR-2980,Xbox Game Pass,Gaming,Basic,11.78,Annual,Credit Card,1,0,2.0,85,0,1,2
+SUB-11332,USR-1577,ChatGPT Plus,Productivity,Basic,9.72,Monthly,PayPal,1,15,4.7,10,2,1,12
+SUB-11333,USR-1429,PlayStation Plus,Gaming,Basic,10.06,Monthly,Credit Card,1,19,42.0,0,0,3,4
+SUB-11334,USR-3054,Netflix,Streaming,Premium,23.24,Monthly,PayPal,1,0,1.6,31,0,1,3
+SUB-11335,USR-3913,iCloud Storage,Cloud Storage,Standard,9.91,Monthly,Credit Card,1,9,15.1,13,0,1,8
+SUB-11336,USR-3924,Duolingo Super,Education,Basic,8.85,Annual,PayPal,1,7,9.8,11,0,3,6
+SUB-11337,USR-4062,iCloud Storage,Cloud Storage,Basic,3.06,Monthly,PayPal,1,0,0.1,66,0,1,6
+SUB-11338,USR-2818,Gym Membership (Anytime/Gold),Fitness,Premium,86.05,Annual,Auto-Debit,1,13,6.0,16,0,2,3
+SUB-11339,USR-1876,Peloton Digital,Fitness,Basic,11.8,Annual,Credit Card,1,1,2.4,62,0,1,15
+SUB-11340,USR-3432,PlayStation Plus,Gaming,Standard,15.68,Monthly,Credit Card,1,0,0.0,58,0,1,7
+SUB-11341,USR-4220,Coursera Plus,Education,Standard,38.06,Monthly,Credit Card,1,12,16.8,6,0,1,17
+SUB-11342,USR-2559,Adobe Creative Cloud,Productivity,Standard,52.69,Monthly,Credit Card,1,23,74.0,4,1,1,13
+SUB-11343,USR-3277,Google One / Drive,Cloud Storage,Standard,10.37,Annual,Debit Card,1,0,0.2,38,0,1,33
+SUB-11344,USR-4446,Adobe Creative Cloud,Productivity,Standard,54.27,Annual,Credit Card,1,0,0.4,65,1,1,9
+SUB-11345,USR-2046,ChatGPT Plus,Productivity,Basic,9.53,Annual,Credit Card,1,0,2.4,40,1,1,23
+SUB-11346,USR-1531,Coursera Plus,Education,Standard,38.28,Annual,Credit Card,0,16,29.6,1,1,2,49
+SUB-11347,USR-1929,iCloud Storage,Cloud Storage,Standard,10.1,Monthly,Credit Card,1,2,1.9,24,0,1,8
+SUB-11348,USR-3092,Gym Membership (Anytime/Gold),Fitness,Basic,30.49,Monthly,Auto-Debit,1,9,19.8,17,0,3,4
+SUB-11349,USR-1070,Disney+,Streaming,Premium,18.35,Annual,PayPal,1,23,39.6,1,0,4,56
+SUB-11350,USR-4451,Adobe Creative Cloud,Productivity,Standard,53.52,Annual,Credit Card,1,18,50.7,3,1,3,2
+SUB-11351,USR-1800,Gym Membership (Anytime/Gold),Fitness,Basic,28.93,Monthly,Auto-Debit,1,20,24.6,4,0,3,39
+SUB-11352,USR-1221,Netflix,Streaming,Standard,15.77,Monthly,Credit Card,1,0,2.2,78,0,2,9
+SUB-11353,USR-3752,Netflix,Streaming,Standard,15.09,Monthly,Auto-Debit,0,1,1.3,69,0,1,19
+SUB-11354,USR-3151,Spotify,Streaming,Standard,10.59,Monthly,Credit Card,1,1,1.1,34,0,1,3
+SUB-11355,USR-1822,Adobe Creative Cloud,Productivity,Premium,89.91,Annual,Credit Card,1,26,74.7,0,0,2,20
+SUB-11356,USR-4335,Peloton Digital,Fitness,Basic,11.57,Annual,Credit Card,1,0,1.2,45,0,2,13
+SUB-11357,USR-4467,PlayStation Plus,Gaming,Premium,21.53,Monthly,Debit Card,1,15,19.2,9,0,2,14
+SUB-11358,USR-1349,PlayStation Plus,Gaming,Standard,14.41,Annual,PayPal,1,2,0.8,36,0,1,52
+SUB-11359,USR-1845,Disney+,Streaming,Standard,14.01,Monthly,Debit Card,1,16,64.9,1,0,2,1
+SUB-11360,USR-1320,Google One / Drive,Cloud Storage,Standard,9.92,Annual,Credit Card,1,17,72.7,0,1,2,1
+SUB-11361,USR-3058,Netflix,Streaming,Standard,16.23,Monthly,Auto-Debit,0,0,2.1,27,0,1,6
+SUB-11362,USR-3694,Duolingo Super,Education,Standard,12.71,Monthly,Auto-Debit,0,0,0.7,44,0,1,21
+SUB-11363,USR-3547,Duolingo Super,Education,Premium,18.51,Annual,Credit Card,1,0,1.7,47,0,1,4
+SUB-11364,USR-1956,Peloton Digital,Fitness,Basic,11.47,Annual,Credit Card,1,0,0.4,74,1,1,44
+SUB-11365,USR-3150,Duolingo Super,Education,Premium,18.57,Monthly,Credit Card,1,11,18.6,14,0,3,4
+SUB-11366,USR-2405,PlayStation Plus,Gaming,Basic,9.71,Monthly,PayPal,1,0,1.4,84,0,1,37
+SUB-11367,USR-2712,Xbox Game Pass,Gaming,Basic,11.46,Monthly,Credit Card,1,29,22.6,4,0,3,4
+SUB-11368,USR-1625,Google One / Drive,Cloud Storage,Basic,2.04,Annual,Credit Card,1,20,62.1,2,0,2,4
+SUB-11369,USR-3903,PlayStation Plus,Gaming,Standard,14.95,Annual,PayPal,1,2,1.6,54,0,2,2
+SUB-11370,USR-1730,Gym Membership (Anytime/Gold),Fitness,Standard,50.39,Annual,Credit Card,1,3,1.3,31,0,2,31
+SUB-11371,USR-2654,Xbox Game Pass,Gaming,Standard,16.5,Annual,Credit Card,1,8,18.1,9,0,1,10
+SUB-11372,USR-3555,Peloton Digital,Fitness,Basic,11.93,Annual,Credit Card,0,13,9.9,4,1,2,16
+SUB-11373,USR-2901,Disney+,Streaming,Standard,13.65,Monthly,Debit Card,1,22,71.5,6,1,2,1
+SUB-11374,USR-3097,Duolingo Super,Education,Standard,13.23,Monthly,Auto-Debit,0,29,50.7,3,0,3,1
+SUB-11375,USR-1454,Coursera Plus,Education,Standard,40.82,Monthly,Credit Card,1,8,16.7,4,0,2,6
+SUB-11376,USR-1366,Netflix,Streaming,Standard,14.97,Monthly,Credit Card,1,15,4.1,10,1,1,16
+SUB-11377,USR-2831,Gym Membership (Anytime/Gold),Fitness,Basic,29.3,Monthly,Credit Card,1,0,1.5,57,0,1,1
+SUB-11378,USR-3365,iCloud Storage,Cloud Storage,Standard,9.98,Monthly,PayPal,1,0,2.0,66,0,1,2
+SUB-11379,USR-3797,Google One / Drive,Cloud Storage,Standard,10.3,Monthly,Credit Card,1,11,14.9,17,0,1,60
+SUB-11380,USR-4296,iCloud Storage,Cloud Storage,Basic,2.85,Annual,Debit Card,1,15,60.7,2,1,1,8
+SUB-11381,USR-1237,Google One / Drive,Cloud Storage,Basic,1.99,Monthly,Auto-Debit,0,1,1.3,31,0,2,1
+SUB-11382,USR-4419,Google One / Drive,Cloud Storage,Standard,9.54,Monthly,Debit Card,0,1,1.9,58,0,2,6
+SUB-11383,USR-2107,Netflix,Streaming,Standard,15.81,Monthly,Debit Card,1,7,12.0,9,0,3,30
+SUB-11384,USR-1246,Spotify,Streaming,Standard,11.39,Monthly,Debit Card,1,15,20.1,0,1,3,8
+SUB-11385,USR-2317,Duolingo Super,Education,Premium,19.27,Monthly,PayPal,1,25,60.6,1,0,3,21
+SUB-11386,USR-1346,ChatGPT Plus,Productivity,Basic,9.78,Monthly,Debit Card,0,15,7.9,14,0,3,1
+SUB-11387,USR-4307,Gym Membership (Anytime/Gold),Fitness,Basic,30.35,Monthly,Credit Card,1,1,2.3,27,0,1,1
+SUB-11388,USR-1164,Xbox Game Pass,Gaming,Standard,17.45,Monthly,Auto-Debit,0,1,0.0,66,1,1,5
+SUB-11389,USR-2540,Duolingo Super,Education,Premium,20.45,Annual,Debit Card,1,25,18.6,0,0,2,1
+SUB-11390,USR-1219,Adobe Creative Cloud,Productivity,Standard,55.86,Monthly,Credit Card,1,15,18.5,14,0,3,17
+SUB-11391,USR-4308,Coursera Plus,Education,Premium,56.84,Monthly,PayPal,1,10,18.3,7,0,1,37
+SUB-11392,USR-2840,Spotify,Streaming,Basic,6.47,Monthly,Credit Card,1,26,70.4,0,0,2,44
+SUB-11393,USR-3035,Microsoft 365,Productivity,Standard,13.15,Monthly,Auto-Debit,1,7,12.7,8,0,1,7
+SUB-11394,USR-3405,Gym Membership (Anytime/Gold),Fitness,Premium,87.7,Monthly,Credit Card,0,5,6.4,10,2,1,25
+SUB-11395,USR-1127,Gym Membership (Anytime/Gold),Fitness,Standard,50.58,Monthly,Credit Card,1,2,0.0,65,0,1,1
+SUB-11396,USR-1182,Netflix,Streaming,Standard,15.65,Annual,Debit Card,1,5,14.8,5,0,1,6
+SUB-11397,USR-3250,Duolingo Super,Education,Basic,9.14,Monthly,Debit Card,1,0,1.0,62,1,2,23
+SUB-11398,USR-3294,Microsoft 365,Productivity,Basic,7.12,Annual,PayPal,1,21,64.7,0,1,4,9
+SUB-11399,USR-2557,PlayStation Plus,Gaming,Premium,22.12,Monthly,Credit Card,1,10,13.0,13,0,1,60
+SUB-11400,USR-3338,Adobe Creative Cloud,Productivity,Basic,21.84,Annual,Credit Card,1,0,2.4,53,0,1,43
+SUB-11401,USR-3274,Coursera Plus,Education,Basic,19.41,Monthly,PayPal,1,20,72.7,0,0,2,1
+SUB-11402,USR-3913,Coursera Plus,Education,Standard,38.34,Monthly,Credit Card,1,8,6.2,17,0,2,19
+SUB-11403,USR-2367,Xbox Game Pass,Gaming,Basic,12.09,Annual,Auto-Debit,1,27,63.1,1,0,2,19
+SUB-11404,USR-2422,Peloton Digital,Fitness,Basic,12.22,Monthly,Debit Card,1,11,18.6,7,0,1,17
+SUB-11405,USR-3415,Disney+,Streaming,Standard,13.62,Annual,Credit Card,1,1,0.1,52,0,1,9
+SUB-11406,USR-3608,Gym Membership (Anytime/Gold),Fitness,Standard,48.68,Annual,Debit Card,1,3,2.0,68,0,1,19
+SUB-11407,USR-1144,PlayStation Plus,Gaming,Premium,21.52,Monthly,Debit Card,1,10,12.8,10,2,3,5
+SUB-11408,USR-3471,ChatGPT Plus,Productivity,Standard,20.57,Annual,Auto-Debit,1,0,0.1,53,0,1,1
+SUB-11409,USR-3950,Duolingo Super,Education,Basic,9.13,Annual,Credit Card,1,23,55.6,2,0,2,5
+SUB-11410,USR-3768,Gym Membership (Anytime/Gold),Fitness,Basic,28.52,Monthly,Debit Card,1,0,0.4,77,0,1,14
+SUB-11411,USR-3394,Duolingo Super,Education,Basic,9.39,Monthly,Credit Card,1,0,0.2,85,0,1,19
+SUB-11412,USR-2857,Gym Membership (Anytime/Gold),Fitness,Standard,51.36,Annual,Credit Card,1,0,1.8,29,0,1,1
+SUB-11413,USR-3160,Duolingo Super,Education,Standard,13.51,Monthly,Credit Card,1,0,1.3,71,0,1,29
+SUB-11414,USR-2415,Peloton Digital,Fitness,Premium,38.88,Annual,Debit Card,1,28,58.4,1,0,3,15
+SUB-11415,USR-4165,Netflix,Streaming,Premium,22.38,Monthly,PayPal,1,25,47.1,1,0,4,1
+SUB-11416,USR-3430,Netflix,Streaming,Premium,22.07,Monthly,PayPal,1,20,31.6,1,0,4,9
+SUB-11417,USR-1702,PlayStation Plus,Gaming,Basic,9.42,Monthly,PayPal,1,0,1.6,49,0,1,7
+SUB-11418,USR-4386,PlayStation Plus,Gaming,Standard,15.25,Monthly,PayPal,1,11,5.3,8,1,1,7
+SUB-11419,USR-1039,Xbox Game Pass,Gaming,Standard,17.59,Monthly,Debit Card,1,27,39.3,0,2,1,31
+SUB-11420,USR-3664,ChatGPT Plus,Productivity,Basic,9.79,Monthly,Credit Card,1,16,74.9,0,0,1,6
+SUB-11421,USR-2883,Coursera Plus,Education,Standard,39.24,Annual,Credit Card,0,19,68.4,4,0,3,12
+SUB-11422,USR-2439,PlayStation Plus,Gaming,Standard,14.24,Monthly,Credit Card,1,1,1.4,52,0,2,31
+SUB-11423,USR-2752,Google One / Drive,Cloud Storage,Premium,25.39,Monthly,Credit Card,0,26,27.1,0,0,2,17
+SUB-11424,USR-3996,Gym Membership (Anytime/Gold),Fitness,Premium,94.37,Monthly,Credit Card,1,23,60.1,0,0,4,18
+SUB-11425,USR-1594,PlayStation Plus,Gaming,Basic,9.39,Monthly,Credit Card,1,0,1.8,25,0,1,8
+SUB-11426,USR-1546,Google One / Drive,Cloud Storage,Basic,1.97,Annual,Credit Card,1,23,30.7,0,0,3,3
+SUB-11427,USR-2756,ChatGPT Plus,Productivity,Basic,10.18,Annual,Credit Card,1,16,35.9,0,0,2,5
+SUB-11428,USR-2752,Gym Membership (Anytime/Gold),Fitness,Basic,31.2,Annual,PayPal,1,0,0.4,84,0,1,20
+SUB-11429,USR-3241,iCloud Storage,Cloud Storage,Standard,10.04,Monthly,Credit Card,1,27,73.9,1,0,1,60
+SUB-11430,USR-1980,Spotify,Streaming,Premium,17.0,Monthly,Credit Card,0,18,61.5,1,0,3,8
+SUB-11431,USR-2898,Gym Membership (Anytime/Gold),Fitness,Basic,30.68,Annual,Debit Card,1,9,9.8,16,0,1,60
+SUB-11432,USR-1695,Gym Membership (Anytime/Gold),Fitness,Basic,29.94,Annual,Debit Card,1,16,63.4,1,0,2,43
+SUB-11433,USR-2436,Coursera Plus,Education,Standard,39.81,Monthly,Credit Card,1,27,15.2,0,0,2,25
+SUB-11434,USR-3635,Microsoft 365,Productivity,Basic,7.27,Annual,PayPal,1,23,15.2,0,0,1,13
+SUB-11435,USR-1879,Netflix,Streaming,Premium,23.86,Monthly,Debit Card,1,1,2.5,25,0,1,6
+SUB-11436,USR-2949,Peloton Digital,Fitness,Standard,24.24,Monthly,Credit Card,1,26,47.4,0,0,2,9
+SUB-11437,USR-2165,ChatGPT Plus,Productivity,Basic,9.5,Monthly,Debit Card,1,21,45.0,2,0,3,2
+SUB-11438,USR-1482,Google One / Drive,Cloud Storage,Basic,1.91,Annual,Credit Card,1,5,6.8,12,0,1,16
+SUB-11439,USR-2334,Netflix,Streaming,Standard,15.36,Annual,Credit Card,1,12,5.9,5,1,2,11
+SUB-11440,USR-2312,Duolingo Super,Education,Premium,19.64,Monthly,Credit Card,0,26,37.1,0,0,2,8
+SUB-11441,USR-3446,PlayStation Plus,Gaming,Standard,14.98,Monthly,Credit Card,1,0,1.1,50,0,1,1
+SUB-11442,USR-3734,PlayStation Plus,Gaming,Basic,9.86,Monthly,Credit Card,1,8,12.9,19,0,3,1
+SUB-11443,USR-1779,Netflix,Streaming,Standard,15.66,Monthly,Credit Card,1,25,26.3,0,0,3,20
+SUB-11444,USR-4357,Peloton Digital,Fitness,Standard,24.07,Monthly,PayPal,1,27,68.8,0,0,2,59
+SUB-11445,USR-1885,Spotify,Streaming,Standard,10.88,Annual,Debit Card,0,8,14.6,5,0,3,10
+SUB-11446,USR-2858,Peloton Digital,Fitness,Standard,23.36,Annual,Auto-Debit,1,21,68.3,8,0,3,5
+SUB-11447,USR-2358,Duolingo Super,Education,Standard,12.8,Monthly,Auto-Debit,1,25,46.8,0,1,1,13
+SUB-11448,USR-4255,Coursera Plus,Education,Standard,37.87,Annual,Auto-Debit,0,0,1.4,69,0,1,21
+SUB-11449,USR-3415,Google One / Drive,Cloud Storage,Basic,2.04,Monthly,Credit Card,1,0,0.4,75,0,1,42
+SUB-11450,USR-3782,Spotify,Streaming,Standard,10.46,Annual,Credit Card,1,23,26.2,0,0,2,2
+SUB-11451,USR-1320,Disney+,Streaming,Basic,8.34,Annual,PayPal,1,22,34.3,8,0,2,6
+SUB-11452,USR-2279,Netflix,Streaming,Basic,9.74,Monthly,Credit Card,1,25,59.0,0,0,4,14
+SUB-11453,USR-2646,ChatGPT Plus,Productivity,Premium,29.22,Monthly,PayPal,1,20,56.0,0,0,2,23
+SUB-11454,USR-1882,Disney+,Streaming,Premium,18.47,Monthly,Debit Card,1,11,19.2,4,0,2,10
+SUB-11455,USR-2136,Coursera Plus,Education,Standard,37.76,Annual,Auto-Debit,1,18,24.8,0,0,2,2
+SUB-11456,USR-3019,Microsoft 365,Productivity,Basic,7.41,Annual,Debit Card,1,27,19.2,0,0,2,29
+SUB-11457,USR-3126,Adobe Creative Cloud,Productivity,Standard,57.45,Monthly,PayPal,1,8,7.1,14,0,3,6
+SUB-11458,USR-1365,Coursera Plus,Education,Basic,20.16,Annual,PayPal,1,11,19.4,14,0,2,2
+SUB-11459,USR-1993,Disney+,Streaming,Standard,14.4,Monthly,Credit Card,0,15,29.5,0,0,2,5
+SUB-11460,USR-2874,Microsoft 365,Productivity,Standard,12.64,Monthly,Credit Card,1,27,38.1,0,1,2,10
+SUB-11461,USR-1861,Google One / Drive,Cloud Storage,Basic,2.04,Monthly,PayPal,1,0,0.5,62,0,1,1
+SUB-11462,USR-3635,Xbox Game Pass,Gaming,Premium,22.96,Annual,Debit Card,0,0,1.8,37,0,1,51
+SUB-11463,USR-1439,ChatGPT Plus,Productivity,Standard,20.12,Monthly,Credit Card,1,22,63.0,1,0,2,30
+SUB-11464,USR-2338,Peloton Digital,Fitness,Standard,24.71,Monthly,Credit Card,1,27,45.2,1,0,3,11
+SUB-11465,USR-2883,Coursera Plus,Education,Standard,39.38,Monthly,Credit Card,0,0,0.8,47,0,1,4
+SUB-11466,USR-4384,Adobe Creative Cloud,Productivity,Standard,56.81,Monthly,Auto-Debit,1,8,9.3,6,0,3,17
+SUB-11467,USR-1168,Xbox Game Pass,Gaming,Premium,21.39,Monthly,Debit Card,1,26,72.1,3,0,2,2
+SUB-11468,USR-3520,Peloton Digital,Fitness,Standard,24.24,Annual,Auto-Debit,1,1,2.1,54,0,1,60
+SUB-11469,USR-3594,ChatGPT Plus,Productivity,Premium,31.44,Annual,Credit Card,1,2,2.2,84,0,1,17
+SUB-11470,USR-2595,PlayStation Plus,Gaming,Standard,15.51,Annual,Debit Card,0,28,18.4,1,0,1,2
+SUB-11471,USR-1903,PlayStation Plus,Gaming,Standard,15.57,Monthly,Credit Card,1,24,28.4,2,0,1,28
+SUB-11472,USR-3943,Microsoft 365,Productivity,Basic,7.34,Monthly,PayPal,1,0,1.3,24,0,1,59
+SUB-11473,USR-1782,Disney+,Streaming,Premium,18.11,Monthly,Debit Card,1,21,31.9,0,0,2,8
+SUB-11474,USR-2671,ChatGPT Plus,Productivity,Premium,29.7,Monthly,PayPal,1,0,1.0,44,0,1,3
+SUB-11475,USR-1383,PlayStation Plus,Gaming,Premium,21.48,Monthly,Auto-Debit,1,6,13.7,16,0,2,3
+SUB-11476,USR-3964,Gym Membership (Anytime/Gold),Fitness,Premium,91.77,Monthly,Credit Card,1,20,71.9,1,0,3,15
+SUB-11477,USR-3952,PlayStation Plus,Gaming,Premium,21.95,Monthly,Credit Card,1,18,61.0,2,0,2,9
+SUB-11478,USR-1270,ChatGPT Plus,Productivity,Basic,9.97,Monthly,Debit Card,1,1,1.8,81,0,2,8
+SUB-11479,USR-1244,Adobe Creative Cloud,Productivity,Standard,57.25,Annual,Debit Card,1,0,2.1,85,0,1,3
+SUB-11480,USR-2835,Microsoft 365,Productivity,Standard,12.92,Monthly,Auto-Debit,0,29,31.7,5,0,1,21
+SUB-11481,USR-4166,Netflix,Streaming,Premium,22.66,Monthly,Debit Card,0,18,60.5,1,0,1,4
+SUB-11482,USR-2470,Spotify,Streaming,Standard,11.27,Annual,Credit Card,1,3,0.7,52,0,1,12
+SUB-11483,USR-3048,Microsoft 365,Productivity,Premium,21.75,Monthly,Credit Card,1,2,1.2,27,0,2,13
+SUB-11484,USR-3020,Spotify,Streaming,Standard,11.47,Monthly,PayPal,1,21,21.7,1,1,2,6
+SUB-11485,USR-1351,Duolingo Super,Education,Standard,13.41,Annual,Credit Card,1,18,17.5,0,0,2,6
+SUB-11486,USR-3282,ChatGPT Plus,Productivity,Standard,19.13,Annual,Credit Card,1,0,0.6,40,0,1,31
+SUB-11487,USR-4088,Gym Membership (Anytime/Gold),Fitness,Standard,48.06,Monthly,Debit Card,1,23,58.4,1,0,2,16
+SUB-11488,USR-1301,Gym Membership (Anytime/Gold),Fitness,Premium,89.14,Annual,Credit Card,1,12,12.8,11,0,1,13
+SUB-11489,USR-4083,Peloton Digital,Fitness,Basic,11.86,Monthly,Credit Card,1,27,24.9,0,0,2,10
+SUB-11490,USR-2898,Spotify,Streaming,Basic,6.36,Monthly,Credit Card,1,3,1.6,31,0,1,36
+SUB-11491,USR-4305,Google One / Drive,Cloud Storage,Standard,9.55,Monthly,Credit Card,0,24,44.0,0,0,1,2
+SUB-11492,USR-2021,Adobe Creative Cloud,Productivity,Standard,55.57,Annual,Debit Card,1,0,2.1,53,0,2,6
+SUB-11493,USR-2515,Coursera Plus,Education,Standard,40.38,Annual,Auto-Debit,1,1,0.3,30,1,1,1
+SUB-11494,USR-2504,Spotify,Streaming,Standard,11.15,Monthly,PayPal,1,19,46.3,1,0,3,4
+SUB-11495,USR-2016,Spotify,Streaming,Basic,6.67,Monthly,Auto-Debit,1,11,17.1,14,0,3,60
+SUB-11496,USR-1035,Spotify,Streaming,Basic,6.73,Monthly,Credit Card,1,29,35.0,0,0,2,2
+SUB-11497,USR-3677,Netflix,Streaming,Basic,10.36,Monthly,PayPal,1,1,1.2,39,1,2,34
+SUB-11498,USR-3547,PlayStation Plus,Gaming,Standard,15.31,Monthly,Auto-Debit,1,7,13.8,10,0,1,3
+SUB-11499,USR-1735,Adobe Creative Cloud,Productivity,Standard,55.16,Monthly,Debit Card,1,16,55.4,1,0,3,17
+SUB-11500,USR-2457,Peloton Digital,Fitness,Basic,11.81,Monthly,PayPal,1,11,7.1,6,0,2,28

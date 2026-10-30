@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SubWaste AI — Intelligent Subscription Waste & Underutilization Detection</title>
+  <meta name="description" content="AI-powered recurring subscription audit system. Detect dormant, underutilized, and economically wasteful subscriptions before auto-renewals drain your funds.">
+  
+  <!-- Modern Typography: Google Fonts Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand-wrapper">
+        <div class="logo-badge" id="appLogoBadge">⚡</div>
+        <div class="brand-info">
+          <h1>SubWaste AI</h1>
+          <p>Subscription Waste & Underutilization Intelligence</p>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <div class="health-pill" id="healthPill" title="FastAPI Lifespan Model Health">
+          <span class="pulse-dot" id="healthDot"></span>
+          <span id="healthText">Connecting to API...</span>
+        </div>
+        <a href="/docs" target="_blank" rel="noopener noreferrer" class="api-link-btn" id="swaggerDocsLink">
+          <span>Swagger API Docs ↗</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="main-content">
+
+    <!-- KPI Summary Grid -->
+    <section class="kpi-grid" aria-label="Portfolio Summary Statistics">
+      <article class="kpi-card" id="kpiCardSubs">
+        <div class="kpi-icon indigo">📊</div>
+        <div class="kpi-data">
+          <h3>Subscriptions Tracked</h3>
+          <div class="kpi-value" id="kpiTotalSubs">1,500</div>
+          <div class="kpi-subtext">Active telemetry dataset</div>
+        </div>
+      </article>
+
+      <article class="kpi-card" id="kpiCardSpend">
+        <div class="kpi-icon cyan">💳</div>
+        <div class="kpi-data">
+          <h3>Monthly Recurring Spend</h3>
+          <div class="kpi-value" id="kpiMonthlySpend">$34,850</div>
+          <div class="kpi-subtext">Across active subscriptions</div>
+        </div>
+      </article>
+
+      <article class="kpi-card" id="kpiCardWaste">
+        <div class="kpi-icon rose">⚠️</div>
+        <div class="kpi-data">
+          <h3>Wasteful / Dormant Subs</h3>
+          <div class="kpi-value" id="kpiWasteCount">458 (30.5%)</div>
+          <div class="kpi-subtext">Flagged by ML Classifier</div>
+        </div>
+      </article>
+
+      <article class="kpi-card highlight" id="kpiCardSavings">
+        <div class="kpi-icon emerald">💰</div>
+        <div class="kpi-data">
+          <h3>Potential Annual Savings</h3>
+          <div class="kpi-value" style="color: #34d399;" id="kpiAnnualSavings">$138,420</div>
+          <div class="kpi-subtext">Recoverable zombie spend</div>
+        </div>
+      </article>
+    </section>
+
+    <!-- Navigation Tabs -->
+    <nav class="tabs-navigation" aria-label="Dashboard Views">
+      <button class="tab-btn active" data-target="tabAuditor" id="tabBtnAuditor">
+        <span>⚡ Live Subscription Auditor</span>
+      </button>
+      <button class="tab-btn" data-target="tabBatch" id="tabBtnBatch">
+        <span>📁 Batch CSV Portfolio Audit</span>
+      </button>
+      <button class="tab-btn" data-target="tabModel" id="tabBtnModel">
+        <span>🧠 Model Intelligence & Metrics</span>
+      </button>
+    </nav>
+
+    <!-- Tab 1: Live Interactive Auditor -->
+    <section class="tab-panel active" id="tabAuditor" aria-label="Single Subscription Auditor">
+      <div class="auditor-layout">
+        
+        <!-- Left: Input Form Panel -->
+        <div class="glass-panel" id="auditorFormPanel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <h2>Audit a Subscription</h2>
+              <p>Test individual subscription telemetry with real-time ML risk scoring</p>
+            </div>
+          </div>
+
+          <!-- Presets Bar -->
+          <div class="presets-bar" aria-label="Quick Load Presets">
+            <span class="presets-label">Quick Presets:</span>
+            <button type="button" class="preset-chip" onclick="applyPreset('adobe')" id="presetAdobeBtn">Adobe CC (Forgotten)</button>
+            <button type="button" class="preset-chip" onclick="applyPreset('spotify')" id="presetSpotifyBtn">Spotify (Active)</button>
+            <button type="button" class="preset-chip" onclick="applyPreset('gym')" id="presetGymBtn">Gold's Gym (Zombie)</button>
+            <button type="button" class="preset-chip" onclick="applyPreset('cloud')" id="presetCloudBtn">Cloud Storage (Over-tiered)</button>
+          </div>
+
+          <!-- Form Grid -->
+          <form id="auditorForm">
+            <div class="form-grid">
+              
+              <div class="form-group full-width">
+                <label for="subName" class="form-label">Subscription Name</label>
+                <input type="text" id="subName" class="form-input" placeholder="e.g. Netflix, Adobe CC, Gym" required value="Adobe Creative Cloud">
+              </div>
+
+              <div class="form-group">
+                <label for="category" class="form-label">Category</label>
+                <select id="category" class="form-select">
+                  <option value="Productivity" selected>Productivity</option>
+                  <option value="Streaming">Streaming</option>
+                  <option value="Cloud Storage">Cloud Storage</option>
+                  <option value="Fitness">Fitness</option>
+                  <option value="Gaming">Gaming</option>
+                  <option value="Education">Education</option>
+                  <option value="Utilities">Utilities</option>
+                  <option value="Other">Other</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="planTier" class="form-label">Plan Tier</label>
+                <select id="planTier" class="form-select">
+                  <option value="Basic">Basic</option>
+                  <option value="Standard">Standard</option>
+                  <option value="Premium" selected>Premium</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="monthlyFee" class="form-label">Monthly Fee ($ USD)</label>
+                <input type="number" id="monthlyFee" class="form-input" step="0.01" min="0.01" required value="54.99">
+              </div>
+
+              <div class="form-group">
+                <label for="billingCycle" class="form-label">Billing Cycle</label>
+                <select id="billingCycle" class="form-select">
+                  <option value="Monthly" selected>Monthly</option>
+                  <option value="Annual">Annual</option>
+                </select>
+              </div>
+
+              <!-- Days Inactive Slider -->
+              <div class="form-group full-width">
+                <div class="form-label">
+                  <span>Days Since Last Login (Inactivity Recency)</span>
+                  <span class="label-val" id="daysInactiveLabel">48</span>
+                </div>
+                <div class="slider-container">
+                  <input type="range" id="daysInactiveSlider" class="form-slider" min="0" max="90" value="48">
+                  <input type="number" id="daysInactiveInput" class="form-input slider-number" min="0" max="90" value="48">
+                </div>
+              </div>
+
+              <!-- Hours Used Slider -->
+              <div class="form-group full-width">
+                <div class="form-label">
+                  <span>Hours Used in Past 30 Days</span>
+                  <span class="label-val" id="hoursUsedLabel">0.0</span>
+                </div>
+                <div class="slider-container">
+                  <input type="range" id="hoursUsedSlider" class="form-slider" min="0" max="80" step="0.5" value="0.0">
+                  <input type="number" id="hoursUsedInput" class="form-input slider-number" min="0" max="80" step="0.5" value="0.0">
+                </div>
+              </div>
+
+              <!-- Active Days Slider -->
+              <div class="form-group full-width">
+                <div class="form-label">
+                  <span>Active Calendar Days in Past Month</span>
+                  <span class="label-val" id="activeDaysLabel">0</span>
+                </div>
+                <div class="slider-container">
+                  <input type="range" id="activeDaysSlider" class="form-slider" min="0" max="31" value="0">
+                  <input type="number" id="activeDaysInput" class="form-input slider-number" min="0" max="31" value="0">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="autoRenew" class="form-label">Auto-Renew Enabled?</label>
+                <select id="autoRenew" class="form-select">
+                  <option value="1" selected>Yes (Automatic Renewal Active)</option>
+                  <option value="0">No (Manual Expiry)</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="devices" class="form-label">Profiles / Devices</label>
+                <input type="number" id="devices" class="form-input" min="1" max="10" value="1">
+              </div>
+
+            </div>
+
+            <button type="submit" class="btn-primary" id="auditSubmitBtn">
+              <span>Audit Subscription Now</span>
+            </button>
+          </form>
+        </div>
+
+        <!-- Right: Real-time Evaluation Card -->
+        <div class="result-container">
+          <div class="result-card wasteful" id="resultCard">
+            <div class="risk-header">
+              <span class="risk-tag high" id="resultRiskTag">HIGH RISK (Wasteful)</span>
+              <span style="font-size: 0.8rem; color: var(--text-dim);">Random Forest Analysis</span>
+            </div>
+
+            <h3 id="resultSubTitle" style="font-size: 1.3rem; margin-bottom: 1rem;">Adobe Creative Cloud ($54.99/mo)</h3>
+
+            <!-- Waste Probability Meter -->
+            <div class="meter-wrapper">
+              <div class="meter-header">
+                <span>Waste Likelihood</span>
+                <strong id="resultProbValue" style="color: #fb7185;">93.3%</strong>
+              </div>
+              <div class="meter-bar-bg">
+                <div class="meter-bar-fill high" id="resultBarFill" style="width: 93.3%;"></div>
+              </div>
+            </div>
+
+            <!-- Recommendation Box -->
+            <div class="recommendation-box">
+              <div class="recommendation-title">AI Recommendation</div>
+              <div class="recommendation-text" id="resultRecommendation">
+                Action: Cancel or Pause Immediately. You haven't logged in for 48 days while paying $54.99/month. Canceling saves you $659.88/year.
+              </div>
+            </div>
+
+            <!-- Derived Metrics -->
+            <div class="derived-grid">
+              <div class="derived-item">
+                <div class="derived-label">Unit Cost</div>
+                <div class="derived-val" id="resultUnitCost">$549.90/hr</div>
+              </div>
+              <div class="derived-item">
+                <div class="derived-label">Inactivity Ratio</div>
+                <div class="derived-val" id="resultInactivityRatio">1.60x cycle</div>
+              </div>
+              <div class="derived-item">
+                <div class="derived-label">Annual Drain</div>
+                <div class="derived-val" id="resultAnnualCost">$659.88/yr</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Tab 2: Batch CSV Portfolio Audit -->
+    <section class="tab-panel" id="tabBatch" aria-label="Batch CSV Audit">
+      <div class="glass-panel">
+        <div class="panel-header">
+          <div class="panel-title">
+            <h2>Batch Portfolio Audit via CSV</h2>
+            <p>Upload your recurring subscription list to evaluate multiple services and quantify total portfolio waste</p>
+          </div>
+        </div>
+
+        <!-- Drag & Drop Zone -->
+        <div class="upload-card" id="csvDropZone">
+          <div class="upload-icon">📂</div>
+          <div class="upload-title">Drag & Drop your Subscriptions CSV here</div>
+          <div class="upload-subtitle">Supports standard columns: subscription_name, monthly_fee, days_since_last_login, hours_used_per_month</div>
+          
+          <div class="upload-actions">
+            <input type="file" id="csvFileInput" accept=".csv" style="display: none;">
+            <button type="button" class="btn-primary" style="width: auto; margin-top: 0;" onclick="document.getElementById('csvFileInput').click()" id="chooseCsvBtn">
+              Browse CSV File
+            </button>
+            <button type="button" class="btn-secondary" onclick="downloadSampleCSV()" id="downloadSampleBtn">
+              📥 Download Sample CSV
+            </button>
+          </div>
+        </div>
+
+        <!-- Table Results Container -->
+        <div id="batchTableContainer" style="display: none;">
+          <h3 style="font-size: 1.1rem; margin-bottom: 0.75rem;">Audited Subscription Results</h3>
+          <div class="table-container">
+            <table class="styled-table" id="batchTable">
+              <thead>
+                <tr>
+                  <th>Subscription</th>
+                  <th>Monthly Fee</th>
+                  <th>Status & Risk</th>
+                  <th>Unit Cost</th>
+                  <th>Annual Cost</th>
+                  <th>Actionable Recommendation</th>
+                </tr>
+              </thead>
+              <tbody id="batchTableBody">
+                <!-- Dynamically populated by app.js -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Tab 3: Model Intelligence & Diagnostics -->
+    <section class="tab-panel" id="tabModel" aria-label="Model Intelligence">
+      <div class="model-info-grid">
+        
+        <!-- Model Overview Card -->
+        <div class="glass-panel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <h2>Champion Model Architecture</h2>
+              <p>Trained Scikit-learn Pipeline with ColumnTransformer</p>
+            </div>
+          </div>
+
+          <div style="display: flex; flex-direction: column; gap: 1rem; margin-bottom: 1.5rem;">
+            <div>
+              <div style="font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase;">Algorithm</div>
+              <div style="font-size: 1.1rem; font-weight: 700; color: #818cf8;" id="metaModelType">RandomForestClassifier</div>
+            </div>
+            <div>
+              <div style="font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase;">Pipeline Composition</div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);">StandardScaler + OneHotEncoder(ignore) ➔ Random Forest (n=120, max_depth=8)</div>
+            </div>
+            <div>
+              <div style="font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase;">Class Balancing</div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);">Balanced sample weights applied to counteract 30% minority waste rate</div>
+            </div>
+          </div>
+
+          <h3 style="font-size: 0.95rem; margin-bottom: 0.75rem;">Held-Out Test Set Performance (300 Samples)</h3>
+          <div class="derived-grid" style="grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+            <div class="derived-item">
+              <div class="derived-label">Precision (Class 1)</div>
+              <div class="derived-val" style="color: #34d399;" id="metaPrecision">91.1%</div>
+            </div>
+            <div class="derived-item">
+              <div class="derived-label">F1-Score (Class 1)</div>
+              <div class="derived-val" style="color: #818cf8;" id="metaF1">84.2%</div>
+            </div>
+            <div class="derived-item">
+              <div class="derived-label">Recall (Class 1)</div>
+              <div class="derived-val" style="color: #22d3ee;" id="metaRecall">78.3%</div>
+            </div>
+            <div class="derived-item">
+              <div class="derived-label">Overall Accuracy</div>
+              <div class="derived-val" style="color: #e2e8f0;" id="metaAccuracy">91.0%</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Feature Importance Rankings -->
+        <div class="glass-panel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <h2>Top Predictive Features</h2>
+              <p>Gini Importance distribution across decision trees</p>
+            </div>
+          </div>
+
+          <div id="featureBarsContainer">
+            <!-- Dynamically populated by app.js -->
+          </div>
+
+          <div style="margin-top: 1.5rem; padding: 1rem; background: rgba(255, 255, 255, 0.03); border-radius: 8px; border: 1px solid var(--border-glass);">
+            <div style="font-size: 0.75rem; text-transform: uppercase; color: var(--text-dim); font-weight: 700; margin-bottom: 0.25rem;">Key Takeaway for Interviews</div>
+            <div style="font-size: 0.82rem; color: var(--text-muted); line-height: 1.5;">
+              Inactivity recency and monthly active consumption hours account for over 30% of total split decisions, confirming that consumer economic underutilization is governed primarily by usage dormancy rather than raw subscription price alone.
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toastContainer" aria-live="polite"></div>
+
+  <!-- Client Application Script -->
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

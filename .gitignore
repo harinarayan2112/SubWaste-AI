@@ -1,0 +1,35 @@
+# Python virtual environment and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Database files
+*.db
+*.sqlite3
+
+# Ignore model files by default
+*.pkl
+*.joblib
+
+# Include trained project model
+!models/subwaste_pipeline.joblib

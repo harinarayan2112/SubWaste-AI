@@ -1,0 +1,60 @@
+{
+    "model_type": "RandomForestClassifier",
+    "pipeline_steps": [
+        "preprocessor",
+        "classifier"
+    ],
+    "hyperparameters": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": "balanced",
+        "criterion": "gini",
+        "max_depth": 8,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 2,
+        "min_samples_split": 4,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 120,
+        "n_jobs": -1,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+    },
+    "features": {
+        "numerical": [
+            "monthly_fee",
+            "usage_frequency_per_month",
+            "hours_used_per_month",
+            "days_since_last_login",
+            "support_tickets_last_3m",
+            "number_of_profiles_or_devices",
+            "subscription_age_months",
+            "cost_per_active_hour",
+            "cost_per_active_day",
+            "inactivity_ratio",
+            "utilization_rate",
+            "annual_projected_cost",
+            "fee_to_device_ratio"
+        ],
+        "categorical": [
+            "category",
+            "plan_tier",
+            "billing_cycle",
+            "payment_method",
+            "auto_renew"
+        ]
+    },
+    "evaluation_metrics": {
+        "accuracy": 0.91,
+        "precision": 0.9114,
+        "recall": 0.7826,
+        "f1_score": 0.8421,
+        "roc_auc": 0.848
+    },
+    "saved_at": "2026-10-19T23:11:48.574423"
+}

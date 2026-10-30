@@ -1,0 +1,9 @@
+subscription_name,category,plan_tier,monthly_fee,billing_cycle,payment_method,auto_renew,usage_frequency_per_month,hours_used_per_month,days_since_last_login,support_tickets_last_3m,number_of_profiles_or_devices,subscription_age_months
+Adobe Creative Cloud,Productivity,Premium,54.99,Monthly,Credit Card,1,0,0.0,52,0,1,16
+Spotify Family,Streaming,Standard,16.99,Monthly,Debit Card,1,26,45.0,1,0,4,24
+Gold's Gym Membership,Fitness,Premium,49.99,Monthly,Credit Card,1,1,0.5,60,0,1,10
+Netflix Premium,Streaming,Premium,22.99,Monthly,PayPal,1,18,32.0,2,0,3,30
+Coursera Plus,Education,Standard,39.00,Monthly,Credit Card,1,0,0.0,45,0,1,6
+PlayStation Plus,Gaming,Standard,14.99,Monthly,Credit Card,1,14,18.0,4,0,1,12
+Google One 2TB,Cloud Storage,Premium,9.99,Monthly,PayPal,1,1,0.2,38,0,1,18
+Duolingo Super,Education,Standard,12.99,Monthly,Debit Card,1,28,15.0,0,0,1,8
